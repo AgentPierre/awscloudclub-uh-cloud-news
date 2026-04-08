@@ -1,9 +1,9 @@
 const fs = require("fs/promises");
+const https = require("https");
 const path = require("path");
 const Parser = require("rss-parser");
 
 const parser = new Parser({
-  timeout: 15000,
   headers: {
     "User-Agent": "aws-cloud-news-dashboard/1.0"
   }
@@ -27,6 +27,9 @@ const FEEDS = [
     url: "https://aws.amazon.com/blogs/security/feed/"
   }
 ];
+
+const MAX_FEED_BYTES = 5 * 1024 * 1024; // 5 MB — V-002: body size limit
+const ALLOWED_HOSTNAME = "aws.amazon.com";
 
 function normalizeUrl(value) {
   try {
@@ -53,8 +56,62 @@ function toIsoDate(item) {
   return date.toISOString();
 }
 
+// V-001: custom transport — never follows redirects
+// V-002: enforces MAX_FEED_BYTES cap on response body
+// V-005: validates Content-Type before XML parsing
+async function fetchRawFeed(feedUrl) {
+  return new Promise((resolve, reject) => {
+    const parsed = new URL(feedUrl);
+    if (parsed.hostname !== ALLOWED_HOSTNAME) {
+      reject(new Error(`Blocked: hostname ${parsed.hostname} not in allowlist`));
+      return;
+    }
+    const req = https.get(feedUrl, { timeout: 15000 }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400) {
+        req.destroy();
+        reject(new Error(`Redirect not allowed: ${res.statusCode} -> ${res.headers.location}`));
+        return;
+      }
+      if (res.statusCode !== 200) {
+        req.destroy();
+        reject(new Error(`HTTP ${res.statusCode}`));
+        return;
+      }
+      const contentType = res.headers["content-type"] || "";
+      if (
+        !contentType.includes("xml") &&
+        !contentType.includes("rss") &&
+        !contentType.includes("atom")
+      ) {
+        req.destroy();
+        reject(new Error(`Unexpected Content-Type: ${contentType}`));
+        return;
+      }
+      let bytes = 0;
+      const chunks = [];
+      res.setEncoding("utf8");
+      res.on("data", (chunk) => {
+        bytes += Buffer.byteLength(chunk, "utf8");
+        if (bytes > MAX_FEED_BYTES) {
+          req.destroy();
+          reject(new Error(`Feed exceeded ${MAX_FEED_BYTES} byte limit`));
+          return;
+        }
+        chunks.push(chunk);
+      });
+      res.on("end", () => resolve(chunks.join("")));
+    });
+    req.on("error", reject);
+    req.on("timeout", () => {
+      req.destroy();
+      reject(new Error("Request timed out"));
+    });
+  });
+}
+
 async function fetchFeed(feed) {
-  const parsed = await parser.parseURL(feed.url);
+  const xml = await fetchRawFeed(feed.url);
+  const parsed = await parser.parseString(xml);
   return (parsed.items || []).map((entry) => {
     const link = normalizeUrl(entry.link || entry.guid);
     return {
@@ -67,8 +124,25 @@ async function fetchFeed(feed) {
 }
 
 async function main() {
-  const results = await Promise.all(FEEDS.map((feed) => fetchFeed(feed)));
-  const allItems = results.flat().filter((item) => item.title && item.link && item.pubDate);
+  // Per-feed error handling: one failing feed does not abort the rest
+  const results = await Promise.allSettled(FEEDS.map((feed) => fetchFeed(feed)));
+
+  const allItems = results
+    .flatMap((result, i) => {
+      if (result.status === "fulfilled") {
+        return result.value;
+      }
+      console.error(
+        `[WARN] Feed "${FEEDS[i].source}" failed: ${result.reason?.message ?? result.reason}`
+      );
+      return [];
+    })
+    .filter((item) => item.title && item.link && item.pubDate);
+
+  const failedCount = results.filter((r) => r.status === "rejected").length;
+  if (failedCount > 0) {
+    console.warn(`[WARN] ${failedCount} of ${FEEDS.length} feeds failed.`);
+  }
 
   const dedupedMap = new Map();
   for (const item of allItems) {
@@ -92,6 +166,9 @@ async function main() {
 }
 
 main().catch((error) => {
-  console.error("Failed to fetch AWS RSS feeds:", error instanceof Error ? error.message : String(error));
+  console.error(
+    "Failed to fetch AWS RSS feeds:",
+    error instanceof Error ? error.message : String(error)
+  );
   process.exit(1);
 });
