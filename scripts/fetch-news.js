@@ -25,6 +25,18 @@ const FEEDS = [
   {
     source: "AWS Security Blog",
     url: "https://aws.amazon.com/blogs/security/feed/"
+  },
+  {
+    source: "AWS Machine Learning Blog",
+    url: "https://aws.amazon.com/blogs/machine-learning/feed/"
+  },
+  {
+    source: "AWS Containers Blog",
+    url: "https://aws.amazon.com/blogs/containers/feed/"
+  },
+  {
+    source: "AWS Developer Tools Blog",
+    url: "https://aws.amazon.com/blogs/developer/feed/"
   }
 ];
 
@@ -153,7 +165,7 @@ async function main() {
 
   const items = Array.from(dedupedMap.values())
     .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime())
-    .slice(0, 30);
+    .slice(0, 60);
 
   const payload = {
     lastUpdated: new Date().toISOString(),

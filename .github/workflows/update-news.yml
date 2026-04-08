@@ -1,8 +1,8 @@
-name: Daily AWS News Refresh
+name: Hourly AWS News Refresh
 
 on:
   schedule:
-    - cron: '3 0 * * *'   # 12:03 AM UTC daily
+    - cron: '3 * * * *'   # 3 minutes past every hour UTC
   workflow_dispatch:       # allow manual trigger from GitHub UI
 
 permissions:

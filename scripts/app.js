@@ -2,12 +2,16 @@ const SOURCE_META = {
   "AWS What's New": { className: "source-whatsnew", short: "What's New" },
   "AWS News Blog": { className: "source-news", short: "News Blog" },
   "AWS Architecture Blog": { className: "source-architecture", short: "Architecture" },
-  "AWS Security Blog": { className: "source-security", short: "Security" }
+  "AWS Security Blog": { className: "source-security", short: "Security" },
+  "AWS Machine Learning Blog": { className: "source-ml", short: "Machine Learning" },
+  "AWS Containers Blog": { className: "source-containers", short: "Containers" },
+  "AWS Developer Tools Blog": { className: "source-devtools", short: "Dev Tools" }
 };
 
 const state = {
   items: [],
-  selectedSource: "All"
+  selectedSource: "All",
+  searchQuery: ""
 };
 
 const tabsEl = document.getElementById("tabs");
@@ -15,6 +19,7 @@ const cardsEl = document.getElementById("cards");
 const lastUpdatedEl = document.getElementById("lastUpdated");
 const breakingNewsTickerTextEl = document.getElementById("breakingNewsTickerText");
 const skeletonTemplate = document.getElementById("cardSkeletonTemplate");
+const searchInputEl = document.getElementById("searchInput");
 
 function timeAgo(isoDate) {
   const now = new Date();
@@ -86,11 +91,49 @@ function renderTabs() {
   tabsEl.appendChild(fragment);
 }
 
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+
+function isNew(isoDate) {
+  return Date.now() - new Date(isoDate).getTime() < ONE_DAY_MS;
+}
+
+function highlightText(text, query) {
+  if (!query) return null;
+  const lower = query.toLowerCase();
+  if (!text.toLowerCase().includes(lower)) return null;
+  const frag = document.createDocumentFragment();
+  let start = 0;
+  let idx;
+  while ((idx = text.toLowerCase().indexOf(lower, start)) !== -1) {
+    if (idx > start) {
+      frag.appendChild(document.createTextNode(text.slice(start, idx)));
+    }
+    const mark = document.createElement("mark");
+    mark.textContent = text.slice(idx, idx + query.length);
+    frag.appendChild(mark);
+    start = idx + query.length;
+  }
+  if (start < text.length) {
+    frag.appendChild(document.createTextNode(text.slice(start)));
+  }
+  return frag;
+}
+
 function renderCards() {
-  const filtered =
+  const query = state.searchQuery.trim();
+  let filtered =
     state.selectedSource === "All"
       ? state.items
       : state.items.filter((item) => item.source === state.selectedSource);
+
+  if (query) {
+    const lower = query.toLowerCase();
+    filtered = filtered.filter(
+      (item) =>
+        item.title.toLowerCase().includes(lower) ||
+        (item.source || "").toLowerCase().includes(lower)
+    );
+  }
 
   if (!filtered.length) {
     cardsEl.replaceChildren();
@@ -98,10 +141,10 @@ function renderCards() {
     article.className = "empty-state";
 
     const h2 = document.createElement("h2");
-    h2.textContent = "No articles found";
+    h2.textContent = query ? "No articles match your search" : "No articles found";
 
     const p = document.createElement("p");
-    p.textContent = "Try selecting another source tab.";
+    p.textContent = query ? "Try a different search term or clear the search." : "Try selecting another source tab.";
 
     article.appendChild(h2);
     article.appendChild(p);
@@ -127,20 +170,37 @@ function renderCards() {
     const cardTop = document.createElement("div");
     cardTop.className = "card-top";
 
+    const badgeGroup = document.createElement("div");
+    badgeGroup.className = "badge-group";
+
     const badge = document.createElement("span");
     badge.className = `source-badge ${meta.className}`;
     badge.textContent = meta.short;
+    badgeGroup.appendChild(badge);
+
+    if (isNew(item.pubDate)) {
+      const newBadge = document.createElement("span");
+      newBadge.className = "badge-new";
+      newBadge.textContent = "New";
+      newBadge.setAttribute("aria-label", "New article");
+      badgeGroup.appendChild(newBadge);
+    }
 
     const externalIndicator = document.createElement("span");
     externalIndicator.className = "external-indicator";
     externalIndicator.setAttribute("aria-hidden", "true");
     externalIndicator.textContent = "↗";
 
-    cardTop.appendChild(badge);
+    cardTop.appendChild(badgeGroup);
     cardTop.appendChild(externalIndicator);
 
     const h2 = document.createElement("h2");
-    h2.textContent = item.title;
+    const titleHighlight = highlightText(item.title, query);
+    if (titleHighlight) {
+      h2.appendChild(titleHighlight);
+    } else {
+      h2.textContent = item.title;
+    }
 
     const p = document.createElement("p");
     p.textContent = item.title;
@@ -188,6 +248,13 @@ tabsEl.addEventListener("click", (event) => {
   state.selectedSource = btn.getAttribute("data-source");
   renderAll();
 });
+
+if (searchInputEl) {
+  searchInputEl.addEventListener("input", () => {
+    state.searchQuery = searchInputEl.value;
+    renderCards();
+  });
+}
 
 async function initialize() {
   setLoadingSkeletons();
