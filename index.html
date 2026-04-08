@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="AWS Cloud News Dashboard aggregating official AWS RSS feeds." />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self';" />
+    <title>AWS Cloud News Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <section class="breaking-news-ticker" aria-label="Breaking News ticker">
+      <span class="ticker-label">Breaking News</span>
+      <div class="ticker-track">
+        <span id="breakingNewsTickerText">Loading latest AWS headlines...</span>
+      </div>
+    </section>
+    <div class="page-bg-glow" aria-hidden="true"></div>
+    <main class="app-shell">
+      <header class="app-header">
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">☁</div>
+          <div>
+            <h1>AWS Cloud News</h1>
+            <p>Real-time Updates from Official Sources</p>
+          </div>
+        </div>
+      </header>
+
+      <section class="filters" aria-label="News sources">
+        <div class="tabs-scroll" id="tabs"></div>
+      </section>
+
+      <section class="cards-grid" id="cards" aria-live="polite"></section>
+
+      <footer class="app-footer">
+        <span id="lastUpdated">Last updated: —</span>
+      </footer>
+    </main>
+
+    <template id="cardSkeletonTemplate">
+      <article class="news-card skeleton">
+        <div class="skeleton-line short"></div>
+        <div class="skeleton-line long"></div>
+        <div class="skeleton-line long"></div>
+        <div class="skeleton-line medium"></div>
+      </article>
+    </template>
+
+    <script>
+      const SOURCE_META = {
+        "AWS What's New": { className: "source-whatsnew", short: "What's New" },
+        "AWS News Blog": { className: "source-news", short: "News Blog" },
+        "AWS Architecture Blog": { className: "source-architecture", short: "Architecture" },
+        "AWS Security Blog": { className: "source-security", short: "Security" }
+      };
+
+      const state = {
+        items: [],
+        selectedSource: "All"
+      };
+
+      const tabsEl = document.getElementById("tabs");
+      const cardsEl = document.getElementById("cards");
+      const lastUpdatedEl = document.getElementById("lastUpdated");
+      const breakingNewsTickerTextEl = document.getElementById("breakingNewsTickerText");
+      const skeletonTemplate = document.getElementById("cardSkeletonTemplate");
+
+      function escapeHtml(text) {
+        const map = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" };
+        return String(text).replace(/[&<>"']/g, (m) => map[m]);
+      }
+
+      function timeAgo(isoDate) {
+        const now = new Date();
+        const date = new Date(isoDate);
+        const diffSec = Math.max(1, Math.floor((now - date) / 1000));
+        const units = [
+          ["y", 60 * 60 * 24 * 365],
+          ["mo", 60 * 60 * 24 * 30],
+          ["d", 60 * 60 * 24],
+          ["h", 60 * 60],
+          ["m", 60],
+          ["s", 1]
+        ];
+        for (const [unit, seconds] of units) {
+          const value = Math.floor(diffSec / seconds);
+          if (value >= 1) return `${value}${unit} ago`;
+        }
+        return "just now";
+      }
+
+      function sourceCounts(items) {
+        return items.reduce(
+          (acc, item) => {
+            acc[item.source] = (acc[item.source] || 0) + 1;
+            return acc;
+          },
+          { All: items.length }
+        );
+      }
+
+      function setLoadingSkeletons(count = 8) {
+        cardsEl.innerHTML = "";
+        const fragment = document.createDocumentFragment();
+        for (let i = 0; i < count; i += 1) {
+          fragment.appendChild(skeletonTemplate.content.cloneNode(true));
+        }
+        cardsEl.appendChild(fragment);
+      }
+
+      function renderTabs() {
+        const counts = sourceCounts(state.items);
+        const ordered = ["All", ...Object.keys(SOURCE_META)];
+
+        tabsEl.innerHTML = ordered
+          .map((source) => {
+            const active = source === state.selectedSource;
+            const label = source === "All" ? "All Sources" : SOURCE_META[source].short;
+            return `
+              <button
+                class="tab ${active ? "active" : ""}"
+                data-source="${escapeHtml(source)}"
+                type="button"
+                aria-pressed="${active}"
+              >
+                <span>${escapeHtml(label)}</span>
+                <span class="count">${counts[source] || 0}</span>
+              </button>
+            `;
+          })
+          .join("");
+      }
+
+      function renderCards() {
+        const filtered =
+          state.selectedSource === "All"
+            ? state.items
+            : state.items.filter((item) => item.source === state.selectedSource);
+
+        if (!filtered.length) {
+          cardsEl.innerHTML = `
+            <article class="empty-state">
+              <h2>No articles found</h2>
+              <p>Try selecting another source tab.</p>
+            </article>
+          `;
+          return;
+        }
+
+        cardsEl.innerHTML = filtered
+          .map((item, idx) => {
+            const meta = SOURCE_META[item.source] || { className: "source-default", short: item.source };
+            const safeLink = /^https:\/\//i.test(item.link) ? item.link : "#";
+            return `
+              <a
+                href="${escapeHtml(safeLink)}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="news-card fade-up"
+                style="animation-delay:${Math.min(idx * 35, 350)}ms"
+                aria-label="${escapeHtml(item.title)}"
+              >
+                <div class="card-top">
+                  <span class="source-badge ${meta.className}">${escapeHtml(meta.short)}</span>
+                  <span class="external-indicator" aria-hidden="true">↗</span>
+                </div>
+                <h2>${escapeHtml(item.title)}</h2>
+                <p>${escapeHtml(item.title)}</p>
+                <div class="card-meta">
+                  <time datetime="${escapeHtml(item.pubDate)}">${timeAgo(item.pubDate)}</time>
+                </div>
+              </a>
+            `;
+          })
+          .join("");
+      }
+
+      function renderAll() {
+        renderTabs();
+        renderCards();
+      }
+
+      function renderBreakingNewsTicker() {
+        if (!breakingNewsTickerTextEl) return;
+        if (!state.items.length) {
+          breakingNewsTickerTextEl.textContent = "No breaking AWS updates available yet.";
+          return;
+        }
+        const headlines = state.items
+          .slice(0, 8)
+          .map((item) => String(item.title || "").trim())
+          .filter(Boolean);
+        const joined = headlines.join(" • ");
+        breakingNewsTickerTextEl.textContent = `${joined} • ${joined}`;
+      }
+
+      tabsEl.addEventListener("click", (event) => {
+        const btn = event.target.closest("button[data-source]");
+        if (!btn) return;
+        state.selectedSource = btn.getAttribute("data-source");
+        renderAll();
+      });
+
+      async function initialize() {
+        setLoadingSkeletons();
+        try {
+          const response = await fetch("./news.json", { cache: "no-store" });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const payload = await response.json();
+          state.items = Array.isArray(payload.items) ? payload.items : [];
+          if (payload.lastUpdated) {
+            const updatedText = new Date(payload.lastUpdated).toLocaleString(undefined, {
+              dateStyle: "medium",
+              timeStyle: "short"
+            });
+            lastUpdatedEl.textContent = `Last updated: ${updatedText}`;
+          }
+          renderBreakingNewsTicker();
+          renderAll();
+        } catch (error) {
+          cardsEl.innerHTML = `
+            <article class="empty-state">
+              <h2>Unable to load news</h2>
+              <p>Check that <code>news.json</code> exists and is valid.</p>
+            </article>
+          `;
+          if (breakingNewsTickerTextEl) {
+            breakingNewsTickerTextEl.textContent = "Unable to load breaking news headlines.";
+          }
+          lastUpdatedEl.textContent = "Last updated: unavailable";
+        }
+      }
+
+      initialize();
+    </script>
+  </body>
+</html>
