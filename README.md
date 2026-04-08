@@ -314,3 +314,9 @@ Every change goes through a PR. Every PR is reviewed (by me and/or the agent). E
 - Add a search bar powered by simple client-side filtering
 - Explore AWS Amplify Hosting or S3+CloudFront as an alternative to GitHub Pages
 - Try GitHub Actions with AWS CLI to automate infrastructure deployments
+
+---
+
+## Author
+
+**AgentPierre** — [github.com/AgentPierre](https://github.com/AgentPierre)
