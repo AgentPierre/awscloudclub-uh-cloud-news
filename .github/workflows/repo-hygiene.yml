@@ -1,0 +1,37 @@
+name: Repository Hygiene Guard
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  block-local-only-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Fail on tracked local-only files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Reject files and directories that should never be committed.
+          deny_regex='^(\.claude/|\.vscode/|\.idea/|\.env($|\.)|.*\.local($|\.)|\.DS_Store$|Thumbs\.db$)'
+
+          violations="$(git ls-files | grep -E "$deny_regex" || true)"
+
+          if [[ -n "$violations" ]]; then
+            echo "Tracked local-only files detected:"
+            echo "$violations"
+            echo
+            echo "Remove these files from git tracking and keep them ignored."
+            exit 1
+          fi
+
+          echo "Repository hygiene guard passed."
