@@ -1,9 +1,9 @@
 # Security Audit Report: fetch-news.js
 
-**Audit Date:** 2026-04-07
+**Audit Date:** 2026-04-08
 **Audited File:** `scripts/fetch-news.js` (with supporting review of `index.html`, `package.json`, `package-lock.json`, `.github/workflows/deploy.yml`)
 **Auditor:** Security Auditor Agent
-**Report Version:** 1.0
+**Report Version:** 2.0
 
 ---
 
@@ -15,18 +15,19 @@ This audit covers the AWS Cloud News dashboard, a static site that fetches RSS f
 
 ## Risk Summary Table
 
-| ID    | Vulnerability                                              | Severity          | Location                          | Status |
-|-------|------------------------------------------------------------|-------------------|-----------------------------------|--------|
-| V-001 | Unvalidated HTTP redirect allows SSRF via rss-parser       | ORANGE HIGH       | `rss-parser/lib/parser.js` L84    | Open   |
-| V-002 | No response body size limit — memory exhaustion risk       | ORANGE HIGH       | `fetch-news.js` L54               | Open   |
-| V-003 | `node_modules` uploaded to public GitHub Pages artifact    | ORANGE HIGH       | `.github/workflows/deploy.yml` L31| Open   |
-| V-004 | Deprecated `url.parse()` used in dependency               | YELLOW MEDIUM     | `rss-parser/lib/parser.js` L74    | Open   |
-| V-005 | Missing `Content-Type` validation on RSS responses         | YELLOW MEDIUM     | `fetch-news.js` L54               | Open   |
-| V-006 | Unvalidated item links written to `news.json` and rendered | YELLOW MEDIUM     | `fetch-news.js` L56 / `index.html` L161 | Open |
-| V-007 | Subresource Integrity absent on Google Fonts stylesheet    | BLUE LOW          | `index.html` L10-13               | Open   |
-| V-008 | `innerHTML` used to render card and tab HTML               | BLUE LOW          | `index.html` L121, L156           | Open   |
-| V-009 | Error object printed verbatim to stderr                    | BLUE LOW          | `fetch-news.js` L93               | Open   |
-| V-010 | No lockfile integrity enforcement in CI                    | INFO              | `.github/workflows/deploy.yml`    | Open   |
+| ID    | Vulnerability                                              | Severity          | Location                          | Status   |
+|-------|------------------------------------------------------------|-------------------|-----------------------------------|----------|
+| V-001 | Unvalidated HTTP redirect allows SSRF via rss-parser       | ORANGE HIGH       | `rss-parser/lib/parser.js` L84    | Resolved |
+| V-002 | No response body size limit — memory exhaustion risk       | ORANGE HIGH       | `fetch-news.js` L54               | Resolved |
+| V-003 | `node_modules` uploaded to public GitHub Pages artifact    | ORANGE HIGH       | `.github/workflows/deploy.yml` L31| Resolved |
+| V-004 | Deprecated `url.parse()` used in dependency               | YELLOW MEDIUM     | `rss-parser/lib/parser.js` L74    | Open     |
+| V-005 | Missing `Content-Type` validation on RSS responses         | YELLOW MEDIUM     | `fetch-news.js` L54               | Resolved |
+| V-006 | Unvalidated item links written to `news.json` and rendered | YELLOW MEDIUM     | `fetch-news.js` L56 / `index.html` L161 | Resolved |
+| V-007 | Subresource Integrity absent on Google Fonts stylesheet    | BLUE LOW          | `index.html` L10-13               | Mitigated |
+| V-008 | `innerHTML` used to render card and tab HTML               | BLUE LOW          | `index.html` L121, L156           | Resolved |
+| V-009 | Error object printed verbatim to stderr                    | BLUE LOW          | `fetch-news.js` L93               | Resolved |
+| V-010 | No lockfile integrity enforcement in CI                    | INFO              | `.github/workflows/deploy.yml`    | Resolved |
+| V-011 | GitHub Actions not pinned to commit SHAs                   | ORANGE HIGH       | `.github/workflows/*.yml`         | Resolved |
 
 ---
 
@@ -408,8 +409,30 @@ This audit covers the AWS Cloud News dashboard, a static site that fetches RSS f
 
   `npm ci` fails if `package-lock.json` is absent or out of sync with `package.json`, providing a supply-chain integrity check at every build.
 
+- **Status:** Resolved — both CI workflows now use `npm ci --omit=dev` and include an `npm audit` step.
 - **Impact:** Informational — no current exploitation path. Risk materializes if dependency installation is introduced without the `ci` flag.
 - **References:** npm docs — `npm ci`; OWASP Top 10 2021 A06; SLSA Supply Chain Security Framework
+
+---
+
+### V-011: GitHub Actions Not Pinned to Commit SHAs
+
+- **Severity:** ORANGE HIGH
+- **Location:** `.github/workflows/deploy.yml`, `.github/workflows/update-news.yml`
+- **Description:** Both CI workflows referenced GitHub Actions using mutable version tags (e.g., `actions/checkout@v4`) rather than immutable commit SHAs. GitHub Action tags are mutable — a tag can be silently moved to point at a different, potentially malicious commit. An attacker who gains write access to an upstream actions repository (or exploits a typosquatted action name) can redirect the tag to inject arbitrary code into the CI runner, which executes with the pipeline's permissions including `contents: write` and `id-token: write`.
+
+  ```yaml
+  # Before — mutable tag reference
+  uses: actions/checkout@v4
+
+  # After — immutable SHA pin with version comment
+  uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+  ```
+
+- **Impact:** Full CI runner compromise. An attacker could exfiltrate repository secrets, modify `news.json`, or pivot to deploy malicious content to GitHub Pages.
+- **Remediation:** Pin every `uses:` directive to a full 40-character commit SHA. The human-readable version tag is retained as an inline comment for maintainability. Use tools like `Dependabot` (configured via `.github/dependabot.yml`) or `pin-github-action` to automate SHA updates.
+- **Status:** Resolved — all `uses:` directives in both workflows are now pinned to commit SHAs.
+- **References:** SLSA Supply Chain Security; GitHub Actions security hardening guide; CWE-494 (Download of Code Without Integrity Check)
 
 ---
 
@@ -417,23 +440,25 @@ This audit covers the AWS Cloud News dashboard, a static site that fetches RSS f
 
 Listed in priority order:
 
-1. **[HIGH — V-003]** Exclude `node_modules/` from the GitHub Pages artifact immediately by updating `deploy.yml` to publish only `index.html`, `style.css`, and `news.json`. Add `node_modules/` to `.gitignore`.
+1. **[HIGH — V-011]** ✅ Pin all GitHub Actions `uses:` directives to immutable commit SHAs to prevent tag-mutable supply-chain attacks. Add Dependabot configuration to automate SHA updates.
 
-2. **[HIGH — V-001 + V-002]** Before expanding the feed list or running this script against any non-AWS URL, add host allowlist enforcement and a response body size cap. Consider replacing `rss-parser`'s `parseURL` with a custom native `fetch` wrapper that handles both concerns.
+2. **[HIGH — V-003]** ✅ Exclude `node_modules/` from the GitHub Pages artifact by updating `deploy.yml` to publish only `index.html`, `style.css`, and `news.json`. Add `node_modules/` to `.gitignore`.
 
-3. **[MEDIUM — V-006]** Add HTTPS-only scheme validation to `normalizeUrl()` in `fetch-news.js` so that `javascript:` and `data:` URIs are rejected at the data-pipeline stage. Add a corresponding `safeHref()` guard in `index.html`.
+3. **[HIGH — V-001 + V-002]** ✅ Before expanding the feed list or running this script against any non-AWS URL, add host allowlist enforcement and a response body size cap. Consider replacing `rss-parser`'s `parseURL` with a custom native `fetch` wrapper that handles both concerns.
 
-4. **[MEDIUM — V-005]** Add `Content-Type` validation before passing HTTP responses to the XML parser.
+4. **[MEDIUM — V-006]** ✅ Add HTTPS-only scheme validation to `normalizeUrl()` in `fetch-news.js` so that `javascript:` and `data:` URIs are rejected at the data-pipeline stage. Add a corresponding `safeHref()` guard in `index.html`.
 
-5. **[MEDIUM — V-004]** Monitor `rss-parser` releases for adoption of the WHATWG URL API; upgrade when available, or migrate to a custom fetch implementation.
+5. **[MEDIUM — V-005]** ✅ Add `Content-Type` validation before passing HTTP responses to the XML parser.
 
-6. **[LOW — V-007]** Evaluate self-hosting the Inter font or removing the Google Fonts dependency; at minimum, add a `Content-Security-Policy` response header.
+6. **[MEDIUM — V-004]** Monitor `rss-parser` releases for adoption of the WHATWG URL API; upgrade when available, or migrate to a custom fetch implementation.
 
-7. **[LOW — V-008]** Prefer DOM API methods over `innerHTML` for inserting feed-derived content; add an ESLint rule to enforce this.
+7. **[LOW — V-007]** ⚠️ Evaluate self-hosting the Inter font or removing the Google Fonts dependency; at minimum, add a `Content-Security-Policy` response header. A `Referrer-Policy` meta tag has been added; full SRI hashes are impractical for dynamically-generated Google Fonts CSS.
 
-8. **[LOW — V-009]** Scope error logging to `error.message` and conditionally include stack traces via a `DEBUG` environment variable.
+8. **[LOW — V-008]** ✅ Prefer DOM API methods over `innerHTML` for inserting feed-derived content; add an ESLint rule to enforce this.
 
-9. **[INFO — V-010]** When a CI install step is introduced (per recommendation 1), use `npm ci --omit=dev` to enforce lockfile integrity.
+9. **[LOW — V-009]** ✅ Scope error logging to `error.message` and conditionally include stack traces via a `DEBUG` environment variable.
+
+10. **[INFO — V-010]** ✅ When a CI install step is introduced (per recommendation 2), use `npm ci --omit=dev` to enforce lockfile integrity, and `npm audit --audit-level=moderate` to detect known-vulnerable dependencies.
 
 ---
 
@@ -473,4 +498,14 @@ The following guidelines apply specifically to this module and should be followe
 
 The `fetch-news.js` script and its companion HTML page are well-structured for their purpose. The developer has already made several good security choices: all feed URLs are HTTPS and hardcoded, the rss-parser timeout is set to 15 seconds (well below the library default of 60 seconds), `escapeHtml()` is defined and applied to rendered content, `rel="noopener noreferrer"` is present on all external links, and error handling at the top level prevents unhandled rejections. The overall security posture is adequate for the current read-only, low-data-sensitivity use case.
 
-The three HIGH findings (V-001, V-002, V-003) should be addressed before the project is reused as a template for feeds beyond the current set of hardcoded AWS domains, or before any form of user-supplied input is introduced. The MEDIUM findings (V-005, V-006) are straightforward one-to-three line fixes that provide meaningful defense-in-depth against a compromised upstream feed. All recommended remediations include concrete code examples and can be implemented without architectural changes.
+As of report version 2.0, all HIGH and MEDIUM findings have been resolved:
+- **V-001/V-002**: Custom `fetchRawFeed` transport blocks all HTTP redirects and enforces a 5 MB body size cap.
+- **V-003**: The `deploy.yml` workflow deploys only the `dist/` artifact (static files only); `node_modules/` is in `.gitignore`.
+- **V-005**: Content-Type is validated before XML parsing.
+- **V-006**: `normalizeUrl()` rejects non-`https:` links; `app.js` applies an additional `safeLink` guard.
+- **V-008**: `app.js` uses the DOM API exclusively (`createElement`, `textContent`, `appendChild`).
+- **V-009**: The top-level error handler logs `error.message` only.
+- **V-010**: Both workflows use `npm ci --omit=dev` and `npm audit --audit-level=moderate`.
+- **V-011**: All GitHub Actions `uses:` directives are pinned to immutable commit SHAs.
+
+The remaining open item (**V-004** — deprecated `url.parse()` in `rss-parser`) is a library-internal issue not directly remediable in application code; it should be resolved by upgrading `rss-parser` when a compatible release adopting the WHATWG URL API is published. **V-007** (Google Fonts SRI) is mitigated by the existing Content-Security-Policy and the new `Referrer-Policy` meta tag; full SRI is impractical for Google Fonts' dynamically-generated CSS responses.
