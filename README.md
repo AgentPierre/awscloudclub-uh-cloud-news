@@ -1,6 +1,6 @@
 # ☁️ AWS Cloud News Dashboard
 
-> A fully automated, security-hardened static news dashboard for AWS — deployed to GitHub Pages and updated every day by GitHub Actions.
+> A fully automated, security-hardened static news dashboard for the AWS Cloud Club at the University of Houston — deployed to GitHub Pages and updated every day by GitHub Actions.
 
 **Live site:** https://agentpierre.github.io/awscloudclub-uh-cloud-news/
 
