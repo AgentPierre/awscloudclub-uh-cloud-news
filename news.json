@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T22:54:25.730Z",
+  "lastUpdated": "2026-04-09T23:48:35.066Z",
   "items": [
+    {
+      "title": "Amazon Bedrock now supports cost allocation by IAM user and role",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T21:50:00.000Z"
+    },
     {
       "title": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power",
       "source": "AWS What's New",
       "pubDate": "2026-04-03T21:49:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Data Automation now supports custom vocabulary",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-data-automation-vocabulary",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T21:29:00.000Z"
     }
   ]
 }
