@@ -319,6 +319,18 @@ body {
   font-size: 0.84rem;
 }
 
+.app-footer a {
+  color: var(--electric-blue);
+  text-decoration: none;
+}
+
+.app-footer a:hover,
+.app-footer a:focus-visible {
+  text-decoration: underline;
+  outline: 2px solid var(--electric-blue);
+  outline-offset: 2px;
+}
+
 .search-bar {
   margin: 0 0 1rem;
 }
