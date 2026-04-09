@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T14:05:41.629Z",
+  "lastUpdated": "2026-04-09T16:23:00.532Z",
   "items": [
+    {
+      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-09T14:47:57.000Z"
+    },
     {
       "title": "Build a multi-tenant configuration system with tagged storage patterns",
       "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems",
       "source": "AWS Security Blog",
       "pubDate": "2026-04-02T20:45:09.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-02T20:41:00.000Z"
     }
   ]
 }
