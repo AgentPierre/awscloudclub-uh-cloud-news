@@ -35,8 +35,8 @@ jobs:
       - name: Prepare site artifact
         run: |
           mkdir -p dist/scripts
-          cp index.html style.css news.json manifest.json dist/
-          cp scripts/app.js dist/scripts/
+          cp index.html resources.html learning-paths.html style.css news.json learning-resources.json manifest.json dist/
+          cp scripts/app.js scripts/resources.js scripts/learning-paths.js dist/scripts/
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
       - name: Upload artifact
