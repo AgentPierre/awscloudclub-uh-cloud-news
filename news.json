@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T20:05:52.295Z",
+  "lastUpdated": "2026-04-09T21:53:20.766Z",
   "items": [
+    {
+      "title": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T20:00:00.000Z"
+    },
     {
       "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
       "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent",
@@ -32,6 +38,12 @@
       "pubDate": "2026-04-09T17:06:07.000Z"
     },
     {
+      "title": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T17:00:00.000Z"
+    },
+    {
       "title": "AWS Marketplace announces the Discovery API for programmatic access to catalog data",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api",
       "source": "AWS What's New",
@@ -42,6 +54,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview",
       "source": "AWS What's New",
       "pubDate": "2026-04-09T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Serverless now supports Zstandard (zstd) codec for index compression",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T15:00:00.000Z"
     },
     {
       "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
@@ -342,24 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-data-automation-vocabulary",
       "source": "AWS What's New",
       "pubDate": "2026-04-03T21:29:00.000Z"
-    },
-    {
-      "title": "AWS Glue Schema Registry is now available in three more AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T21:04:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management",
-      "source": "AWS News Blog",
-      "pubDate": "2026-04-03T20:36:40.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T20:30:00.000Z"
     }
   ]
 }
