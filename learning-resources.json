@@ -1,0 +1,44 @@
+[
+  {
+    "emoji": "🆓",
+    "title": "AWS Free Tier",
+    "description": "Experience AWS for up to 6 months without cost or commitment. Includes always-free offers across 100+ services.",
+    "url": "https://aws.amazon.com/free/",
+    "tag": "Free Tier"
+  },
+  {
+    "emoji": "🎓",
+    "title": "AWS Cloud Practitioner Essentials",
+    "description": "Free 6-hour foundational course on AWS Skill Builder covering core cloud concepts, services, and pricing.",
+    "url": "https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7",
+    "tag": "Course"
+  },
+  {
+    "emoji": "📜",
+    "title": "AWS Certified Cloud Practitioner",
+    "description": "Entry-level AWS certification validating your understanding of the cloud. Great first cert for students.",
+    "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+    "tag": "Certification"
+  },
+  {
+    "emoji": "🛠️",
+    "title": "AWS Workshops",
+    "description": "Free hands-on labs and workshops built by AWS teams. Learn by building real things in the console.",
+    "url": "https://workshops.aws/",
+    "tag": "Hands-on"
+  },
+  {
+    "emoji": "🎮",
+    "title": "AWS Skill Builder",
+    "description": "Official AWS online learning center with 600+ free digital courses across all skill levels.",
+    "url": "https://skillbuilder.aws/",
+    "tag": "Course"
+  },
+  {
+    "emoji": "🌐",
+    "title": "AWS Educate",
+    "description": "Free program for students and educators with cloud learning content and AWS credits — no credit card needed.",
+    "url": "https://aws.amazon.com/education/awseducate/",
+    "tag": "Students"
+  }
+]
