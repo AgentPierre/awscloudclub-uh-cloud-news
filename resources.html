@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="AWS Cloud News Dashboard aggregating official AWS RSS feeds." />
+    <meta name="description" content="AWS Cloud resources — official documentation, free tier, and learning tools for cloud practitioners." />
     <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self';" />
     <meta name="referrer" content="no-referrer" />
     <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), interest-cohort=()" />
     <meta name="theme-color" content="#0f1419" />
     <link rel="manifest" href="./manifest.json" />
-    <title>AWS Cloud News Dashboard</title>
+    <title>Resources — AWS Cloud News</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,17 +19,11 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <section class="breaking-news-ticker" aria-label="Breaking News ticker">
-      <span class="ticker-label">Breaking News</span>
-      <div class="ticker-track">
-        <span id="breakingNewsTickerText">Loading latest AWS headlines...</span>
-      </div>
-    </section>
     <div class="page-bg-glow" aria-hidden="true"></div>
 
     <nav class="site-nav" aria-label="Site navigation">
-      <a href="./index.html" class="active">☁ News</a>
-      <a href="./resources.html">Resources</a>
+      <a href="./index.html">☁ News</a>
+      <a href="./resources.html" class="active">Resources</a>
       <a href="./learning-paths.html">Learning Paths</a>
     </nav>
 
@@ -39,43 +33,27 @@
           <div class="brand-icon" aria-hidden="true">☁</div>
           <div>
             <h1>AWS Cloud News</h1>
-            <p>Real-time Updates from Official Sources</p>
+            <p>Resources</p>
           </div>
         </div>
       </header>
 
-      <section class="filters" aria-label="News sources">
-        <div class="tabs-scroll" id="tabs"></div>
+      <section class="page-hero" aria-label="Page introduction">
+        <div class="page-hero-icon" aria-hidden="true">🔗</div>
+        <h1>AWS Resources</h1>
+        <p>Official AWS tools, documentation, and free-tier offerings to help you build, learn, and grow in the cloud.</p>
       </section>
 
-      <section class="search-bar" aria-label="Search articles">
-        <input
-          type="search"
-          id="searchInput"
-          placeholder="Search articles…"
-          autocomplete="off"
-          spellcheck="false"
-          aria-label="Search articles"
-        />
+      <section class="resources-list" id="resourcesList" aria-label="AWS resources">
+        <p style="color:var(--muted);text-align:center;padding:2rem 0;" id="loadingMsg">Loading resources…</p>
       </section>
-
-      <section class="cards-grid" id="cards" aria-live="polite"></section>
 
       <footer class="app-footer">
-        <span id="lastUpdated">Last updated: —</span>
+        <span>AWS Cloud News · Resources</span>
         <span> · Built by <a href="https://github.com/AgentPierre" rel="noopener noreferrer" target="_blank">AgentPierre</a></span>
       </footer>
     </main>
 
-    <template id="cardSkeletonTemplate">
-      <article class="news-card skeleton">
-        <div class="skeleton-line short"></div>
-        <div class="skeleton-line long"></div>
-        <div class="skeleton-line long"></div>
-        <div class="skeleton-line medium"></div>
-      </article>
-    </template>
-
-    <script src="./scripts/app.js" defer></script>
+    <script src="./scripts/resources.js" defer></script>
   </body>
 </html>
