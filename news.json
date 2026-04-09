@@ -1,11 +1,23 @@
 {
-  "lastUpdated": "2026-04-09T18:04:15.287Z",
+  "lastUpdated": "2026-04-09T20:05:52.295Z",
   "items": [
+    {
+      "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-04-09T18:26:10.000Z"
+    },
     {
       "title": "Understanding Amazon Bedrock model lifecycle",
       "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-09T17:33:28.000Z"
+    },
+    {
+      "title": "Amazon S3 Lifecycle pauses actions on objects that are unable to replicate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T17:33:00.000Z"
     },
     {
       "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
@@ -326,6 +338,12 @@
       "pubDate": "2026-04-03T21:49:00.000Z"
     },
     {
+      "title": "Amazon Bedrock Data Automation now supports custom vocabulary",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-data-automation-vocabulary",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-03T21:29:00.000Z"
+    },
+    {
       "title": "AWS Glue Schema Registry is now available in three more AWS regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions",
       "source": "AWS What's New",
@@ -342,24 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv",
       "source": "AWS What's New",
       "pubDate": "2026-04-03T20:30:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails announces general availability of cross-account safeguards",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T19:15:00.000Z"
-    },
-    {
-      "title": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T18:55:00.000Z"
-    },
-    {
-      "title": "Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T18:55:00.000Z"
     }
   ]
 }
