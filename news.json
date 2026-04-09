@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-04-09T16:23:00.532Z",
+  "lastUpdated": "2026-04-09T18:04:15.287Z",
   "items": [
+    {
+      "title": "Understanding Amazon Bedrock model lifecycle",
+      "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-09T17:33:28.000Z"
+    },
+    {
+      "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-09T17:28:20.000Z"
+    },
+    {
+      "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-09T17:06:07.000Z"
+    },
+    {
+      "title": "AWS Marketplace announces the Discovery API for programmatic access to catalog data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T16:00:00.000Z"
+    },
     {
       "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-09T14:47:57.000Z"
+    },
+    {
+      "title": "Amazon EC2 Capacity Manager now supports tag-based dimensions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T07:00:00.000Z"
     },
     {
       "title": "Build a multi-tenant configuration system with tagged storage patterns",
@@ -324,42 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering",
       "source": "AWS What's New",
       "pubDate": "2026-04-03T18:55:00.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager console now supports custom input for AWS KMS keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-console-custom-kms-key-input",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T18:00:00.000Z"
-    },
-    {
-      "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
-      "link": "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-03T15:44:48.000Z"
-    },
-    {
-      "title": "Amazon Quick Enables Sparklines for Inline Trend Visualization in Tables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sparklines-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-02T21:00:00.000Z"
-    },
-    {
-      "title": "Four security principles for agentic AI systems",
-      "link": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-02T20:45:09.000Z"
     }
   ]
 }
