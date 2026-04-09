@@ -7,6 +7,8 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self';" />
     <meta name="referrer" content="no-referrer" />
     <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), interest-cohort=()" />
+    <meta name="theme-color" content="#0f1419" />
+    <link rel="manifest" href="./manifest.json" />
     <title>AWS Cloud News Dashboard</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -37,6 +39,17 @@
 
       <section class="filters" aria-label="News sources">
         <div class="tabs-scroll" id="tabs"></div>
+      </section>
+
+      <section class="search-bar" aria-label="Search articles">
+        <input
+          type="search"
+          id="searchInput"
+          placeholder="Search articles…"
+          autocomplete="off"
+          spellcheck="false"
+          aria-label="Search articles"
+        />
       </section>
 
       <section class="cards-grid" id="cards" aria-live="polite"></section>
