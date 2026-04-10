@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-10T16:02:42.285Z",
+  "lastUpdated": "2026-04-10T17:04:06.996Z",
   "items": [
+    {
+      "title": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-10T15:00:00.000Z"
+    },
     {
       "title": "Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows",
@@ -80,10 +86,22 @@
       "pubDate": "2026-04-09T14:47:57.000Z"
     },
     {
+      "title": "AWS Private CA now supports customer managed permissions for cross-account sharing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-private-ca-customer-managed-permissions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T13:00:00.000Z"
+    },
+    {
       "title": "Amazon EC2 Capacity Manager now supports tag-based dimensions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions",
       "source": "AWS What's New",
       "pubDate": "2026-04-09T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/route-53-resolver-endpoints",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-08T22:39:00.000Z"
     },
     {
       "title": "Build a multi-tenant configuration system with tagged storage patterns",
@@ -342,24 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-06T14:41:46.000Z"
-    },
-    {
-      "title": "Amazon S3 starts rolling out new security best practice to new and existing buckets by default",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-default-bucket-security-setting",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-06T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-06T07:50:00.000Z"
-    },
-    {
-      "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
-      "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-04T21:35:00.000Z"
     }
   ]
 }
