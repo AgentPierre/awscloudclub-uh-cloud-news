@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-09T23:48:35.066Z",
+  "lastUpdated": "2026-04-10T03:34:44.818Z",
   "items": [
+    {
+      "title": "Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-09T21:57:00.000Z"
+    },
     {
       "title": "Amazon Bedrock now supports cost allocation by IAM user and role",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook",
       "source": "AWS Security Blog",
       "pubDate": "2026-04-04T21:35:00.000Z"
-    },
-    {
-      "title": "Apache Spark troubleshooting and upgrade agents now available as Kiro powers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-03T21:49:00.000Z"
     }
   ]
 }
