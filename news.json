@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-10T23:47:18.811Z",
+  "lastUpdated": "2026-04-11T03:14:06.936Z",
   "items": [
+    {
+      "title": "Amazon EC2 X8i instances are now available in Europe (Paris)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-10T23:54:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch pipelines now supports drop and conditional processing",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-06T17:49:32.000Z"
-    },
-    {
-      "title": "From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-06T17:48:54.000Z"
     }
   ]
 }
