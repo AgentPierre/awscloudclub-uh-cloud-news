@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-13T20:10:47.749Z",
+  "lastUpdated": "2026-04-13T21:56:47.299Z",
   "items": [
+    {
+      "title": "Aurora DSQL launches connector that simplifies building PHP applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-13T17:47:00.000Z"
+    },
     {
       "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west",
@@ -30,6 +36,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-13T16:01:18.000Z"
+    },
+    {
+      "title": "Amazon FSx now supports copying file system backups across AWS opt-in Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-13T16:00:00.000Z"
     },
     {
       "title": "AWS Elastic Disaster Recovery now supports IPv6",
@@ -348,18 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-ipv6-connectors-web-apps",
       "source": "AWS What's New",
       "pubDate": "2026-04-07T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora now supports PostgreSQL 17.9, 16.13, 15.17, and 14.22",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-aurora-postgresql-17-9-16-13-15-17-14-22",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-07T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager now supports native certificate search",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-certificate-manager-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-07T04:01:00.000Z"
     }
   ]
 }
