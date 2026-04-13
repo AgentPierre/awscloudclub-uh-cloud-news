@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-04-13T14:03:26.589Z",
+  "lastUpdated": "2026-04-13T16:21:08.594Z",
   "items": [
+    {
+      "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-04-13T16:16:20.000Z"
+    },
+    {
+      "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-13T16:01:18.000Z"
+    },
     {
       "title": "Amazon EC2 X8i instances are now available in Europe (Paris)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region",
@@ -348,18 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store",
       "source": "AWS What's New",
       "pubDate": "2026-04-06T18:00:00.000Z"
-    },
-    {
-      "title": "Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-06T17:54:00.000Z"
-    },
-    {
-      "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-06T17:49:32.000Z"
     }
   ]
 }
