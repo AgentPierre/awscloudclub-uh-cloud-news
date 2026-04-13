@@ -1,11 +1,17 @@
 {
-  "lastUpdated": "2026-04-13T16:21:08.594Z",
+  "lastUpdated": "2026-04-13T18:11:38.817Z",
   "items": [
     {
       "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-04-13T16:16:20.000Z"
+    },
+    {
+      "title": "AWS IoT is now available in Israel (Tel Aviv) and Europe (Milan) AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-13T16:10:00.000Z"
     },
     {
       "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-06T18:00:06.000Z"
-    },
-    {
-      "title": "Amazon Verified Permissions now supports policy store aliases and named policies and policy templates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-06T18:00:00.000Z"
     }
   ]
 }
