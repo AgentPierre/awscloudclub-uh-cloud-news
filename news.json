@@ -1,11 +1,17 @@
 {
-  "lastUpdated": "2026-04-13T23:54:12.447Z",
+  "lastUpdated": "2026-04-14T03:34:27.242Z",
   "items": [
     {
       "title": "Amazon OpenSearch Serverless now supports Derived Source for storage optimization",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-derived-source",
       "source": "AWS What's New",
       "pubDate": "2026-04-13T20:55:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift introduces key  performance  optimization for Top-K queries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-13T18:58:00.000Z"
     },
     {
       "title": "Aurora DSQL launches connector that simplifies building PHP applications",
@@ -16,6 +22,12 @@
     {
       "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-13T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Logs Insights now supports saved queries with parameters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-logs-insights-query-params",
       "source": "AWS What's New",
       "pubDate": "2026-04-13T17:00:00.000Z"
     },
@@ -348,18 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files",
       "source": "AWS What's New",
       "pubDate": "2026-04-07T14:15:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports M8i and R8i instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-07T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon Braket adds support for Rigetti's 108-qubit Cepheus QPU",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-braket-rigetti-cepheus",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-07T09:00:00.000Z"
     }
   ]
 }
