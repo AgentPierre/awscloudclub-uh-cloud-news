@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-15T02:46:51.935Z",
+  "lastUpdated": "2026-04-16T02:54:10.018Z",
   "items": [
+    {
+      "title": "AWS Payment Cryptography now available in South America (São Paulo)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-15T20:34:00.000Z"
+    },
+    {
+      "title": "Create rich, custom tooltips in Amazon Quick Sight",
+      "link": "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-15T15:22:53.000Z"
+    },
+    {
+      "title": "Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-15T15:20:58.000Z"
+    },
+    {
+      "title": "Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-15T15:15:23.000Z"
+    },
+    {
+      "title": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-15T15:00:00.000Z"
+    },
     {
       "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
       "link": "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity",
@@ -66,6 +96,12 @@
       "link": "https://aws.amazon.com/blogs/containers/navigating-enterprise-networking-challenges-with-amazon-eks-auto-mode",
       "source": "AWS Containers Blog",
       "pubDate": "2026-04-14T16:51:50.000Z"
+    },
+    {
+      "title": "AWS announces general availability of AWS Interconnect - multicloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-14T15:00:00.000Z"
     },
     {
       "title": "Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance",
@@ -160,12 +196,6 @@
     {
       "title": "AWS announces general availability of AWS Interconnect - last mile",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-13T15:00:00.000Z"
-    },
-    {
-      "title": "AWS announces general availability of AWS Interconnect - multicloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud",
       "source": "AWS What's New",
       "pubDate": "2026-04-13T15:00:00.000Z"
     },
@@ -330,36 +360,6 @@
       "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-04-08T20:00:04.000Z"
-    },
-    {
-      "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
-      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-08T19:51:50.000Z"
-    },
-    {
-      "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
-      "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-08T19:48:07.000Z"
-    },
-    {
-      "title": "Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-08T19:45:13.000Z"
-    },
-    {
-      "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-08T19:43:28.000Z"
-    },
-    {
-      "title": "SageMaker HyperPod now supports gang scheduling for distributed training workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-08T19:26:00.000Z"
     }
   ]
 }
