@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-04-16T02:54:10.018Z",
+  "lastUpdated": "2026-04-17T02:49:47.336Z",
   "items": [
+    {
+      "title": "Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T20:00:00.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T19:00:00.000Z"
+    },
+    {
+      "title": "Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-16T17:43:03.000Z"
+    },
+    {
+      "title": "Transform retail with AWS generative AI services",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-16T17:39:56.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T17:38:00.000Z"
+    },
+    {
+      "title": "How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-16T17:34:42.000Z"
+    },
+    {
+      "title": "Amazon FSx for Lustre Persistent-2 file systems are now available in four additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-lustre-persistent-2-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T16:30:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 C8in and C8ib instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock",
+      "source": "AWS News Blog",
+      "pubDate": "2026-04-16T14:49:33.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports multi-account sign-in within the same browser",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T12:00:00.000Z"
+    },
+    {
+      "title": "Claude Opus 4.7 is now available in Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T12:00:00.000Z"
+    },
     {
       "title": "AWS Payment Cryptography now available in South America (São Paulo)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south",
@@ -294,72 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects",
       "source": "AWS What's New",
       "pubDate": "2026-04-09T17:33:00.000Z"
-    },
-    {
-      "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-09T17:28:20.000Z"
-    },
-    {
-      "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-09T17:06:07.000Z"
-    },
-    {
-      "title": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace announces the Discovery API for programmatic access to catalog data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Serverless now supports Zstandard (zstd) codec for index compression",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T15:00:00.000Z"
-    },
-    {
-      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-09T14:47:57.000Z"
-    },
-    {
-      "title": "AWS Private CA now supports customer managed permissions for cross-account sharing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-private-ca-customer-managed-permissions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 Capacity Manager now supports tag-based dimensions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/route-53-resolver-endpoints",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-08T22:39:00.000Z"
-    },
-    {
-      "title": "Build a multi-tenant configuration system with tagged storage patterns",
-      "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-04-08T20:00:04.000Z"
     }
   ]
 }
