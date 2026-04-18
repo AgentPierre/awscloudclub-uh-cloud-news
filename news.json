@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-04-17T02:49:47.336Z",
+  "lastUpdated": "2026-04-18T02:40:11.898Z",
   "items": [
+    {
+      "title": "Introducing granular cost attribution for Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-17T22:04:15.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T20:30:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports flexible instance groups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-flexible-instance-groups",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T20:03:00.000Z"
+    },
+    {
+      "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-17T19:43:38.000Z"
+    },
+    {
+      "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
+      "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-17T19:43:35.000Z"
+    },
+    {
+      "title": "Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecr-pull-through-cache-referrers",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T18:29:00.000Z"
+    },
+    {
+      "title": "Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-17T17:27:40.000Z"
+    },
+    {
+      "title": "From hours to minutes: How Agentic AI gave marketers time back for what matters",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-17T17:12:10.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T16:40:00.000Z"
+    },
+    {
+      "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
+      "link": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-17T16:30:57.000Z"
+    },
+    {
+      "title": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T15:00:00.000Z"
+    },
+    {
+      "title": "SageMaker JumpStart now offers optimized deployments for foundation models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-17T00:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch RUM now available in AWS European Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T21:47:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules",
@@ -42,6 +120,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-lustre-persistent-2-aws",
       "source": "AWS What's New",
       "pubDate": "2026-04-16T16:30:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8aedz instances are now available in Europe (Stockholm) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-x8aedz-instances-stockholm",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-16T16:00:00.000Z"
     },
     {
       "title": "Introducing Amazon EC2 C8in and C8ib instances",
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional",
       "source": "AWS What's New",
       "pubDate": "2026-04-10T20:53:00.000Z"
-    },
-    {
-      "title": "AWS Deadline Cloud supports monitor creation in multiple regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T16:44:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch pipelines introduces new compliance and governance capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T16:12:00.000Z"
-    },
-    {
-      "title": "Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports document-level access controls for ACL support for S3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T15:11:00.000Z"
-    },
-    {
-      "title": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T15:00:00.000Z"
-    },
-    {
-      "title": "AWS RTB Fabric supports health checks for real-time bidding workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-supports-latest-cu-gdr-updates-microsoft-sq-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-10T07:34:00.000Z"
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T21:57:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock now supports cost allocation by IAM user and role",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T21:50:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T20:00:00.000Z"
-    },
-    {
-      "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
-      "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-04-09T18:26:10.000Z"
-    },
-    {
-      "title": "Understanding Amazon Bedrock model lifecycle",
-      "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-09T17:33:28.000Z"
-    },
-    {
-      "title": "Amazon S3 Lifecycle pauses actions on objects that are unable to replicate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-09T17:33:00.000Z"
     }
   ]
 }
