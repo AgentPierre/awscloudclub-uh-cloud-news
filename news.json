@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-04-22T02:49:50.148Z",
+  "lastUpdated": "2026-04-23T02:52:28.664Z",
   "items": [
+    {
+      "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-22T21:05:01.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T20:31:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8i-flex instances are now available in Europe (Ireland, London), and Asia Pacific (New Zealand) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T19:46:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8i instances are now available in Europe (Ireland) and Asia Pacific (New Zealand) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T19:31:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-22T19:15:08.000Z"
+    },
+    {
+      "title": "Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-22T19:13:56.000Z"
+    },
+    {
+      "title": "Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 announces Managed resource visibility settings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T17:53:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T17:53:00.000Z"
+    },
+    {
+      "title": "Introducing GPU Health Monitoring and Auto Repair for Amazon ECS Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-gpu-auto-repair",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T17:00:00.000Z"
+    },
+    {
+      "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
+      "link": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-22T16:31:11.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T16:21:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore adds new features to help developers build agents faster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T16:00:00.000Z"
+    },
+    {
+      "title": "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
+      "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-22T15:56:24.000Z"
+    },
+    {
+      "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-04-22T15:33:54.000Z"
+    },
+    {
+      "title": "Amazon IVS Low-Latency Streaming now supports server-side ad insertion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-low-latency-streaming-server-side-ad-insertion",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T15:29:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 for SQL Server HA now supports health notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-sql-ha-health-notifications",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Corretto April 2026 Quarterly Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-corretto-april-2026-quarterly-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-custom-sql-server-supports-latest-gdr-updates-for-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T07:43:00.000Z"
+    },
+    {
+      "title": "AWS Lambda durable functions are now available in 16 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-functions-16-new-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T06:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports rollback for service software updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-now-supports-rollback-for-service-software-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-22T03:30:00.000Z"
+    },
     {
       "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
       "link": "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope",
@@ -8,10 +134,22 @@
       "pubDate": "2026-04-22T00:12:21.000Z"
     },
     {
+      "title": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-21T22:38:00.000Z"
+    },
+    {
       "title": "Amazon SageMaker now supports multi-region replication from IAM Identity Center",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center",
       "source": "AWS What's New",
       "pubDate": "2026-04-21T21:00:00.000Z"
+    },
+    {
+      "title": "Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-21T20:05:00.000Z"
     },
     {
       "title": "Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking",
@@ -70,6 +208,12 @@
     {
       "title": "AWS Transform custom is now available in six additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-21T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Serverless expands to 13 new AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-serverless-13-regions",
       "source": "AWS What's New",
       "pubDate": "2026-04-21T15:00:00.000Z"
     },
@@ -216,150 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-touchtone-buffering",
       "source": "AWS What's New",
       "pubDate": "2026-04-20T12:29:00.000Z"
-    },
-    {
-      "title": "AWS Managed Microsoft AD is now available on Windows functional level 2016",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-2016-functional-level",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-kerberose-encrption-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T07:00:00.000Z"
-    },
-    {
-      "title": "Introducing granular cost attribution for Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-17T22:04:15.000Z"
-    },
-    {
-      "title": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T20:30:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports flexible instance groups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-flexible-instance-groups",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T20:03:00.000Z"
-    },
-    {
-      "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-17T19:43:38.000Z"
-    },
-    {
-      "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-      "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-17T19:43:35.000Z"
-    },
-    {
-      "title": "AWS Neuron SDK 2.29.0 now available with NKI and Neuron Explorer out of Beta, a new CPU Simulator, and an expanded NKI Library",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-2-29",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecr-pull-through-cache-referrers",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T18:29:00.000Z"
-    },
-    {
-      "title": "Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-17T17:27:40.000Z"
-    },
-    {
-      "title": "From hours to minutes: How Agentic AI gave marketers time back for what matters",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-17T17:12:10.000Z"
-    },
-    {
-      "title": "AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T16:40:00.000Z"
-    },
-    {
-      "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
-      "link": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-17T16:30:57.000Z"
-    },
-    {
-      "title": "Amazon Connect flow modules now work across all flow types and within other modules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-flow-modules-enhancements",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T15:04:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Clean Rooms now supports configurable Spark properties for PySpark",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-clean-rooms-configurable-properties-pyspark",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T12:00:00.000Z"
-    },
-    {
-      "title": "SageMaker JumpStart now offers optimized deployments for foundation models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-17T00:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch RUM now available in AWS European Sovereign Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-16T21:47:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-16T20:00:00.000Z"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-16T19:00:00.000Z"
-    },
-    {
-      "title": "Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-16T17:43:03.000Z"
-    },
-    {
-      "title": "Transform retail with AWS generative AI services",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-16T17:39:56.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-16T17:38:00.000Z"
-    },
-    {
-      "title": "How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-16T17:34:42.000Z"
     }
   ]
 }
