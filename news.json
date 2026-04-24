@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-04-23T02:52:28.664Z",
+  "lastUpdated": "2026-04-24T02:53:14.764Z",
   "items": [
+    {
+      "title": "Amazon Athena simplifies federated queries with managed connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T21:15:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports automatic Slurm topology management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-automatic-slurm-topology",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T20:00:00.000Z"
+    },
+    {
+      "title": "AWS Parallel Computing Service now supports Slurm 25.11",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker supports notebooks and data agent for IdC domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T19:13:00.000Z"
+    },
+    {
+      "title": "Create minimal reproductions for AWS SDK JavaScript v3 with create-aws-sdk-repro",
+      "link": "https://aws.amazon.com/blogs/developer/create-minimal-reproductions-for-aws-sdk-javascript-v3-with-create-aws-sdk-repro",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-04-23T18:37:18.000Z"
+    },
+    {
+      "title": "Amazon Quick for marketing: From scattered data to strategic action",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-23T17:05:17.000Z"
+    },
+    {
+      "title": "Attributed Revenue Dashboard Now Available in AWS Partner Central",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T16:30:00.000Z"
+    },
+    {
+      "title": "Applying multimodal biological foundation models across therapeutics and patient care",
+      "link": "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-23T16:17:29.000Z"
+    },
+    {
+      "title": "AWS Elastic Beanstalk AI-powered environment analysis now supports Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T16:00:00.000Z"
+    },
+    {
+      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Seoul, Sydney) and Europe (Paris) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T15:59:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8g instances now available in Europe (Ireland) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8g-instances-europe-ireland",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports permission verification for ACL-enabled knowledge bases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T14:56:00.000Z"
+    },
+    {
+      "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
+      "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-04-23T13:20:43.000Z"
+    },
+    {
+      "title": "Amazon S3 now supports five additional checksum algorithms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T13:00:00.000Z"
+    },
+    {
+      "title": "AWS Backup expands support for Amazon Aurora PITR to six Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-backup-amazon-aurora-pitr",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports VPC for notebook kernels",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T00:57:00.000Z"
+    },
     {
       "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
       "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch",
@@ -44,14 +152,14 @@
       "pubDate": "2026-04-22T18:00:00.000Z"
     },
     {
-      "title": "Amazon EC2 announces Managed resource visibility settings",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility",
+      "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5",
       "source": "AWS What's New",
       "pubDate": "2026-04-22T17:53:00.000Z"
     },
     {
-      "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5",
+      "title": "Amazon EC2 announces Managed resource visibility settings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility",
       "source": "AWS What's New",
       "pubDate": "2026-04-22T17:53:00.000Z"
     },
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing",
       "source": "AWS What's New",
       "pubDate": "2026-04-21T02:03:00.000Z"
-    },
-    {
-      "title": "Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T20:30:00.000Z"
-    },
-    {
-      "title": "Amazon EVS now offers Microsoft Windows Server Licensing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T20:05:00.000Z"
-    },
-    {
-      "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-20T19:38:10.000Z"
-    },
-    {
-      "title": "Amazon Connect expands agentic voice speech-to-speech experiences to three new AWS Regions and ten locales",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T19:33:00.000Z"
-    },
-    {
-      "title": "AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place upgrade from version 5.0 to 8.0",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon EKS enhances cluster governance with new IAM condition keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T17:48:00.000Z"
-    },
-    {
-      "title": "ToolSimulator: scalable tool testing for AI agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-20T17:06:26.000Z"
-    },
-    {
-      "title": "Amazon Connect outbound campaigns now supports hourly segment refresh",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-campaign-hourly-refresh",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T16:56:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs Insights introduces JOIN and sub-query commands",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-logs-insights-join-sub-query",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-04-20T15:53:21.000Z"
-    },
-    {
-      "title": "How to clone an AWS CloudHSM cluster across Regions",
-      "link": "https://aws.amazon.com/blogs/security/how-to-clone-an-aws-cloudhsm-cluster-across-regions-2",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-20T15:15:47.000Z"
-    },
-    {
-      "title": "Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-      "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-20T15:03:28.000Z"
-    },
-    {
-      "title": "Amazon MSK Replicator now supports log forwarding for replication visibility",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T15:00:00.000Z"
-    },
-    {
-      "title": "MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Express One Zone now supports S3 Inventory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect adds touchtone buffering for AI-powered self-service",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-touchtone-buffering",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-20T12:29:00.000Z"
     }
   ]
 }
