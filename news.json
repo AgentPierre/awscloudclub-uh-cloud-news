@@ -1,11 +1,71 @@
 {
-  "lastUpdated": "2026-04-24T02:53:14.764Z",
+  "lastUpdated": "2026-04-25T02:42:28.041Z",
   "items": [
+    {
+      "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T21:13:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T21:03:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T21:00:00.000Z"
+    },
+    {
+      "title": "Protecting your secrets from tomorrow’s quantum risks",
+      "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-24T18:53:29.000Z"
+    },
+    {
+      "title": "Building Workforce AI Agents with Visier and Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-24T18:04:20.000Z"
+    },
+    {
+      "title": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Marketplace Management Portal now supports bank account deletion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T16:37:00.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports custom scripting for job submission workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-deadline-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T15:42:00.000Z"
+    },
     {
       "title": "Amazon Athena simplifies federated queries with managed connectors",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena",
       "source": "AWS What's New",
       "pubDate": "2026-04-23T21:15:00.000Z"
+    },
+    {
+      "title": "AWS Client VPN now supports native AWS Transit Gateway integration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-client-vpn-transit-gateway",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T21:11:00.000Z"
     },
     {
       "title": "Amazon SageMaker HyperPod now supports automatic Slurm topology management",
@@ -30,6 +90,12 @@
       "link": "https://aws.amazon.com/blogs/developer/create-minimal-reproductions-for-aws-sdk-javascript-v3-with-create-aws-sdk-repro",
       "source": "AWS Developer Tools Blog",
       "pubDate": "2026-04-23T18:37:18.000Z"
+    },
+    {
+      "title": "AWS Compute Optimizer supports 162 new EC2 instance types and 32 new RDS DB instance classes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-compute-optimizer-ec2-rds",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T18:28:00.000Z"
     },
     {
       "title": "Amazon Quick for marketing: From scattered data to strategic action",
@@ -294,72 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-21T16:43:03.000Z"
-    },
-    {
-      "title": "Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight",
-      "link": "https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-04-21T16:37:12.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T16:30:00.000Z"
-    },
-    {
-      "title": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform custom is now available in six additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Serverless expands to 13 new AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-serverless-13-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T13:53:00.000Z"
-    },
-    {
-      "title": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T10:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda Durable Execution SDK for Java GA",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T06:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Outbound Campaigns now supports contact priority ordering",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T02:03:00.000Z"
     }
   ]
 }
