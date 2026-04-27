@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T03:19:18.056Z",
+  "lastUpdated": "2026-04-27T03:23:49.390Z",
   "items": [
     {
       "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
@@ -32,14 +32,14 @@
       "pubDate": "2026-04-24T18:04:20.000Z"
     },
     {
-      "title": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics",
+      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i",
       "source": "AWS What's New",
       "pubDate": "2026-04-24T17:00:00.000Z"
     },
     {
-      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i",
+      "title": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics",
       "source": "AWS What's New",
       "pubDate": "2026-04-24T17:00:00.000Z"
     },
