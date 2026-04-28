@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-04-27T03:23:49.390Z",
+  "lastUpdated": "2026-04-28T03:30:32.618Z",
   "items": [
+    {
+      "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T22:03:00.000Z"
+    },
+    {
+      "title": "AWS KMS now tracks last usage of all KMS keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T19:00:00.000Z"
+    },
+    {
+      "title": "Optimize security operations through an AWS Security Hub POC",
+      "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-27T18:55:44.000Z"
+    },
+    {
+      "title": "Amazon Connect increases attachment file sizes and adds custom file types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T18:45:00.000Z"
+    },
+    {
+      "title": "Automate repetitive tasks with Amazon Quick Flows",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-27T17:52:05.000Z"
+    },
+    {
+      "title": "Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-27T17:51:41.000Z"
+    },
+    {
+      "title": "Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster",
+      "link": "https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-04-27T17:47:34.000Z"
+    },
+    {
+      "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-04-27T17:29:44.000Z"
+    },
+    {
+      "title": "Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T16:53:00.000Z"
+    },
+    {
+      "title": "Build Strands Agents with SageMaker AI models and MLflow",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-27T16:50:41.000Z"
+    },
+    {
+      "title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-27T16:45:37.000Z"
+    },
+    {
+      "title": "Can I do that with policy? Understanding the AWS Service Authorization Reference",
+      "link": "https://aws.amazon.com/blogs/security/can-i-do-that-with-policy-understanding-the-aws-service-authorization-reference",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-27T16:01:46.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T15:30:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-04-27T15:01:28.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 M8in and M8ib instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-m8in-m8ib",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 R8in and R8ib instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 C8ine and M8ine instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8ine-m8ine",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal Supports Rocky 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-rocky9-rhel9-ubuntu24",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T22:03:00.000Z"
+    },
     {
       "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion",
@@ -32,14 +146,14 @@
       "pubDate": "2026-04-24T18:04:20.000Z"
     },
     {
-      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i",
+      "title": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics",
       "source": "AWS What's New",
       "pubDate": "2026-04-24T17:00:00.000Z"
     },
     {
-      "title": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics",
+      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i",
       "source": "AWS What's New",
       "pubDate": "2026-04-24T17:00:00.000Z"
     },
@@ -84,6 +198,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc",
       "source": "AWS What's New",
       "pubDate": "2026-04-23T19:13:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now offers CI/CD CLI for data and AI applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-smus-ci-cd-cli",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-23T19:00:00.000Z"
     },
     {
       "title": "Create minimal reproductions for AWS SDK JavaScript v3 with create-aws-sdk-repro",
@@ -240,126 +360,6 @@
       "link": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended",
       "source": "AWS Security Blog",
       "pubDate": "2026-04-22T16:31:11.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T16:21:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore adds new features to help developers build agents faster",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T16:00:00.000Z"
-    },
-    {
-      "title": "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
-      "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-22T15:56:24.000Z"
-    },
-    {
-      "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-04-22T15:33:54.000Z"
-    },
-    {
-      "title": "Amazon IVS Low-Latency Streaming now supports server-side ad insertion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-low-latency-streaming-server-side-ad-insertion",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T15:29:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 for SQL Server HA now supports health notifications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-sql-ha-health-notifications",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Corretto April 2026 Quarterly Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-corretto-april-2026-quarterly-updates",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-custom-sql-server-supports-latest-gdr-updates-for-microsoft-sql-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T07:43:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable functions are now available in 16 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-functions-16-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T06:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports rollback for service software updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-now-supports-rollback-for-service-software-updates",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T03:30:00.000Z"
-    },
-    {
-      "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
-      "link": "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-22T00:12:21.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T22:38:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker now supports multi-region replication from IAM Identity Center",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T21:00:00.000Z"
-    },
-    {
-      "title": "Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T20:05:00.000Z"
-    },
-    {
-      "title": "Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T19:51:00.000Z"
-    },
-    {
-      "title": "From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-21T19:13:49.000Z"
-    },
-    {
-      "title": "AWS Marketplace streamlines VAT payment for deemed supply transactions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T19:03:00.000Z"
-    },
-    {
-      "title": "Amazon Athena Spark adds support for AWS PrivateLink",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T18:09:00.000Z"
-    },
-    {
-      "title": "AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-21T17:00:00.000Z"
-    },
-    {
-      "title": "End-to-end lineage with DVC and Amazon SageMaker AI MLflow apps",
-      "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-21T16:43:03.000Z"
     }
   ]
 }
