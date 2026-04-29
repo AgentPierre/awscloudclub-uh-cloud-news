@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-04-28T03:30:32.618Z",
+  "lastUpdated": "2026-04-29T03:28:47.143Z",
   "items": [
+    {
+      "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
+      "link": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-28T19:01:37.000Z"
+    },
+    {
+      "title": "AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T18:44:00.000Z"
+    },
+    {
+      "title": "Top announcements of the What’s Next with AWS, 2026",
+      "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-04-28T18:11:39.000Z"
+    },
+    {
+      "title": "Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-28T17:46:55.000Z"
+    },
+    {
+      "title": "AWS Cost Optimization Hub now supports CSV download",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T16:51:00.000Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-04-28T16:40:34.000Z"
+    },
+    {
+      "title": "Access control with IAM Identity Center session tags",
+      "link": "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-04-28T16:33:06.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8gn instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8gn-milan-hong-kong",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Talent for AI-powered hiring (now available in Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T15:30:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents (Limited Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Announces Amazon Connect Decisions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T14:30:00.000Z"
+    },
+    {
+      "title": "Build custom applications using natural language in Amazon Quick (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T14:30:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T14:30:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports document and visual creation in chat",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T11:30:00.000Z"
+    },
+    {
+      "title": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T11:30:00.000Z"
+    },
+    {
+      "title": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-28T11:30:00.000Z"
+    },
     {
       "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default",
@@ -10,6 +112,12 @@
     {
       "title": "AWS KMS now tracks last usage of all KMS keys",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon EVS now supports i7i.metal-24xl Amazon EC2 instance type",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-i7i-instance-type",
       "source": "AWS What's New",
       "pubDate": "2026-04-27T19:00:00.000Z"
     },
@@ -30,6 +138,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment",
       "source": "AWS What's New",
       "pubDate": "2026-04-27T18:45:00.000Z"
+    },
+    {
+      "title": "AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-conductor-launches-passthrough",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T18:44:00.000Z"
     },
     {
       "title": "Automate repetitive tasks with Amazon Quick Flows",
@@ -98,6 +212,12 @@
       "pubDate": "2026-04-27T15:00:00.000Z"
     },
     {
+      "title": "Amazon SageMaker Training Plans now provides capacity utilization monitoring through Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-training-plan-cloudwatch-observability",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-27T15:00:00.000Z"
+    },
+    {
       "title": "Introducing Amazon EC2 R8in and R8ib instances",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib",
       "source": "AWS What's New",
@@ -138,6 +258,12 @@
       "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks",
       "source": "AWS Security Blog",
       "pubDate": "2026-04-24T18:53:29.000Z"
+    },
+    {
+      "title": "Amazon Connect now logs supervisor agent activity status changes to AWS CloudTrail",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-logs-supervisor",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-24T18:39:00.000Z"
     },
     {
       "title": "Building Workforce AI Agents with Visier and Amazon Quick",
@@ -234,132 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-04-23T16:17:29.000Z"
-    },
-    {
-      "title": "AWS Elastic Beanstalk AI-powered environment analysis now supports Windows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T16:00:00.000Z"
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Seoul, Sydney) and Europe (Paris) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T15:59:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 X8g instances now available in Europe (Ireland) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8g-instances-europe-ireland",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports permission verification for ACL-enabled knowledge bases",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T14:56:00.000Z"
-    },
-    {
-      "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
-      "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-04-23T13:20:43.000Z"
-    },
-    {
-      "title": "Amazon S3 now supports five additional checksum algorithms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T13:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup expands support for Amazon Aurora PITR to six Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-backup-amazon-aurora-pitr",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports VPC for notebook kernels",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-23T00:57:00.000Z"
-    },
-    {
-      "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-22T21:05:01.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T20:31:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8i-flex instances are now available in Europe (Ireland, London), and Asia Pacific (New Zealand) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T19:46:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8i instances are now available in Europe (Ireland) and Asia Pacific (New Zealand) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T19:31:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-22T19:15:08.000Z"
-    },
-    {
-      "title": "Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-22T19:13:56.000Z"
-    },
-    {
-      "title": "Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T17:53:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 announces Managed resource visibility settings",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T17:53:00.000Z"
-    },
-    {
-      "title": "Introducing GPU Health Monitoring and Auto Repair for Amazon ECS Managed Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-gpu-auto-repair",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-22T17:00:00.000Z"
-    },
-    {
-      "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
-      "link": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-22T16:31:11.000Z"
     }
   ]
 }
