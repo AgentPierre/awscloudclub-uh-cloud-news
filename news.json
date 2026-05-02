@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-05-01T03:39:08.126Z",
+  "lastUpdated": "2026-05-02T02:55:38.653Z",
   "items": [
+    {
+      "title": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T22:00:00.000Z"
+    },
+    {
+      "title": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T21:42:00.000Z"
+    },
+    {
+      "title": "Security posture improvement in the AI era",
+      "link": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-01T20:58:39.000Z"
+    },
+    {
+      "title": "OpenSearch UI supports cross-region data access to OpenSearch domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T20:54:00.000Z"
+    },
+    {
+      "title": "Announcing the ISO 31000:2018 Risk Management on AWS Compliance Guide",
+      "link": "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-01T20:01:40.000Z"
+    },
+    {
+      "title": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T19:30:00.000Z"
+    },
+    {
+      "title": "AWS Transform now automates BI migration to Amazon Quick in days",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-01T18:29:06.000Z"
+    },
+    {
+      "title": "IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T16:00:00.000Z"
+    },
+    {
+      "title": "Simplify hybrid Kubernetes networking with Amazon EKS Hybrid Nodes gateway",
+      "link": "https://aws.amazon.com/blogs/containers/simplify-hybrid-kubernetes-networking-with-amazon-eks-hybrid-nodes-gateway",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-01T15:53:15.000Z"
+    },
+    {
+      "title": "Amazon Redshift Introduces Concurrency Scaling Support for auto-copy and zero-ETL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T15:00:00.000Z"
+    },
+    {
+      "title": "Spatial Data Management on AWS adds custom transformations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T14:35:00.000Z"
+    },
+    {
+      "title": "Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports read replica with additional storage volumes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-01T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Payment Cryptography now supports paper-based key exchange",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-30T22:08:00.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports one-click cluster access through CloudShell",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access",
+      "source": "AWS What's New",
+      "pubDate": "2026-04-30T22:00:00.000Z"
+    },
     {
       "title": "AWS Outposts racks now support LagStatus CloudWatch metric",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch",
@@ -78,12 +180,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel",
       "source": "AWS What's New",
       "pubDate": "2026-04-30T11:30:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports index-level encryption",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-30T02:30:00.000Z"
     },
     {
       "title": "Extracting contract insights with PwC’s AI-driven annotation on AWS",
@@ -264,102 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents",
       "source": "AWS What's New",
       "pubDate": "2026-04-28T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Announces Amazon Connect Decisions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T14:30:00.000Z"
-    },
-    {
-      "title": "Build custom applications using natural language in Amazon Quick (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T14:30:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T14:30:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports document and visual creation in chat",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T11:30:00.000Z"
-    },
-    {
-      "title": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T11:30:00.000Z"
-    },
-    {
-      "title": "Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-28T11:30:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T22:03:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-rum-app-monitors",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T19:32:00.000Z"
-    },
-    {
-      "title": "AWS KMS now tracks last usage of all KMS keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon EVS now supports i7i.metal-24xl Amazon EC2 instance type",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-i7i-instance-type",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T19:00:00.000Z"
-    },
-    {
-      "title": "Optimize security operations through an AWS Security Hub POC",
-      "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-04-27T18:55:44.000Z"
-    },
-    {
-      "title": "Amazon Connect increases attachment file sizes and adds custom file types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T18:45:00.000Z"
-    },
-    {
-      "title": "AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-conductor-launches-passthrough",
-      "source": "AWS What's New",
-      "pubDate": "2026-04-27T18:44:00.000Z"
-    },
-    {
-      "title": "Automate repetitive tasks with Amazon Quick Flows",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-27T17:52:05.000Z"
-    },
-    {
-      "title": "Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-04-27T17:51:41.000Z"
     }
   ]
 }
