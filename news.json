@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-05-06T03:27:18.184Z",
+  "lastUpdated": "2026-05-07T03:27:48.355Z",
   "items": [
+    {
+      "title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T21:09:00.000Z"
+    },
+    {
+      "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
+      "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-06T19:39:19.000Z"
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:24:00.000Z"
+    },
+    {
+      "title": "AWS Marketplace now supports programmatic procurement with Agreements API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T18:00:00.000Z"
+    },
+    {
+      "title": "Cross-Region disaster recovery for Amazon EKS using AWS Backup",
+      "link": "https://aws.amazon.com/blogs/containers/cross-region-disaster-recovery-for-amazon-eks-using-aws-backup",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-06T17:09:28.000Z"
+    },
+    {
+      "title": "Amazon Neptune now supports 1-click connect with CloudShell",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T16:00:00.000Z"
+    },
+    {
+      "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-06T15:37:08.000Z"
+    },
+    {
+      "title": "The AWS MCP Server is now generally available",
+      "link": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available",
+      "source": "AWS News Blog",
+      "pubDate": "2026-05-06T15:36:44.000Z"
+    },
+    {
+      "title": "AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T14:24:00.000Z"
+    },
+    {
+      "title": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T12:00:00.000Z"
+    },
+    {
+      "title": "The AWS MCP Server is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Transfer Family web apps are now available in the AWS Asia Pacific (New Zealand) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-asia-pacific",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T10:00:00.000Z"
+    },
+    {
+      "title": "AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T07:00:00.000Z"
+    },
     {
       "title": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration",
@@ -146,7 +236,7 @@
       "pubDate": "2026-05-04T23:00:00.000Z"
     },
     {
-      "title": "Announcing the general availability of Amazon S3 Transfer Manager for Swift",
+      "title": "Announcing AWS SDK for Swift’s Transfer Manager for Amazon S3",
       "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-amazon-s3-transfer-manager-for-swift",
       "source": "AWS Developer Tools Blog",
       "pubDate": "2026-05-04T21:45:13.000Z"
@@ -162,6 +252,12 @@
       "link": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment",
       "source": "AWS Security Blog",
       "pubDate": "2026-05-04T18:16:39.000Z"
+    },
+    {
+      "title": "AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-04T17:49:00.000Z"
     },
     {
       "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
@@ -200,14 +296,20 @@
       "pubDate": "2026-05-04T17:05:41.000Z"
     },
     {
+      "title": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-04T17:00:00.000Z"
+    },
+    {
       "title": "Amazon Quick generates dashboards from natural language prompts",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts",
       "source": "AWS What's New",
       "pubDate": "2026-05-04T17:00:00.000Z"
     },
     {
-      "title": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart",
+      "title": "Amazon VPC Lattice resource configurations now support private domain-name targets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice",
       "source": "AWS What's New",
       "pubDate": "2026-05-04T17:00:00.000Z"
     },
@@ -220,12 +322,6 @@
     {
       "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-i8ge-available-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon VPC Lattice resource configurations now support private domain-name targets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice",
       "source": "AWS What's New",
       "pubDate": "2026-05-04T17:00:00.000Z"
     },
@@ -260,106 +356,10 @@
       "pubDate": "2026-05-04T16:05:02.000Z"
     },
     {
-      "title": "Amazon Quick now supports S3 tables bucket as a data source",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T16:00:00.000Z"
-    },
-    {
       "title": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail",
       "source": "AWS What's New",
       "pubDate": "2026-05-04T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T15:27:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI launches AI agent experience for model customization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Payment Cryptography announces support for cross account key sharing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/payment-cryptography-resource",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T14:58:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports M8i and R8i instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-m8i-r8i-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server supports read replica with additional storage volumes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T22:00:00.000Z"
-    },
-    {
-      "title": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T21:42:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-rum-session",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T21:07:00.000Z"
-    },
-    {
-      "title": "Security posture improvement in the AI era",
-      "link": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-01T20:58:39.000Z"
-    },
-    {
-      "title": "OpenSearch UI supports cross-region data access to OpenSearch domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T20:54:00.000Z"
-    },
-    {
-      "title": "Announcing the ISO 31000:2018 Risk Management on AWS Compliance Guide",
-      "link": "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-01T20:01:40.000Z"
-    },
-    {
-      "title": "Amazon CloudFront Announces WebSocket Support for VPC Origins",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T19:30:00.000Z"
-    },
-    {
-      "title": "AWS Transform now automates BI migration to Amazon Quick in days",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-01T18:29:06.000Z"
-    },
-    {
-      "title": "General availability of AWS for SAP MCP Server in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sap-mcp-amazon-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T16:44:00.000Z"
-    },
-    {
-      "title": "IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-01T16:00:00.000Z"
     }
   ]
 }
