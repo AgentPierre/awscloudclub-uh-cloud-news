@@ -1,11 +1,161 @@
 {
-  "lastUpdated": "2026-05-07T03:27:48.355Z",
+  "lastUpdated": "2026-05-08T03:24:42.031Z",
   "items": [
+    {
+      "title": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T21:07:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T20:45:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio adds identity and user management features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T19:00:00.000Z"
+    },
+    {
+      "title": "ICYMI: April 2026 @AWS Security",
+      "link": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-07T18:52:59.000Z"
+    },
+    {
+      "title": "Amazon EC2 G7e instances now available in Europe (London) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T18:04:00.000Z"
+    },
+    {
+      "title": "AWS Capabilities by Region now supports availability notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T17:48:00.000Z"
+    },
+    {
+      "title": "AWS Elemental MediaTailor launches Monetization Functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T17:20:00.000Z"
+    },
+    {
+      "title": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T17:00:00.000Z"
+    },
+    {
+      "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
+      "link": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-07T16:03:47.000Z"
+    },
+    {
+      "title": "Amazon Connect Outbound Campaigns adds multi-contact time zone detection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-campaign-multitimezone",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8gn and M8gb instances are now available in AWS Europe (Ireland) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T16:00:00.000Z"
+    },
+    {
+      "title": "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-07T15:59:50.000Z"
+    },
+    {
+      "title": "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-07T15:53:30.000Z"
+    },
+    {
+      "title": "AWS India customers can now use UPI Scan and Pay for sign-up and payments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 R8idn and R8idb instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon EC2 M8idn and M8idb instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T15:00:00.000Z"
+    },
+    {
+      "title": "Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-07T12:55:17.000Z"
+    },
+    {
+      "title": "Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Resource Explorer is now available in AWS GovCloud (US-East) and (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T12:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon SES Mail Manager now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T00:30:00.000Z"
+    },
     {
       "title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth",
       "source": "AWS What's New",
       "pubDate": "2026-05-06T21:09:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:45:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:45:00.000Z"
     },
     {
       "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
@@ -18,6 +168,24 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
       "source": "AWS What's New",
       "pubDate": "2026-05-06T19:24:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache now supports real-time aggregations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache now supports real-time hybrid search with vector and full-text",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-06T19:00:00.000Z"
     },
     {
       "title": "AWS Marketplace now supports programmatic procurement with Agreements API",
@@ -90,6 +258,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad",
       "source": "AWS What's New",
       "pubDate": "2026-05-06T07:00:00.000Z"
+    },
+    {
+      "title": "Announcing Valkey 9.0 for Amazon ElastiCache",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/valkey-amazon-elasticache",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-05T22:33:00.000Z"
     },
     {
       "title": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
@@ -186,180 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res",
       "source": "AWS What's New",
       "pubDate": "2026-05-05T15:25:00.000Z"
-    },
-    {
-      "title": "Intelligence-driven message defense and insights using Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-05T15:20:54.000Z"
-    },
-    {
-      "title": "Track inter-AZ and NAT gateway traffic with EKS Container Network Observability",
-      "link": "https://aws.amazon.com/blogs/containers/track-inter-az-and-nat-gateway-traffic-with-eks-container-network-observability",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-05T15:18:25.000Z"
-    },
-    {
-      "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
-      "link": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-05T15:00:07.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore is now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup improves performance for Amazon EKS cluster backups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-amazon-eks-performance-improvement",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service expands Cluster Insights with a new insight",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T10:00:00.000Z"
-    },
-    {
-      "title": "AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T02:28:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs Insights supports querying by log group tags",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T23:00:00.000Z"
-    },
-    {
-      "title": "Announcing AWS SDK for Swift’s Transfer Manager for Amazon S3",
-      "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-amazon-s3-transfer-manager-for-swift",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-05-04T21:45:13.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T20:56:00.000Z"
-    },
-    {
-      "title": "Securing open proxies in your AWS environment",
-      "link": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-04T18:16:39.000Z"
-    },
-    {
-      "title": "AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:49:00.000Z"
-    },
-    {
-      "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T17:46:32.000Z"
-    },
-    {
-      "title": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:43:00.000Z"
-    },
-    {
-      "title": "Amazon FSx is now available in the AWS Asia Pacific (New Zealand) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:37:00.000Z"
-    },
-    {
-      "title": "Introducing agent quality optimization in AgentCore, now in preview",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T17:13:42.000Z"
-    },
-    {
-      "title": "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T17:10:46.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-04T17:05:41.000Z"
-    },
-    {
-      "title": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick generates dashboards from natural language prompts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon VPC Lattice resource configurations now support private domain-name targets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports the JSON data type with compression",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-i8ge-available-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T16:55:00.000Z"
-    },
-    {
-      "title": "Generate dashboards from natural language prompts in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T16:51:37.000Z"
-    },
-    {
-      "title": "From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T16:12:37.000Z"
-    },
-    {
-      "title": "Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T16:08:12.000Z"
-    },
-    {
-      "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
-      "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-04T16:05:02.000Z"
-    },
-    {
-      "title": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-04T16:00:00.000Z"
     }
   ]
 }
