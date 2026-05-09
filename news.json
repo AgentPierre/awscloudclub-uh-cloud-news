@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-05-08T03:24:42.031Z",
+  "lastUpdated": "2026-05-09T03:22:50.820Z",
   "items": [
+    {
+      "title": "AWS Client VPN now supports Ubuntu OS version 26.04 LTS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-08T22:39:00.000Z"
+    },
+    {
+      "title": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-08T20:12:00.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-08T17:43:00.000Z"
+    },
+    {
+      "title": "AWS Service Catalog is now available in the AWS Asia Pacific (New Zealand) and Canada West (Calgary) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-08T16:43:00.000Z"
+    },
+    {
+      "title": "Gradual deployments in Amazon ECS with linear and canary strategies",
+      "link": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-08T13:30:59.000Z"
+    },
+    {
+      "title": "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-08T13:20:30.000Z"
+    },
+    {
+      "title": "IAM Policy Autopilot adds Java support and Terraform-aware policy generation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-08T04:00:00.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T23:08:00.000Z"
+    },
+    {
+      "title": "AWS Marketplace introduces Tax management portal for sellers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T21:36:00.000Z"
+    },
     {
       "title": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud",
@@ -132,6 +186,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions",
       "source": "AWS What's New",
       "pubDate": "2026-05-07T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/concurrencyscaling-support-for-copy",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-07T02:06:00.000Z"
     },
     {
       "title": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
@@ -300,66 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents",
       "source": "AWS What's New",
       "pubDate": "2026-05-05T17:25:00.000Z"
-    },
-    {
-      "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
-      "link": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-05T17:23:40.000Z"
-    },
-    {
-      "title": "AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T16:59:00.000Z"
-    },
-    {
-      "title": "How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-05T16:55:42.000Z"
-    },
-    {
-      "title": "Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-05T16:55:18.000Z"
-    },
-    {
-      "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-05T16:54:35.000Z"
-    },
-    {
-      "title": "Amazon MQ now supports in-place major version upgrades for RabbitMQ 4",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-inplace-upgrades-rabbitmq4",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T16:50:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now integrates with New Relic for observability-driven AI agents",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T16:35:00.000Z"
-    },
-    {
-      "title": "EC2 Instance Store CSI driver now generally available in EKS add-ons",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T16:22:00.000Z"
-    },
-    {
-      "title": "Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-05T15:27:30.000Z"
-    },
-    {
-      "title": "Amazon Connect Cases now supports customer profile identity resolution",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-05T15:25:00.000Z"
     }
   ]
 }
