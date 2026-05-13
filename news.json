@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-05-12T03:32:40.754Z",
+  "lastUpdated": "2026-05-13T03:40:13.366Z",
   "items": [
+    {
+      "title": "AWS Security Agent full repository code scanning feature now available in preview",
+      "link": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-12T21:34:16.000Z"
+    },
+    {
+      "title": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T19:00:00.000Z"
+    },
+    {
+      "title": "Back up and restore your Amazon EKS cluster resources using Velero",
+      "link": "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-12T18:19:57.000Z"
+    },
+    {
+      "title": "Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T17:12:00.000Z"
+    },
+    {
+      "title": "Karpenter now supports Amazon Application Recovery Controller zonal shift",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-12T16:41:33.000Z"
+    },
+    {
+      "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine",
+      "source": "AWS News Blog",
+      "pubDate": "2026-05-12T16:05:12.000Z"
+    },
+    {
+      "title": "Amazon Redshift launches RG instances powered by AWS Graviton",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-12T16:00:00.000Z"
+    },
+    {
+      "title": "Automate schema generation for intelligent document processing",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-12T15:54:08.000Z"
+    },
+    {
+      "title": "Implement centralized observability for multi-account Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-12T15:50:48.000Z"
+    },
+    {
+      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-12T15:48:52.000Z"
+    },
+    {
+      "title": "Enabling AI sovereignty on AWS",
+      "link": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-12T15:18:28.000Z"
+    },
+    {
+      "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-05-12T13:26:49.000Z"
+    },
     {
       "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks",
@@ -74,6 +170,12 @@
       "pubDate": "2026-05-11T17:58:02.000Z"
     },
     {
+      "title": "Amazon SageMaker Unified Studio adds getting started tutorials and in-product release notes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-getting-started",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-11T17:12:00.000Z"
+    },
+    {
       "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
       "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings",
       "source": "AWS Machine Learning Blog",
@@ -96,6 +198,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-05-11T15:56:33.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health.",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-11T15:21:00.000Z"
     },
     {
       "title": "Claude Platform on AWS is now generally available",
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay",
       "source": "AWS What's New",
       "pubDate": "2026-05-07T15:00:00.000Z"
-    },
-    {
-      "title": "Introducing Amazon EC2 R8idn and R8idb instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T15:00:00.000Z"
-    },
-    {
-      "title": "Introducing Amazon EC2 M8idn and M8idb instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T15:00:00.000Z"
-    },
-    {
-      "title": "Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-07T12:55:17.000Z"
-    },
-    {
-      "title": "Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Resource Explorer is now available in AWS GovCloud (US-East) and (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T12:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon SES Mail Manager now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/concurrencyscaling-support-for-copy",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T02:06:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T00:30:00.000Z"
-    },
-    {
-      "title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T21:09:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:45:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:45:00.000Z"
-    },
-    {
-      "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
-      "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-06T19:39:19.000Z"
-    },
-    {
-      "title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:24:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache now supports real-time aggregations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache now supports real-time hybrid search with vector and full-text",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T19:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace now supports programmatic procurement with Agreements API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-06T18:00:00.000Z"
     }
   ]
 }
