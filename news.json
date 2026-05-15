@@ -1,6 +1,162 @@
 {
-  "lastUpdated": "2026-05-14T03:39:21.067Z",
+  "lastUpdated": "2026-05-15T03:42:40.977Z",
   "items": [
+    {
+      "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool",
+      "source": "AWS News Blog",
+      "pubDate": "2026-05-14T22:03:39.000Z"
+    },
+    {
+      "title": "Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T21:50:00.000Z"
+    },
+    {
+      "title": "Announcing general availability of Amazon EC2 M3 Ultra Mac instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T21:23:00.000Z"
+    },
+    {
+      "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
+      "link": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-14T20:42:20.000Z"
+    },
+    {
+      "title": "SageMaker AI now supports serverless model customization for Qwen3.6",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T19:18:00.000Z"
+    },
+    {
+      "title": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T19:00:00.000Z"
+    },
+    {
+      "title": "AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T19:00:00.000Z"
+    },
+    {
+      "title": "AWS Transform now supports customer-owned artifact stores",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T19:00:00.000Z"
+    },
+    {
+      "title": "New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
+      "title": "ARC Region switch adds Lambda event source mapping execution block for event handling during failover",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
+      "title": "Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
+      "title": "Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL now supports change data capture (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
+      "title": "Reference stack outputs across accounts and Regions with AWS CloudFormation and CDK",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-cloudformation-cdk-stack",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T17:30:00.000Z"
+    },
+    {
+      "title": "Improve bot accuracy with Amazon Lex Assisted NLU",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-14T17:28:44.000Z"
+    },
+    {
+      "title": "Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-14T17:23:48.000Z"
+    },
+    {
+      "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-14T17:17:50.000Z"
+    },
+    {
+      "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-14T17:17:35.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8aedz instances are now available in Europe (Ireland) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-x8aedz-europe-ireland",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer launches permission for agents to view only their own performance evaluations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-permission-view-own-performance-evaluations",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.4, 17.10, 16.14, 15.18, and 14.23",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T16:49:00.000Z"
+    },
+    {
+      "title": "Automating post-quantum cryptography readiness using AWS Config",
+      "link": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-14T16:18:20.000Z"
+    },
+    {
+      "title": "AWS Transform adds agentic AI assistant to the AWS Toolkit for Visual Studio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T15:00:00.000Z"
+    },
+    {
+      "title": "AWS RTB Fabric supports custom domains for real-time bidding workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rtb-fabric-custom-domains",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T12:00:00.000Z"
+    },
     {
       "title": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc",
@@ -200,166 +356,10 @@
       "pubDate": "2026-05-11T21:58:16.000Z"
     },
     {
-      "title": "ENA Express for Amazon EC2 instances now supports traffic between Availability Zones",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T20:00:00.000Z"
-    },
-    {
       "title": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks",
       "source": "AWS What's New",
       "pubDate": "2026-05-11T20:00:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T20:00:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P4de instances on SageMaker Studio notebooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL is now available in five additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T19:59:00.000Z"
-    },
-    {
-      "title": "AWS HealthOmics now supports caching of cancelled workflow runs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T19:00:00.000Z"
-    },
-    {
-      "title": "Choosing between single or multiple organizations in AWS Organizations",
-      "link": "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-05-11T18:56:38.000Z"
-    },
-    {
-      "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-11T18:43:03.000Z"
-    },
-    {
-      "title": "AWS WAF introduces dynamic label interpolation for custom request and response handling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-waf-dynamic-label-interpolation",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Studio notebooks now support P5.4xl instance types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/p5.4xl-new-launch-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T18:00:00.000Z"
-    },
-    {
-      "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
-      "link": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-11T17:58:02.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio adds getting started tutorials and in-product release notes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-getting-started",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T17:12:00.000Z"
-    },
-    {
-      "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-11T17:08:24.000Z"
-    },
-    {
-      "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-11T17:03:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-11T16:08:26.000Z"
-    },
-    {
-      "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-11T15:56:33.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health.",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T15:21:00.000Z"
-    },
-    {
-      "title": "Claude Platform on AWS is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T14:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform adds containerization capability during migrations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T08:22:00.000Z"
-    },
-    {
-      "title": "AWS Client VPN now supports Ubuntu OS version 26.04 LTS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-08T22:39:00.000Z"
-    },
-    {
-      "title": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-08T20:12:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-08T17:43:00.000Z"
-    },
-    {
-      "title": "AWS Service Catalog is now available in the AWS Asia Pacific (New Zealand) and Canada West (Calgary) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-08T16:43:00.000Z"
-    },
-    {
-      "title": "Gradual deployments in Amazon ECS with linear and canary strategies",
-      "link": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-08T13:30:59.000Z"
-    },
-    {
-      "title": "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-08T13:20:30.000Z"
-    },
-    {
-      "title": "IAM Policy Autopilot adds Java support and Terraform-aware policy generation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-08T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-07T23:08:00.000Z"
     }
   ]
 }
