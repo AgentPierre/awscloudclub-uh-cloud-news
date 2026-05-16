@@ -1,15 +1,75 @@
 {
-  "lastUpdated": "2026-05-15T03:42:40.977Z",
+  "lastUpdated": "2026-05-16T03:27:22.518Z",
   "items": [
     {
-      "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough",
+      "title": "Amazon CloudWatch Logs announces increased query result limits",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results",
       "source": "AWS What's New",
-      "pubDate": "2026-05-14T22:30:00.000Z"
+      "pubDate": "2026-05-15T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR Serverless is now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T19:50:00.000Z"
+    },
+    {
+      "title": "AWS Partner Central agents now accelerates opportunity creation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T18:41:00.000Z"
+    },
+    {
+      "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
+      "link": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-15T17:38:16.000Z"
+    },
+    {
+      "title": "Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T17:25:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T16:08:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T16:06:00.000Z"
+    },
+    {
+      "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
+      "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-15T15:41:00.000Z"
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-15T15:00:00.000Z"
     },
     {
       "title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough",
       "source": "AWS What's New",
       "pubDate": "2026-05-14T22:30:00.000Z"
     },
@@ -36,6 +96,12 @@
       "link": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center",
       "source": "AWS Security Blog",
       "pubDate": "2026-05-14T20:42:20.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T20:00:00.000Z"
     },
     {
       "title": "SageMaker AI now supports serverless model customization for Qwen3.6",
@@ -74,6 +140,12 @@
       "pubDate": "2026-05-14T18:00:00.000Z"
     },
     {
+      "title": "Amazon Aurora DSQL now supports change data capture (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-14T18:00:00.000Z"
+    },
+    {
       "title": "Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart",
       "source": "AWS What's New",
@@ -82,12 +154,6 @@
     {
       "title": "Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-14T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports change data capture (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview",
       "source": "AWS What's New",
       "pubDate": "2026-05-14T18:00:00.000Z"
     },
@@ -294,72 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans",
       "source": "AWS What's New",
       "pubDate": "2026-05-12T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-12T16:00:00.000Z"
-    },
-    {
-      "title": "Automate schema generation for intelligent document processing",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-12T15:54:08.000Z"
-    },
-    {
-      "title": "Implement centralized observability for multi-account Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-12T15:50:48.000Z"
-    },
-    {
-      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-12T15:48:52.000Z"
-    },
-    {
-      "title": "Enabling AI sovereignty on AWS",
-      "link": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-12T15:18:28.000Z"
-    },
-    {
-      "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-05-12T13:26:49.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P5.48xl instances on SageMaker Studio notebooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/p5-48xl-region-expansion-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-12T04:22:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of G6 instances on SageMaker Notebook Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-12T03:40:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T23:34:00.000Z"
-    },
-    {
-      "title": "Building web search-enabled agents with Strands and Exa",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-11T21:58:16.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-11T20:00:00.000Z"
     }
   ]
 }
