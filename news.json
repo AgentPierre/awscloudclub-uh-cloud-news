@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-05-19T03:51:00.732Z",
+  "lastUpdated": "2026-05-20T03:50:59.289Z",
   "items": [
+    {
+      "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-20T01:08:00.000Z"
+    },
+    {
+      "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+      "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-19T21:34:25.000Z"
+    },
+    {
+      "title": "Amazon MWAA now supports Apache Airflow 3.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-19T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-19T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon ECS introduces pause and continue controls for service deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-19T17:00:00.000Z"
+    },
+    {
+      "title": "Governing infrastructure as code using pattern-based policy as code",
+      "link": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-19T16:15:31.000Z"
+    },
+    {
+      "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-19T15:26:37.000Z"
+    },
+    {
+      "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-19T15:23:22.000Z"
+    },
+    {
+      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-19T15:20:33.000Z"
+    },
+    {
+      "title": "Implementing programmatic tool calling on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-19T15:17:00.000Z"
+    },
+    {
+      "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-05-19T15:09:36.000Z"
+    },
+    {
+      "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
+      "link": "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-05-19T15:06:40.000Z"
+    },
+    {
+      "title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-19T15:00:00.000Z"
+    },
     {
       "title": "AWS Management Console now displays AWS Local Zones in the Region Selector",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector",
@@ -84,6 +162,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio",
       "source": "AWS What's New",
       "pubDate": "2026-05-18T15:00:00.000Z"
+    },
+    {
+      "title": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-18T07:00:00.000Z"
     },
     {
       "title": "Amazon CloudWatch Logs announces increased query result limits",
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-x8aedz-europe-ireland",
       "source": "AWS What's New",
       "pubDate": "2026-05-14T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer launches permission for agents to view only their own performance evaluations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-permission-view-own-performance-evaluations",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-14T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for PostgreSQL supports minor versions 18.4, 17.10, 16.14, 15.18, and 14.23",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-14T16:49:00.000Z"
-    },
-    {
-      "title": "Automating post-quantum cryptography readiness using AWS Config",
-      "link": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-14T16:18:20.000Z"
-    },
-    {
-      "title": "AWS Transform adds agentic AI assistant to the AWS Toolkit for Visual Studio",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-14T15:00:00.000Z"
-    },
-    {
-      "title": "AWS RTB Fabric supports custom domains for real-time bidding workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rtb-fabric-custom-domains",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-14T12:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-13T21:53:00.000Z"
-    },
-    {
-      "title": "Detecting and preventing crypto mining in your AWS environment",
-      "link": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-13T21:47:27.000Z"
-    },
-    {
-      "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
-      "link": "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-13T19:07:42.000Z"
-    },
-    {
-      "title": "Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-13T19:00:00.000Z"
-    },
-    {
-      "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-13T18:00:06.000Z"
-    },
-    {
-      "title": "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-13T17:46:19.000Z"
-    },
-    {
-      "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-13T17:33:16.000Z"
-    },
-    {
-      "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-13T17:22:42.000Z"
-    },
-    {
-      "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
-      "link": "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-13T17:18:26.000Z"
     }
   ]
 }
