@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-22T03:55:29.418Z",
+  "lastUpdated": "2026-05-23T03:32:05.672Z",
   "items": [
+    {
+      "title": "Amazon SageMaker expands domain management across domain types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T19:30:00.000Z"
+    },
+    {
+      "title": "New agentic migration assessment capabilities now available with AWS Transform",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T18:58:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T18:24:00.000Z"
+    },
+    {
+      "title": "AWS Security Agent adds verification scripts for pentest findings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T17:21:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T16:24:00.000Z"
+    },
+    {
+      "title": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T07:00:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch Logs Insights adds new query commands and functions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights",
@@ -312,54 +360,6 @@
       "link": "https://aws.amazon.com/blogs/containers/simplify-ai-infrastructure-for-aws-trainium-and-elastic-fabric-adapter-with-kubernetes-dynamic-resource-allocation",
       "source": "AWS Containers Blog",
       "pubDate": "2026-05-18T18:56:30.000Z"
-    },
-    {
-      "title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T18:49:00.000Z"
-    },
-    {
-      "title": "Amazon EVS enables support for 32 hosts per environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T17:55:00.000Z"
-    },
-    {
-      "title": "Aderant transforms cloud operations with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-18T17:26:40.000Z"
-    },
-    {
-      "title": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T16:31:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T16:25:00.000Z"
-    },
-    {
-      "title": "Amazon ECS now integrates with Amazon EBS volumes in AWS GovCloud Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T15:53:00.000Z"
-    },
-    {
-      "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-18T15:37:55.000Z"
-    },
-    {
-      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-18T15:07:15.000Z"
     }
   ]
 }
