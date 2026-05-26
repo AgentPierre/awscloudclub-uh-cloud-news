@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-25T04:05:10.191Z",
+  "lastUpdated": "2026-05-26T03:50:56.692Z",
   "items": [
+    {
+      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-05-25T20:11:10.000Z"
+    },
     {
       "title": "Amazon SageMaker expands domain management across domain types",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc",
@@ -236,6 +242,12 @@
       "pubDate": "2026-05-20T16:28:00.000Z"
     },
     {
+      "title": "AWS Transform now modernizes networks during migrations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-network-modernization",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-20T14:53:00.000Z"
+    },
+    {
       "title": "Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye",
       "source": "AWS What's New",
@@ -348,18 +360,6 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-05-18T19:13:20.000Z"
-    },
-    {
-      "title": "Prompting Amazon Nova 2 for content moderation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-18T18:56:36.000Z"
-    },
-    {
-      "title": "Simplify AI infrastructure for AWS Trainium and Elastic Fabric Adapter with Kubernetes Dynamic Resource Allocation",
-      "link": "https://aws.amazon.com/blogs/containers/simplify-ai-infrastructure-for-aws-trainium-and-elastic-fabric-adapter-with-kubernetes-dynamic-resource-allocation",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-18T18:56:30.000Z"
     }
   ]
 }
