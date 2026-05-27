@@ -1,11 +1,101 @@
 {
-  "lastUpdated": "2026-05-26T03:50:56.692Z",
+  "lastUpdated": "2026-05-27T04:04:23.436Z",
   "items": [
+    {
+      "title": "Welcoming the AWS Customer Incident Response Team",
+      "link": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-26T19:04:17.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-26T19:00:00.000Z"
+    },
+    {
+      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+      "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T17:57:18.000Z"
+    },
+    {
+      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T17:41:26.000Z"
+    },
+    {
+      "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T17:39:46.000Z"
+    },
+    {
+      "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T17:22:48.000Z"
+    },
+    {
+      "title": "Well-architected best practices for software supply chain security",
+      "link": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-05-26T17:03:30.000Z"
+    },
+    {
+      "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T16:28:08.000Z"
+    },
+    {
+      "title": "Build an enterprise observability solution for Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T16:09:06.000Z"
+    },
+    {
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-26T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-26T16:00:00.000Z"
+    },
+    {
+      "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-26T15:59:16.000Z"
+    },
+    {
+      "title": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-26T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-26T10:00:00.000Z"
+    },
     {
       "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-05-25T20:11:10.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T20:07:00.000Z"
     },
     {
       "title": "Amazon SageMaker expands domain management across domain types",
@@ -30,6 +120,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent",
       "source": "AWS What's New",
       "pubDate": "2026-05-22T17:21:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-22T16:39:00.000Z"
     },
     {
       "title": "Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces",
@@ -170,6 +266,12 @@
       "pubDate": "2026-05-20T20:56:03.000Z"
     },
     {
+      "title": "AWS Deadline Cloud now supports browsing job attachments in the monitor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-deadline-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-20T20:28:00.000Z"
+    },
+    {
       "title": "AWS Security Hub now uncovers identity risks from unused access",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access",
       "source": "AWS What's New",
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions",
       "source": "AWS What's New",
       "pubDate": "2026-05-20T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-20T01:08:00.000Z"
-    },
-    {
-      "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
-      "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-19T21:34:25.000Z"
-    },
-    {
-      "title": "Amazon MWAA now supports Apache Airflow 3.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-19T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-19T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS introduces pause and continue controls for service deployments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-19T17:00:00.000Z"
-    },
-    {
-      "title": "Governing infrastructure as code using pattern-based policy as code",
-      "link": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-19T16:15:31.000Z"
-    },
-    {
-      "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-19T15:26:37.000Z"
-    },
-    {
-      "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-19T15:23:22.000Z"
-    },
-    {
-      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-19T15:20:33.000Z"
-    },
-    {
-      "title": "Implementing programmatic tool calling on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-19T15:17:00.000Z"
-    },
-    {
-      "title": "How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-05-19T15:09:36.000Z"
-    },
-    {
-      "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
-      "link": "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-05-19T15:06:40.000Z"
-    },
-    {
-      "title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-19T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Management Console now displays AWS Local Zones in the Region Selector",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T21:50:00.000Z"
-    },
-    {
-      "title": "Bitnami image removal from ECR Public",
-      "link": "https://aws.amazon.com/blogs/containers/bitnami-image-removal-from-ecr-public",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-05-18T21:46:33.000Z"
-    },
-    {
-      "title": "AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-18T21:10:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-18T19:13:20.000Z"
     }
   ]
 }
