@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-05-29T03:54:37.844Z",
+  "lastUpdated": "2026-05-30T03:39:47.086Z",
   "items": [
+    {
+      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-05-29T23:36:58.000Z"
+    },
+    {
+      "title": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T21:48:00.000Z"
+    },
+    {
+      "title": "AWS End User Messaging RCS for Business now available in 20 additional countries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T20:23:00.000Z"
+    },
+    {
+      "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
+      "link": "https://aws.amazon.com/blogs/containers/scaling-apache-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-05-29T18:57:30.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T18:00:00.000Z"
+    },
+    {
+      "title": "AWS Shield Advanced introduces DDoS attack flow logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T07:49:00.000Z"
+    },
+    {
+      "title": "Oracle Database@AWS is now available in twenty AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Tables are now available in two additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T04:00:00.000Z"
+    },
     {
       "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
       "link": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall",
@@ -294,72 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-05-26T17:39:46.000Z"
-    },
-    {
-      "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T17:22:48.000Z"
-    },
-    {
-      "title": "Well-architected best practices for software supply chain security",
-      "link": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-26T17:03:30.000Z"
-    },
-    {
-      "title": "From idea to AI app: Creating intelligent research assistants with Strands",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T16:28:08.000Z"
-    },
-    {
-      "title": "Build an enterprise observability solution for Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T16:09:06.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T16:00:00.000Z"
-    },
-    {
-      "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T15:59:16.000Z"
-    },
-    {
-      "title": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T10:00:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-25T20:11:10.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-22T20:07:00.000Z"
     }
   ]
 }
