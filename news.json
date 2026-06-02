@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-06-01T04:20:35.087Z",
+  "lastUpdated": "2026-06-02T04:15:43.966Z",
   "items": [
+    {
+      "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-02T03:23:35.000Z"
+    },
+    {
+      "title": "Announcing the General Availability of the AWS IoT Device SDK for Swift",
+      "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-the-aws-iot-device-sdk-for-swift",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-06-01T23:15:34.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T23:00:00.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now supports Nextflow version 26.04",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T23:00:00.000Z"
+    },
+    {
+      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T22:16:28.000Z"
+    },
+    {
+      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T21:54:16.000Z"
+    },
+    {
+      "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
+      "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-01T21:45:52.000Z"
+    },
+    {
+      "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-01T21:33:28.000Z"
+    },
+    {
+      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T21:31:12.000Z"
+    },
+    {
+      "title": "AWS SDK for .NET V3 end-of-support announcement",
+      "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-net-v3-end-of-support-announcement",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-06-01T19:14:51.000Z"
+    },
+    {
+      "title": "AWS Tools for PowerShell V4 end-of- support announcement",
+      "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-end-of-support-announcement",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-06-01T19:14:48.000Z"
+    },
+    {
+      "title": "Introducing multipart download support for AWS Tools for PowerShell v5",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-tools-for-powershell-v5",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-06-01T19:04:35.000Z"
+    },
+    {
+      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T18:35:03.000Z"
+    },
+    {
+      "title": "Quick Research now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T18:27:00.000Z"
+    },
+    {
+      "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T17:54:22.000Z"
+    },
+    {
+      "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T17:30:12.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports VPC connectivity for MCP connections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T17:26:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T17:00:00.000Z"
+    },
+    {
+      "title": "Building a scalable user search layer on top of Amazon Cognito",
+      "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-01T16:16:45.000Z"
+    },
+    {
+      "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T16:12:18.000Z"
+    },
+    {
+      "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
+      "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-01T16:07:48.000Z"
+    },
+    {
+      "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T16:07:19.000Z"
+    },
+    {
+      "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-01T16:01:24.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports EFA-only network interfaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-01T14:25:33.000Z"
+    },
+    {
+      "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T13:38:00.000Z"
+    },
+    {
+      "title": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon SES now supports tenant-level suppression lists",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T12:00:00.000Z"
+    },
+    {
+      "title": "Amazon Inspector launches improved agent-based scanning for EC2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-ec2-agent-scanning-improvements",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-31T14:15:00.000Z"
+    },
     {
       "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
       "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality",
@@ -156,210 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub",
       "source": "AWS What's New",
       "pubDate": "2026-05-28T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T15:21:00.000Z"
-    },
-    {
-      "title": "Claude Opus 4.8 is now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T15:16:00.000Z"
-    },
-    {
-      "title": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications adds support for Windows Desktop OS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T15:00:00.000Z"
-    },
-    {
-      "title": "The next generation of Amazon OpenSearch Serverless is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T15:00:00.000Z"
-    },
-    {
-      "title": "AWS IoT Core now supports direct messaging for point-to-point communication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-direct-messaging",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T14:56:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central now supports deal sizing using total contract value (TCV)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T14:00:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T23:30:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T23:30:00.000Z"
-    },
-    {
-      "title": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T23:30:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock expands support for Service Quotas",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T21:41:00.000Z"
-    },
-    {
-      "title": "Process financial documents using Amazon Bedrock Data Automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-27T21:28:53.000Z"
-    },
-    {
-      "title": "AWS Elemental Inference now supports Smart Subtitles for automated live captioning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T21:00:00.000Z"
-    },
-    {
-      "title": "SageMaker Notebook Instances now support P5en.48xl instance types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T20:30:00.000Z"
-    },
-    {
-      "title": "SageMaker Notebook Instances now support P5.4xl instance types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T20:30:00.000Z"
-    },
-    {
-      "title": "Amazon EMR now supports Apache Spark 4.0.2 in general availability",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T20:17:00.000Z"
-    },
-    {
-      "title": "AWS Glue large and memory optimized workers now available in Europe (Spain) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T20:10:00.000Z"
-    },
-    {
-      "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-27T20:06:34.000Z"
-    },
-    {
-      "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-27T20:01:06.000Z"
-    },
-    {
-      "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-27T18:51:45.000Z"
-    },
-    {
-      "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-27T18:00:07.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T17:00:00.000Z"
-    },
-    {
-      "title": "Meet Our Newest AWS Heroes – May 2026",
-      "link": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-27T16:15:05.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T15:06:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora MySQL now supports integration with Kiro Powers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql-kiro-powers",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-27T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T21:58:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer launches granular access controls for the agent login/logout report",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T21:04:00.000Z"
-    },
-    {
-      "title": "AWS Neuron 2.30.0 now available with NKI 0.4.0 and 22 new NKI Library kernels",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announce-neuron-2-30-0",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T20:17:00.000Z"
-    },
-    {
-      "title": "Welcoming the AWS Customer Incident Response Team",
-      "link": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-26T19:04:17.000Z"
-    },
-    {
-      "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-26T19:00:00.000Z"
-    },
-    {
-      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
-      "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T17:57:18.000Z"
-    },
-    {
-      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T17:41:26.000Z"
-    },
-    {
-      "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-26T17:39:46.000Z"
     }
   ]
 }
