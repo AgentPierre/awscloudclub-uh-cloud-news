@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-06-02T04:16:11.641Z",
+  "lastUpdated": "2026-06-03T04:23:25.475Z",
   "items": [
+    {
+      "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T21:48:00.000Z"
+    },
+    {
+      "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
+      "link": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-02T19:01:54.000Z"
+    },
+    {
+      "title": "Introducing Open-Source Skills for AWS SDK Best Practices",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-open-source-skills-for-aws-sdk-best-practices",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-06-02T18:54:26.000Z"
+    },
+    {
+      "title": "AWS Config now supports internal service linked rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T18:00:00.000Z"
+    },
+    {
+      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-02T17:39:03.000Z"
+    },
+    {
+      "title": "Object detection with Amazon Nova 2 Lite",
+      "link": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-02T17:31:11.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T16:23:00.000Z"
+    },
+    {
+      "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
+      "link": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-02T16:00:11.000Z"
+    },
+    {
+      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-02T15:45:11.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache for Valkey now supports durability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Location Service announces public transit and intermodal routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-location-service/amazon-location-new-public-transit-intermodal-routing",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T14:51:00.000Z"
+    },
+    {
+      "title": "Automating contract intelligence with Doczy.ai™ on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-02T14:06:32.000Z"
+    },
+    {
+      "title": "AWS Cost and Usage Report 2.0 now supports Athena and Redshift integration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cur2.0-athena-redshift",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T13:40:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-02T07:00:00.000Z"
+    },
     {
       "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients",
@@ -134,10 +224,22 @@
       "pubDate": "2026-06-01T16:07:19.000Z"
     },
     {
+      "title": "AWS PCS now provides a production-ready Deep Learning AMI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-pcs-deep-learning-ami",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:07:00.000Z"
+    },
+    {
       "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-01T16:01:24.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-01T16:00:00.000Z"
     },
     {
       "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
@@ -152,20 +254,14 @@
       "pubDate": "2026-06-01T16:00:00.000Z"
     },
     {
-      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager",
+      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills",
       "source": "AWS What's New",
       "pubDate": "2026-06-01T16:00:00.000Z"
     },
     {
       "title": "Amazon SageMaker HyperPod now supports EFA-only network interfaces",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills",
       "source": "AWS What's New",
       "pubDate": "2026-06-01T16:00:00.000Z"
     },
@@ -224,6 +320,12 @@
       "pubDate": "2026-05-29T20:23:00.000Z"
     },
     {
+      "title": "AWS HealthLake now supports CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F) requirements",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthlake-cms-cms-0057-f",
+      "source": "AWS What's New",
+      "pubDate": "2026-05-29T20:00:00.000Z"
+    },
+    {
       "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
       "link": "https://aws.amazon.com/blogs/containers/scaling-apache-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads",
       "source": "AWS Containers Blog",
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle",
       "source": "AWS What's New",
       "pubDate": "2026-05-29T07:49:00.000Z"
-    },
-    {
-      "title": "Oracle Database@AWS is now available in twenty AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-29T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Tables are now available in two additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
-      "link": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-28T22:44:17.000Z"
-    },
-    {
-      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T21:54:06.000Z"
-    },
-    {
-      "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T20:57:00.000Z"
-    },
-    {
-      "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T20:39:22.000Z"
-    },
-    {
-      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T20:35:44.000Z"
-    },
-    {
-      "title": "Evaluating Deep Agents using LangSmith on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T20:32:23.000Z"
-    },
-    {
-      "title": "AWS IoT Core adds APIs for MQTT connection management",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T20:30:00.000Z"
-    },
-    {
-      "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-28T19:29:55.000Z"
-    },
-    {
-      "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
-      "link": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-05-28T18:57:13.000Z"
-    },
-    {
-      "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications",
-      "source": "AWS News Blog",
-      "pubDate": "2026-05-28T18:26:16.000Z"
-    },
-    {
-      "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T18:10:47.000Z"
-    },
-    {
-      "title": "Claude Opus 4.8 is now available on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T17:51:32.000Z"
-    },
-    {
-      "title": "Automate AML alert triage with Amazon Quick and Snowflake Cortex AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-05-28T16:41:07.000Z"
-    },
-    {
-      "title": "AWS Organizations emits CloudTrail events for account membership changes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T16:00:00.000Z"
-    },
-    {
-      "title": "AWS announces general availability of the next generation of AWS Resilience Hub",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub",
-      "source": "AWS What's New",
-      "pubDate": "2026-05-28T16:00:00.000Z"
     }
   ]
 }
