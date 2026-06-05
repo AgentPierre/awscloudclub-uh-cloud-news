@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-06-04T04:18:14.412Z",
+  "lastUpdated": "2026-06-05T04:01:58.862Z",
   "items": [
+    {
+      "title": "Amazon SageMaker Data Agent integrates business context into conversations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T21:51:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
+      "link": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-04T21:45:42.000Z"
+    },
+    {
+      "title": "Gain visibility into DDoS attacks with flow logs in AWS Shield Advanced",
+      "link": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-04T19:21:34.000Z"
+    },
+    {
+      "title": "Amazon Cognito now supports multi-Region replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Databases on Vercel now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T17:00:00.000Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-04T16:59:08.000Z"
+    },
+    {
+      "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
+      "link": "https://aws.amazon.com/blogs/security/customize-federated-sign-in-with-new-amazon-cognito-lambda-trigger",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-04T15:49:15.000Z"
+    },
+    {
+      "title": "Amazon MQ is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T08:05:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T07:00:00.000Z"
+    },
     {
       "title": "Improve your application resilience with Amazon Cognito multi-Region replication",
       "link": "https://aws.amazon.com/blogs/aws/improve-your-application-resilience-with-amazon-cognito-multi-region-replication",
@@ -104,14 +164,14 @@
       "pubDate": "2026-06-03T15:00:00.000Z"
     },
     {
-      "title": "AWS Config now supports 9 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types",
+      "title": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron",
       "source": "AWS What's New",
       "pubDate": "2026-06-03T15:00:00.000Z"
     },
     {
-      "title": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron",
+      "title": "AWS Config now supports 9 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types",
       "source": "AWS What's New",
       "pubDate": "2026-06-03T15:00:00.000Z"
     },
@@ -300,66 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-5000-agents",
       "source": "AWS What's New",
       "pubDate": "2026-06-01T18:43:00.000Z"
-    },
-    {
-      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-01T18:35:03.000Z"
-    },
-    {
-      "title": "Quick Research now supports customer managed keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T18:27:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now provides schedule update notifications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-scheduling-notifications",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T18:24:00.000Z"
-    },
-    {
-      "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-01T17:54:22.000Z"
-    },
-    {
-      "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-01T17:30:12.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports VPC connectivity for MCP connections",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T17:26:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T17:00:00.000Z"
-    },
-    {
-      "title": "Building a scalable user search layer on top of Amazon Cognito",
-      "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-01T16:16:45.000Z"
-    },
-    {
-      "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-01T16:12:18.000Z"
-    },
-    {
-      "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
-      "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-01T16:07:48.000Z"
     }
   ]
 }
