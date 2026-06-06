@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-06-05T04:01:58.862Z",
+  "lastUpdated": "2026-06-06T03:43:38.162Z",
   "items": [
+    {
+      "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-05T22:25:00.000Z"
+    },
+    {
+      "title": "Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-05T21:11:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch UI is now available in GovCloud regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-05T20:40:00.000Z"
+    },
+    {
+      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+      "link": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-05T19:15:11.000Z"
+    },
+    {
+      "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+      "link": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-05T17:07:06.000Z"
+    },
+    {
+      "title": "Amazon ECS with AWS Fargate now supports 32vCPU compute configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-05T15:00:00.000Z"
+    },
+    {
+      "title": "The AWS MCP Server now supports cross-account and cross-role access",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-05T07:00:00.000Z"
+    },
     {
       "title": "Amazon SageMaker Data Agent integrates business context into conversations",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc",
@@ -20,14 +62,14 @@
       "pubDate": "2026-06-04T19:21:34.000Z"
     },
     {
-      "title": "Amazon Cognito now supports multi-Region replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region",
+      "title": "AWS Databases on Vercel now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions",
       "source": "AWS What's New",
       "pubDate": "2026-06-04T17:00:00.000Z"
     },
     {
-      "title": "AWS Databases on Vercel now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions",
+      "title": "Amazon Cognito now supports multi-Region replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region",
       "source": "AWS What's New",
       "pubDate": "2026-06-04T17:00:00.000Z"
     },
@@ -42,6 +84,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-04T16:59:08.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports plugin sync for service-managed fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-04T16:13:00.000Z"
     },
     {
       "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
@@ -312,54 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-01T21:54:16.000Z"
-    },
-    {
-      "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
-      "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-01T21:45:52.000Z"
-    },
-    {
-      "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-01T21:33:28.000Z"
-    },
-    {
-      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-01T21:31:12.000Z"
-    },
-    {
-      "title": "AWS SDK for .NET V3 end-of-support announcement",
-      "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-net-v3-end-of-support-announcement",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-06-01T19:14:51.000Z"
-    },
-    {
-      "title": "AWS Tools for PowerShell V4 end-of- support announcement",
-      "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-end-of-support-announcement",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-06-01T19:14:48.000Z"
-    },
-    {
-      "title": "Introducing multipart download support for AWS Tools for PowerShell v5",
-      "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-tools-for-powershell-v5",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-06-01T19:04:35.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-activity-optimization",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T18:51:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports up to 5,000 agents per schedule",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-5000-agents",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-01T18:43:00.000Z"
     }
   ]
 }
