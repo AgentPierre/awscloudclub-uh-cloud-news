@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-06-11T04:12:38.060Z",
+  "lastUpdated": "2026-06-12T04:14:19.071Z",
   "items": [
+    {
+      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports%20infrastructure-logs-traces-context-for-faster%20troubleshooting",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T20:10:00.000Z"
+    },
+    {
+      "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-11T19:40:33.000Z"
+    },
+    {
+      "title": "Amazon Aurora now supports PostgreSQL major version 18",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T18:59:00.000Z"
+    },
+    {
+      "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T17:00:00.000Z"
+    },
+    {
+      "title": "Evaluate AI agents systematically with Agent-EvalKit",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-11T15:49:47.000Z"
+    },
+    {
+      "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-11T15:36:31.000Z"
+    },
+    {
+      "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-11T15:11:56.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus now supports out of order sample ingestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T13:00:00.000Z"
+    },
+    {
+      "title": "AWS announces AWS Workload Credentials Provider",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-11T07:00:00.000Z"
+    },
     {
       "title": "How frontier teams are reinventing AI-native development",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development",
@@ -14,16 +80,34 @@
       "pubDate": "2026-06-11T00:12:00.000Z"
     },
     {
+      "title": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-10T22:58:00.000Z"
+    },
+    {
       "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes",
       "source": "AWS What's New",
       "pubDate": "2026-06-10T20:00:00.000Z"
     },
     {
+      "title": "Gemma 4 models now available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-10T19:17:00.000Z"
+    },
+    {
       "title": "AWS CLI v1 maintenance mode: announcing changes to dependency updates",
       "link": "https://aws.amazon.com/blogs/developer/aws-cli-v1-maintenance-mode-announcing-changes-to-dependency-updates",
       "source": "AWS Developer Tools Blog",
       "pubDate": "2026-06-10T18:31:56.000Z"
+    },
+    {
+      "title": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-10T16:58:00.000Z"
     },
     {
       "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
@@ -206,6 +290,12 @@
       "pubDate": "2026-06-08T17:03:00.000Z"
     },
     {
+      "title": "AWS Lambda Managed Instances expands to additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-08T17:00:00.000Z"
+    },
+    {
       "title": "AWS Application Migration Service is now AWS Transform MGN",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand",
       "source": "AWS What's New",
@@ -214,12 +304,6 @@
     {
       "title": "Amazon Aurora DSQL now supports the JSONB data type with compression",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda Managed Instances expands to additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion",
       "source": "AWS What's New",
       "pubDate": "2026-06-08T17:00:00.000Z"
     },
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-08T15:57:45.000Z"
-    },
-    {
-      "title": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server migration cost assessment capabilities now available in AWS Transform",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-sql-server-cost-assessment-aws-transform",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T22:25:00.000Z"
-    },
-    {
-      "title": "Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T21:11:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch UI is now available in GovCloud regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T20:40:00.000Z"
-    },
-    {
-      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-      "link": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-05T19:15:11.000Z"
-    },
-    {
-      "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
-      "link": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-05T17:07:06.000Z"
-    },
-    {
-      "title": "Amazon ECS with AWS Fargate now supports 32vCPU compute configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8in instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T15:00:00.000Z"
-    },
-    {
-      "title": "The AWS Command Line Interface (CLI) now supports the Agent Toolkit for AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cli-agent-toolkit",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T07:00:00.000Z"
-    },
-    {
-      "title": "The AWS MCP Server now supports cross-account and cross-role access",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-05T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Data Agent integrates business context into conversations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-04T21:51:00.000Z"
-    },
-    {
-      "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
-      "link": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-04T21:45:42.000Z"
-    },
-    {
-      "title": "Gain visibility into DDoS attacks with flow logs in AWS Shield Advanced",
-      "link": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-04T19:21:34.000Z"
     }
   ]
 }
