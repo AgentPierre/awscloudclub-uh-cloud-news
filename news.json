@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-06-15T04:43:35.333Z",
+  "lastUpdated": "2026-06-16T04:27:11.819Z",
   "items": [
+    {
+      "title": "AWS Management Console Private Access now works without internet connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T23:00:00.000Z"
+    },
+    {
+      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+      "link": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-15T20:42:13.000Z"
+    },
+    {
+      "title": "Introducing Gemma 4 models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-15T20:24:15.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T18:30:00.000Z"
+    },
+    {
+      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-15T18:07:59.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T17:06:00.000Z"
+    },
+    {
+      "title": "Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T17:00:00.000Z"
+    },
+    {
+      "title": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T16:07:00.000Z"
+    },
+    {
+      "title": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T15:55:00.000Z"
+    },
+    {
+      "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T15:47:00.000Z"
+    },
+    {
+      "title": "How Samsung achieved real-time pricing with AWS Lambda Response Streaming",
+      "link": "https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-15T14:13:36.000Z"
+    },
+    {
+      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-15T13:56:33.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T13:00:00.000Z"
+    },
+    {
+      "title": "AWS WAF announces AI traffic monetization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-15T11:41:48.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch now supports cross-account metrics centralization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Query Studio is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T10:00:00.000Z"
+    },
+    {
+      "title": "Free Network Bandwidth Amazon GameLift Servers is Here!",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-15T07:00:00.000Z"
+    },
     {
       "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai",
@@ -216,150 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud",
       "source": "AWS What's New",
       "pubDate": "2026-06-10T14:32:00.000Z"
-    },
-    {
-      "title": "AWS Cost and Usage Report 2.0 now supports table configurations update",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-usage-report",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-10T13:33:00.000Z"
-    },
-    {
-      "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T20:52:00.000Z"
-    },
-    {
-      "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-09T20:07:24.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T18:46:00.000Z"
-    },
-    {
-      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "link": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-09T17:40:31.000Z"
-    },
-    {
-      "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T17:14:00.000Z"
-    },
-    {
-      "title": "Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh",
-      "link": "https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-06-09T16:52:39.000Z"
-    },
-    {
-      "title": "Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake",
-      "link": "https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-09T16:51:55.000Z"
-    },
-    {
-      "title": "Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake",
-      "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-09T16:43:28.000Z"
-    },
-    {
-      "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-09T16:10:37.000Z"
-    },
-    {
-      "title": "AWS FinOps Agent is now available in preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T15:28:00.000Z"
-    },
-    {
-      "title": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T15:00:00.000Z"
-    },
-    {
-      "title": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T14:15:00.000Z"
-    },
-    {
-      "title": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T10:00:00.000Z"
-    },
-    {
-      "title": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-09T03:00:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-08T21:27:12.000Z"
-    },
-    {
-      "title": "ICYMI: May 2026 @AWS Security",
-      "link": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-08T21:00:11.000Z"
-    },
-    {
-      "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T19:36:00.000Z"
-    },
-    {
-      "title": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T18:59:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs Insights adds 23 new query commands and functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights-new",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T17:50:00.000Z"
-    },
-    {
-      "title": "AWS Savings Plans Purchase Analyzer now supports target coverage analysis",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T17:16:00.000Z"
-    },
-    {
-      "title": "PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-08T17:03:00.000Z"
     }
   ]
 }
