@@ -1,6 +1,180 @@
 {
-  "lastUpdated": "2026-06-17T04:21:37.483Z",
+  "lastUpdated": "2026-06-18T04:14:33.407Z",
   "items": [
+    {
+      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-17T20:56:36.000Z"
+    },
+    {
+      "title": "Get back hours every day with autonomous agents in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-17T20:35:39.000Z"
+    },
+    {
+      "title": "AWS Glue Interactive Sessions now support Spark Connect for interactive workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T19:15:00.000Z"
+    },
+    {
+      "title": "Context intelligence for your data and AI agents at scale",
+      "link": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-17T17:17:37.000Z"
+    },
+    {
+      "title": "Top announcements of the AWS Summit in New York, 2026",
+      "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T16:36:08.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T16:00:00.000Z"
+    },
+    {
+      "title": "Introducing AWS Continuum: Security at machine speed",
+      "link": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-17T15:34:05.000Z"
+    },
+    {
+      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-17T15:29:36.000Z"
+    },
+    {
+      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T15:09:20.000Z"
+    },
+    {
+      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T15:00:11.000Z"
+    },
+    {
+      "title": "AWS DevOps Agent adds release management capability (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T15:00:00.000Z"
+    },
+    {
+      "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+      "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T14:58:00.000Z"
+    },
+    {
+      "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T14:57:34.000Z"
+    },
+    {
+      "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+      "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-17T14:54:55.000Z"
+    },
+    {
+      "title": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T14:30:00.000Z"
+    },
+    {
+      "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
+      "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-17T13:50:16.000Z"
+    },
+    {
+      "title": "Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T13:40:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "title": "AgentCore harness in now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Glue Data Catalog now supports business context and semantic search (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-data-catalog",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing AWS Continuum for security at machine speed",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T07:00:00.000Z"
+    },
+    {
+      "title": "Oracle Database@AWS now supports Oracle Autonomous AI Database Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/oracle-database-aws-autonomous-database-serverless",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/safe-secrets-handling-in-agent-toolkit-for-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T05:00:00.000Z"
+    },
+    {
+      "title": "AWS Security Agent announces support for Threat Modeling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T04:00:00.000Z"
+    },
+    {
+      "title": "AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-17T04:00:00.000Z"
+    },
     {
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects",
@@ -38,10 +212,22 @@
       "pubDate": "2026-06-16T20:16:02.000Z"
     },
     {
+      "title": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-16T20:07:00.000Z"
+    },
+    {
       "title": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow",
       "source": "AWS What's New",
       "pubDate": "2026-06-16T18:29:00.000Z"
+    },
+    {
+      "title": "Announcing Web Search on Amazon Bedrock AgentCore for Agentic Web Retrieval",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-web-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-16T18:00:00.000Z"
     },
     {
       "title": "Threat tactic spotlight: Subdomain takeover",
@@ -74,6 +260,12 @@
       "pubDate": "2026-06-16T15:49:00.000Z"
     },
     {
+      "title": "Amazon Quick expands integrations with new connectors for Adobe, Figma, WhatsApp, and more",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-16T15:20:00.000Z"
+    },
+    {
       "title": "AWS Partner Central agents now accelerate co-selling on every deal",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents",
       "source": "AWS What's New",
@@ -92,14 +284,14 @@
       "pubDate": "2026-06-16T12:30:00.000Z"
     },
     {
-      "title": "AWS Partner Central launches new funding benefits for Business Value Realization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization",
+      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review",
       "source": "AWS What's New",
       "pubDate": "2026-06-16T07:00:00.000Z"
     },
     {
-      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review",
+      "title": "AWS Partner Central launches new funding benefits for Business Value Realization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization",
       "source": "AWS What's New",
       "pubDate": "2026-06-16T07:00:00.000Z"
     },
@@ -134,12 +326,6 @@
       "pubDate": "2026-06-16T04:00:00.000Z"
     },
     {
-      "title": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
       "title": "AWS Marketplace Storefront is now generally available",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-marketplace-storefront",
       "source": "AWS What's New",
@@ -158,6 +344,12 @@
       "pubDate": "2026-06-16T04:00:00.000Z"
     },
     {
+      "title": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-16T04:00:00.000Z"
+    },
+    {
       "title": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai",
       "source": "AWS What's New",
@@ -168,198 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private",
       "source": "AWS What's New",
       "pubDate": "2026-06-15T23:00:00.000Z"
-    },
-    {
-      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
-      "link": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-15T20:42:13.000Z"
-    },
-    {
-      "title": "Introducing Gemma 4 models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-15T20:24:15.000Z"
-    },
-    {
-      "title": "Grok 4.3 from xAI now available in Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T20:04:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T18:30:00.000Z"
-    },
-    {
-      "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-15T18:07:59.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T17:06:00.000Z"
-    },
-    {
-      "title": "Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon FSx for Lustre Intelligent-Tiering storage class is now available in 13 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-lustre-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T16:36:00.000Z"
-    },
-    {
-      "title": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T16:07:00.000Z"
-    },
-    {
-      "title": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T15:55:00.000Z"
-    },
-    {
-      "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T15:47:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central now provides lead enrichment and prospecting",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/lead-enrichment-and-prospecting",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T15:37:00.000Z"
-    },
-    {
-      "title": "How Samsung achieved real-time pricing with AWS Lambda Response Streaming",
-      "link": "https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-15T14:13:36.000Z"
-    },
-    {
-      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-15T13:56:33.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T13:00:00.000Z"
-    },
-    {
-      "title": "AWS WAF announces AI traffic monetization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-15T11:41:48.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch now supports cross-account metrics centralization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Query Studio is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T10:00:00.000Z"
-    },
-    {
-      "title": "Free Network Bandwidth Amazon GameLift Servers is Here!",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T07:00:00.000Z"
-    },
-    {
-      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-12T20:43:56.000Z"
-    },
-    {
-      "title": "Amazon Lightsail is now available in three additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-12T20:43:00.000Z"
-    },
-    {
-      "title": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-12T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 I7i instances now available in AWS Europe (Paris) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-12T16:00:00.000Z"
-    },
-    {
-      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-12T14:49:40.000Z"
-    },
-    {
-      "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-12T14:43:11.000Z"
     }
   ]
 }
