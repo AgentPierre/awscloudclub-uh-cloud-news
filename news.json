@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-06-18T04:14:33.407Z",
+  "lastUpdated": "2026-06-19T04:42:31.438Z",
   "items": [
+    {
+      "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-19T01:00:00.000Z"
+    },
+    {
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-18T23:31:58.000Z"
+    },
+    {
+      "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T22:36:00.000Z"
+    },
+    {
+      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-18T21:22:10.000Z"
+    },
+    {
+      "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-18T21:06:38.000Z"
+    },
+    {
+      "title": "Amazon ECS announces faster service auto scaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 G7 instances are now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T20:59:00.000Z"
+    },
+    {
+      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T20:20:00.000Z"
+    },
+    {
+      "title": "Accelerate security investigations with Kiro CLI",
+      "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-18T19:24:30.000Z"
+    },
+    {
+      "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T18:47:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T18:35:00.000Z"
+    },
+    {
+      "title": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T18:30:00.000Z"
+    },
+    {
+      "title": "AWS Compute Optimizer enhances EBS volume recommendations with additional performance metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-enhances-ebs-recommendations",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T18:30:00.000Z"
+    },
+    {
+      "title": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T18:30:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-18T17:32:22.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports customer-routed control plane egress",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T17:00:00.000Z"
+    },
+    {
+      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+      "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-18T16:50:34.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T15:13:00.000Z"
+    },
+    {
+      "title": "Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sns-supports-sending-sms-seoul-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Servers adds new container fleet improvements",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T07:00:00.000Z"
+    },
     {
       "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads",
@@ -122,14 +248,14 @@
       "pubDate": "2026-06-17T12:00:00.000Z"
     },
     {
-      "title": "AgentCore harness in now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
+      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
       "source": "AWS What's New",
       "pubDate": "2026-06-17T12:00:00.000Z"
     },
     {
-      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
+      "title": "AgentCore harness is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
       "source": "AWS What's New",
       "pubDate": "2026-06-17T12:00:00.000Z"
     },
@@ -234,132 +360,6 @@
       "link": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover",
       "source": "AWS Security Blog",
       "pubDate": "2026-06-16T17:53:20.000Z"
-    },
-    {
-      "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-16T17:47:09.000Z"
-    },
-    {
-      "title": "AWS Sign-in now supports resource-based policies and resource control policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T16:20:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift RG instances powered by AWS Graviton now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T16:10:00.000Z"
-    },
-    {
-      "title": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T15:49:00.000Z"
-    },
-    {
-      "title": "Amazon Quick expands integrations with new connectors for Adobe, Figma, WhatsApp, and more",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T15:20:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central agents now accelerate co-selling on every deal",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T12:44:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace announces AI-assisted product listing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T12:30:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central launches new funding benefits for Business Value Realization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports X2m instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace reduces listing fee for professional services to 0.5%",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T05:00:00.000Z"
-    },
-    {
-      "title": "AWS Partners can now accelerate co-sell deals with express private offers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partners-express-private-offers",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T05:00:00.000Z"
-    },
-    {
-      "title": "AWS announces Amazon Connect Customer Services Competency",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace Storefront is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-marketplace-storefront",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central agents now guide new partners from registration to ready-to-sell",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 adds annotations to provide AI agents and analytics tools with context for data discovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-annotations-business-context",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T03:08:00.000Z"
-    },
-    {
-      "title": "AWS Management Console Private Access now works without internet connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-15T23:00:00.000Z"
     }
   ]
 }
