@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-19T04:42:31.438Z",
+  "lastUpdated": "2026-06-20T03:56:41.886Z",
   "items": [
+    {
+      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-19T14:15:24.000Z"
+    },
+    {
+      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-19T14:05:04.000Z"
+    },
     {
       "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam",
@@ -12,6 +24,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-18T23:31:58.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Synthetics now supports multilocation canaries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T22:41:00.000Z"
     },
     {
       "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
@@ -120,6 +138,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements",
       "source": "AWS What's New",
       "pubDate": "2026-06-18T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal Supports Ubuntu 24.04",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ubuntu-china-zhy",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T07:00:00.000Z"
     },
     {
       "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
@@ -336,30 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-16T20:16:02.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T20:07:00.000Z"
-    },
-    {
-      "title": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T18:29:00.000Z"
-    },
-    {
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore for Agentic Web Retrieval",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-web-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T18:00:00.000Z"
-    },
-    {
-      "title": "Threat tactic spotlight: Subdomain takeover",
-      "link": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-16T17:53:20.000Z"
     }
   ]
 }
