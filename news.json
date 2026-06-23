@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-06-22T04:43:09.382Z",
+  "lastUpdated": "2026-06-23T03:49:16.548Z",
   "items": [
+    {
+      "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+      "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-22T22:40:07.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now supports Nextflow profiles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T22:00:00.000Z"
+    },
+    {
+      "title": "AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T20:37:00.000Z"
+    },
+    {
+      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-22T17:53:40.000Z"
+    },
+    {
+      "title": "AWS Network Firewall updates default drop action for improved connection reliability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T17:00:00.000Z"
+    },
+    {
+      "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
+      "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-22T16:49:13.000Z"
+    },
+    {
+      "title": "Modernizing financial analytics with Amazon SageMaker Unified Studio",
+      "link": "https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-22T16:42:55.000Z"
+    },
+    {
+      "title": "Architecting AI-powered resilience framework on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-06-22T16:35:07.000Z"
+    },
+    {
+      "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-22T16:32:15.000Z"
+    },
+    {
+      "title": "AWS Batch now supports customer-ordered instance allocation strategies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T16:30:00.000Z"
+    },
+    {
+      "title": "Running ComfyUI workflows on Amazon SageMaker AI processing jobs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-22T16:28:46.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports control plane egress through your VPC",
+      "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-06-22T16:20:28.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T16:07:00.000Z"
+    },
+    {
+      "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
+      "link": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-22T15:53:05.000Z"
+    },
+    {
+      "title": "Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-06-22T14:46:17.000Z"
+    },
+    {
+      "title": "Introducing self-service lifecycle management capabilities for AWS Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-self-service-lifecycle-management",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T10:00:00.000Z"
+    },
     {
       "title": "Introducing Web Search on Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore",
@@ -72,6 +174,12 @@
       "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli",
       "source": "AWS Security Blog",
       "pubDate": "2026-06-18T19:24:30.000Z"
+    },
+    {
+      "title": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-18T19:00:00.000Z"
     },
     {
       "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a",
       "source": "AWS What's New",
       "pubDate": "2026-06-17T14:30:00.000Z"
-    },
-    {
-      "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
-      "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-17T13:50:16.000Z"
-    },
-    {
-      "title": "Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T13:40:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "AgentCore harness is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Glue Data Catalog now supports business context and semantic search (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-data-catalog",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing AWS Continuum for security at machine speed",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T07:00:00.000Z"
-    },
-    {
-      "title": "Oracle Database@AWS now supports Oracle Autonomous AI Database Serverless",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/oracle-database-aws-autonomous-database-serverless",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/safe-secrets-handling-in-agent-toolkit-for-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Managed Knowledge Base is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T05:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Agent announces support for Threat Modeling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T04:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-16T23:13:10.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T22:53:00.000Z"
-    },
-    {
-      "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
-      "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-16T22:46:46.000Z"
-    },
-    {
-      "title": "AWS Transform now supports model-to-model migration assessment for generative AI workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T21:55:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Vectors now supports up to 10,000 similarity search results per query",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-16T21:22:00.000Z"
-    },
-    {
-      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-16T20:16:02.000Z"
     }
   ]
 }
