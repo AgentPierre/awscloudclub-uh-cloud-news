@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-06-23T03:49:16.548Z",
+  "lastUpdated": "2026-06-24T03:50:42.306Z",
   "items": [
+    {
+      "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T20:30:00.000Z"
+    },
+    {
+      "title": "SageMaker Notebook Instances now support G6e instance types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T18:14:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports cross-account access",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T17:20:00.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now supports ephemeral storage for private workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T17:15:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito now supports customer managed key for encryption at rest",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T17:00:46.000Z"
+    },
+    {
+      "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-23T16:39:34.000Z"
+    },
+    {
+      "title": "Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T16:20:00.000Z"
+    },
+    {
+      "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-23T15:43:59.000Z"
+    },
+    {
+      "title": "Faster nodes, smarter scaling: What’s new inside Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode",
+      "link": "https://aws.amazon.com/blogs/containers/faster-nodes-smarter-scaling-whats-new-inside-amazon-elastic-kubernetes-service-amazon-eks-auto-mode",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-06-23T15:39:02.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T15:12:00.000Z"
+    },
+    {
+      "title": "Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T05:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service now offers AI-assisted migrations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T03:30:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Studio notebooks now support G7e instance types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T01:02:00.000Z"
+    },
     {
       "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
       "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms",
@@ -24,6 +102,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-22T17:53:40.000Z"
+    },
+    {
+      "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T17:30:40.000Z"
     },
     {
       "title": "AWS Network Firewall updates default drop action for improved connection reliability",
@@ -88,6 +172,12 @@
     {
       "title": "Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T15:00:00.000Z"
+    },
+    {
+      "title": "MSK Replicator now supports mutual TLS (mTLS) authentication for replication from external Apache Kafka clusters to MSK Express brokers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-replicator-mtls-support",
       "source": "AWS What's New",
       "pubDate": "2026-06-22T15:00:00.000Z"
     },
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-17T20:35:39.000Z"
-    },
-    {
-      "title": "AWS Glue Interactive Sessions now support Spark Connect for interactive workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T19:15:00.000Z"
-    },
-    {
-      "title": "Context intelligence for your data and AI agents at scale",
-      "link": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-17T17:17:37.000Z"
-    },
-    {
-      "title": "Top announcements of the AWS Summit in New York, 2026",
-      "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T16:36:08.000Z"
-    },
-    {
-      "title": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T16:00:00.000Z"
-    },
-    {
-      "title": "Introducing AWS Continuum: Security at machine speed",
-      "link": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-17T15:34:05.000Z"
-    },
-    {
-      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-17T15:29:36.000Z"
-    },
-    {
-      "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T15:09:20.000Z"
-    },
-    {
-      "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T15:00:11.000Z"
-    },
-    {
-      "title": "AWS DevOps Agent adds release management capability (preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T15:00:00.000Z"
-    },
-    {
-      "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
-      "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T14:58:00.000Z"
-    },
-    {
-      "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T14:57:34.000Z"
-    },
-    {
-      "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
-      "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-17T14:54:55.000Z"
-    },
-    {
-      "title": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-17T14:30:00.000Z"
     }
   ]
 }
