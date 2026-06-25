@@ -1,11 +1,83 @@
 {
-  "lastUpdated": "2026-06-24T03:50:42.306Z",
+  "lastUpdated": "2026-06-25T03:51:12.713Z",
   "items": [
+    {
+      "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
+      "link": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-06-24T20:01:47.000Z"
+    },
+    {
+      "title": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T19:21:00.000Z"
+    },
+    {
+      "title": "AWS IoT Device SDK for Swift is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T18:48:00.000Z"
+    },
+    {
+      "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-24T18:24:50.000Z"
+    },
+    {
+      "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-24T18:20:27.000Z"
+    },
+    {
+      "title": "AI-powered BI with Snowflake and Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-24T18:19:35.000Z"
+    },
+    {
+      "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-24T16:56:24.000Z"
+    },
+    {
+      "title": "Amazon Neptune now supports AWS CloudFormation for global databases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch now supports tags on dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific (Seoul) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T01:00:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion",
       "source": "AWS What's New",
       "pubDate": "2026-06-23T20:30:00.000Z"
+    },
+    {
+      "title": "Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-23T19:49:00.000Z"
     },
     {
       "title": "SageMaker Notebook Instances now support G6e instance types",
@@ -272,7 +344,7 @@
       "pubDate": "2026-06-18T19:00:00.000Z"
     },
     {
-      "title": "Nested virtualization is now available on additional Intel platforms and US Gov Cloud regions",
+      "title": "Nested virtualization is now available on additional Intel platforms and AWS GovCloud (US) regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud",
       "source": "AWS What's New",
       "pubDate": "2026-06-18T18:47:00.000Z"
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart",
       "source": "AWS What's New",
       "pubDate": "2026-06-18T18:30:00.000Z"
-    },
-    {
-      "title": "AWS Compute Optimizer enhances EBS volume recommendations with additional performance metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-enhances-ebs-recommendations",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T18:30:00.000Z"
-    },
-    {
-      "title": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T18:30:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-18T17:32:22.000Z"
-    },
-    {
-      "title": "Amazon EKS now supports customer-routed control plane egress",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T17:00:00.000Z"
-    },
-    {
-      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
-      "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-18T16:50:34.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T15:13:00.000Z"
-    },
-    {
-      "title": "Amazon SNS now supports sending SMS in the Asia Pacific (Seoul) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sns-supports-sending-sms-seoul-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon GameLift Servers adds new container fleet improvements",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Personal Supports Ubuntu 24.04",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ubuntu-china-zhy",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-17T20:56:36.000Z"
-    },
-    {
-      "title": "Get back hours every day with autonomous agents in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-17T20:35:39.000Z"
     }
   ]
 }
