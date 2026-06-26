@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-06-25T03:51:12.713Z",
+  "lastUpdated": "2026-06-26T03:57:38.096Z",
   "items": [
+    {
+      "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T22:24:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T22:15:00.000Z"
+    },
+    {
+      "title": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T21:00:00.000Z"
+    },
+    {
+      "title": "AWS Network Firewall now supports managed threat intelligence rules from VisionHeight",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T20:18:00.000Z"
+    },
+    {
+      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
+      "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-25T17:55:10.000Z"
+    },
+    {
+      "title": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T17:00:00.000Z"
+    },
+    {
+      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-25T16:41:47.000Z"
+    },
+    {
+      "title": "Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-25T16:40:13.000Z"
+    },
+    {
+      "title": "Amazon Redshift adds Reserved Instance upfront pricing options for RG instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T16:39:00.000Z"
+    },
+    {
+      "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-25T16:38:12.000Z"
+    },
+    {
+      "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-25T16:35:07.000Z"
+    },
+    {
+      "title": "AWS GovCloud (US) now offers US-based, US citizen 24/7 technical support for all customers by default",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T12:00:00.000Z"
+    },
+    {
+      "title": "AWS Backup enhances Amazon S3 backup copy performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-custom-supports-latest-cu-gdr-updates-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T07:44:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T07:03:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T01:32:00.000Z"
+    },
     {
       "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
       "link": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps",
@@ -48,6 +144,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-24T16:56:24.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-24T16:09:00.000Z"
     },
     {
       "title": "Amazon Neptune now supports AWS CloudFormation for global databases",
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-06-22T14:46:17.000Z"
-    },
-    {
-      "title": "Introducing self-service lifecycle management capabilities for AWS Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-self-service-lifecycle-management",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-22T10:00:00.000Z"
-    },
-    {
-      "title": "Introducing Web Search on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-19T14:15:24.000Z"
-    },
-    {
-      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-19T14:05:04.000Z"
-    },
-    {
-      "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-19T01:00:00.000Z"
-    },
-    {
-      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-18T23:31:58.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Synthetics now supports multilocation canaries",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T22:41:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T22:36:00.000Z"
-    },
-    {
-      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-18T21:22:10.000Z"
-    },
-    {
-      "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-18T21:06:38.000Z"
-    },
-    {
-      "title": "Amazon ECS announces faster service auto scaling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 G7 instances are now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T20:59:00.000Z"
-    },
-    {
-      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T20:20:00.000Z"
-    },
-    {
-      "title": "Accelerate security investigations with Kiro CLI",
-      "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-18T19:24:30.000Z"
-    },
-    {
-      "title": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T19:00:00.000Z"
-    },
-    {
-      "title": "Nested virtualization is now available on additional Intel platforms and AWS GovCloud (US) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/nested-virtualization-intel-us-gov-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T18:47:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T18:35:00.000Z"
-    },
-    {
-      "title": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-18T18:30:00.000Z"
     }
   ]
 }
