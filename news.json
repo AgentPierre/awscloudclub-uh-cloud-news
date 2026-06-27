@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-26T03:57:38.096Z",
+  "lastUpdated": "2026-06-27T03:40:46.537Z",
   "items": [
+    {
+      "title": "Amazon EC2 R8g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-26T15:00:00.000Z"
+    },
+    {
+      "title": "Build interactive PDF text extraction from Amazon S3",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-26T14:47:45.000Z"
+    },
+    {
+      "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-26T14:42:20.000Z"
+    },
+    {
+      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
+      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-06-26T14:38:01.000Z"
+    },
     {
       "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region",
@@ -30,6 +54,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-25T17:55:10.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8in instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-25T17:00:00.000Z"
     },
     {
       "title": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
@@ -290,6 +320,12 @@
       "pubDate": "2026-06-22T17:00:00.000Z"
     },
     {
+      "title": "Amazon Connect Customer launches Agentic CX designer (NLX) in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-agentic-cx-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-22T16:56:00.000Z"
+    },
+    {
       "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
       "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions",
       "source": "AWS Architecture Blog",
@@ -324,42 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-22T16:28:46.000Z"
-    },
-    {
-      "title": "Amazon EKS now supports control plane egress through your VPC",
-      "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-06-22T16:20:28.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-22T16:07:00.000Z"
-    },
-    {
-      "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
-      "link": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-22T15:53:05.000Z"
-    },
-    {
-      "title": "Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-22T15:00:00.000Z"
-    },
-    {
-      "title": "MSK Replicator now supports mutual TLS (mTLS) authentication for replication from external Apache Kafka clusters to MSK Express brokers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-replicator-mtls-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-22T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-22T14:46:17.000Z"
     }
   ]
 }
