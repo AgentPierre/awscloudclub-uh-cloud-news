@@ -1,11 +1,185 @@
 {
-  "lastUpdated": "2026-07-01T04:08:07.684Z",
+  "lastUpdated": "2026-07-02T03:49:36.589Z",
   "items": [
+    {
+      "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T22:00:00.000Z"
+    },
+    {
+      "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
+      "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-01T21:59:59.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch supports creating alarms from log queries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T21:30:00.000Z"
+    },
+    {
+      "title": "ECS Service Connect now supports Zone-Aware routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T21:28:00.000Z"
+    },
+    {
+      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T20:48:00.000Z"
+    },
+    {
+      "title": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T20:01:00.000Z"
+    },
+    {
+      "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
+      "link": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-01T19:40:22.000Z"
+    },
+    {
+      "title": "AWS Partner Central now supports AWS Marketplace listings for co-selling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T19:06:00.000Z"
+    },
+    {
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T18:14:34.000Z"
+    },
+    {
+      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T18:07:06.000Z"
+    },
+    {
+      "title": "Structured memory filtering with metadata in AgentCore Memory",
+      "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T18:03:10.000Z"
+    },
+    {
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+      "link": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T18:01:32.000Z"
+    },
+    {
+      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T17:53:16.000Z"
+    },
+    {
+      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T17:46:54.000Z"
+    },
+    {
+      "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-01T17:44:08.000Z"
+    },
+    {
+      "title": "Announcing Amazon EKS Rollback for safe and reliable management of cluster upgrades",
+      "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-01T17:32:29.000Z"
+    },
+    {
+      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+      "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks",
+      "source": "AWS News Blog",
+      "pubDate": "2026-07-01T17:20:30.000Z"
+    },
+    {
+      "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore now available in four additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon GuardDuty adds sensitive file modification threat detections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T16:58:00.000Z"
+    },
+    {
+      "title": "AWS AppConfig launches managed experimentation tools for A/B testing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T16:30:00.000Z"
+    },
+    {
+      "title": "Amazon ECS Express Mode now supports custom task definitions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-express-mode-custom-task-def",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T16:05:00.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports Kubernetes version rollback",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-version-rollback",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T16:00:00.000Z"
+    },
+    {
+      "title": "How to use the AWS Workload Credentials Provider for cross-account secret retrieval and prefetching secrets",
+      "link": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-01T15:56:26.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T15:43:00.000Z"
+    },
+    {
+      "title": "AWS Security Agent now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T15:26:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for Db2 now supports self-managed Active Directory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-supports-self-managed-active-directory",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T07:28:00.000Z"
+    },
     {
       "title": "Safely Releasing Frontier Models to Customers",
       "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-01T03:13:19.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service optimized for log analytics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T02:30:00.000Z"
     },
     {
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
@@ -104,6 +278,12 @@
       "pubDate": "2026-06-30T17:00:00.000Z"
     },
     {
+      "title": "AWS Network Firewall now supports container attribute-based inspection for Amazon EKS and Amazon ECS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-container-attributes-referencing",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-30T17:00:00.000Z"
+    },
+    {
       "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol",
       "source": "AWS Machine Learning Blog",
@@ -170,196 +350,16 @@
       "pubDate": "2026-06-30T15:30:00.000Z"
     },
     {
-      "title": "Amazon EC2 C9g and C9gd compute optimized instances are now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available",
+      "title": "AWS announces AWS Interconnect - last mile new partner with AT&T in gated preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-AWS-interconnect-last-mile-ATT-gated-preview",
       "source": "AWS What's New",
       "pubDate": "2026-06-30T15:00:00.000Z"
     },
     {
-      "title": "Claude Opus 4.8 is now available in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us",
+      "title": "Amazon EC2 C9g and C9gd compute optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available",
       "source": "AWS What's New",
-      "pubDate": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "title": "OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "title": "Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-ddos-protection-unity",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch pipelines now supports processing and enriching OpenTelemetry metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-pipelines-otel-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T07:27:00.000Z"
-    },
-    {
-      "title": "AWS Service Availability Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-service-availability",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Clean Rooms now supports intermediate tables for SQL",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-clean-rooms-intermediate-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T06:00:00.000Z"
-    },
-    {
-      "title": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-29T22:00:00.000Z"
-    },
-    {
-      "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
-      "link": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-06-29T19:30:59.000Z"
-    },
-    {
-      "title": "Implement a backup strategy for Amazon Quick Sight BI assets",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-29T18:15:14.000Z"
-    },
-    {
-      "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-29T17:52:33.000Z"
-    },
-    {
-      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-29T17:39:29.000Z"
-    },
-    {
-      "title": "Build an agentic AI healthcare claims pipeline with Amazon Bedrock and AWS HealthLake",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-29T17:36:34.000Z"
-    },
-    {
-      "title": "Debugging production agents with Amazon Bedrock AgentCore Observability",
-      "link": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-29T17:25:21.000Z"
-    },
-    {
-      "title": "Lessons learned from scaling to 1 million Lambda functions",
-      "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-29T17:21:05.000Z"
-    },
-    {
-      "title": "Amazon MWAA Serverless now supports shared VPC configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-29T17:19:00.000Z"
-    },
-    {
-      "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-29T17:16:48.000Z"
-    },
-    {
-      "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-06-29T17:09:54.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-06-29T16:30:30.000Z"
-    },
-    {
-      "title": "Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-29T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-26T15:00:00.000Z"
-    },
-    {
-      "title": "Build interactive PDF text extraction from Amazon S3",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-26T14:47:45.000Z"
-    },
-    {
-      "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-26T14:42:20.000Z"
-    },
-    {
-      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-26T14:38:01.000Z"
-    },
-    {
-      "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T22:24:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T22:15:00.000Z"
-    },
-    {
-      "title": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T21:00:00.000Z"
-    },
-    {
-      "title": "AWS Network Firewall now supports managed threat intelligence rules from VisionHeight",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T20:18:00.000Z"
-    },
-    {
-      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
-      "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-25T17:55:10.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8in instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T17:00:00.000Z"
-    },
-    {
-      "title": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-25T17:00:00.000Z"
-    },
-    {
-      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-25T16:41:47.000Z"
+      "pubDate": "2026-06-30T15:00:00.000Z"
     }
   ]
 }
