@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-02T03:49:36.589Z",
+  "lastUpdated": "2026-07-03T03:30:46.043Z",
   "items": [
+    {
+      "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-02T21:49:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-02T20:48:00.000Z"
+    },
+    {
+      "title": "How Amazon Bedrock catches AI-generated phishing",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-02T17:55:41.000Z"
+    },
+    {
+      "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-02T17:50:23.000Z"
+    },
+    {
+      "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-02T17:03:59.000Z"
+    },
+    {
+      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-02T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Config now supports 8 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-02T15:00:00.000Z"
+    },
     {
       "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits",
@@ -8,22 +56,10 @@
       "pubDate": "2026-07-01T22:00:00.000Z"
     },
     {
-      "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
-      "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-01T21:59:59.000Z"
-    },
-    {
       "title": "Amazon CloudWatch supports creating alarms from log queries",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms",
       "source": "AWS What's New",
       "pubDate": "2026-07-01T21:30:00.000Z"
-    },
-    {
-      "title": "ECS Service Connect now supports Zone-Aware routing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T21:28:00.000Z"
     },
     {
       "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
@@ -104,6 +140,12 @@
       "pubDate": "2026-07-01T17:20:30.000Z"
     },
     {
+      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-01T17:00:00.000Z"
+    },
+    {
       "title": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions",
       "source": "AWS What's New",
@@ -112,12 +154,6 @@
     {
       "title": "Amazon Bedrock AgentCore now available in four additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS now supports configurable deployment circuit breaker settings",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings",
       "source": "AWS What's New",
       "pubDate": "2026-07-01T17:00:00.000Z"
     },
@@ -182,6 +218,12 @@
       "pubDate": "2026-07-01T02:30:00.000Z"
     },
     {
+      "title": "Amazon Connect Customer now supports rule based redaction for agent screen recording",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/screen-recording-rule-based",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-30T22:53:00.000Z"
+    },
+    {
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode",
       "source": "AWS News Blog",
@@ -240,6 +282,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6",
       "source": "AWS What's New",
       "pubDate": "2026-06-30T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user",
+      "source": "AWS What's New",
+      "pubDate": "2026-06-30T18:44:00.000Z"
     },
     {
       "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
@@ -312,54 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-06-30T16:33:46.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T16:31:00.000Z"
-    },
-    {
-      "title": "Fine-tune Amazon Nova models for accurate email data extraction",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:26:48.000Z"
-    },
-    {
-      "title": "AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T16:17:00.000Z"
-    },
-    {
-      "title": "IAM Identity Center now enables programmatic AWS account access for customer managed applications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T16:00:00.000Z"
-    },
-    {
-      "title": "Claude Sonnet 5 is now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-sonnet-5-now-available-on-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports serverless model customization for Gemma 4 models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-gemma-4",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T15:30:00.000Z"
-    },
-    {
-      "title": "AWS announces AWS Interconnect - last mile new partner with AT&T in gated preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-AWS-interconnect-last-mile-ATT-gated-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C9g and C9gd compute optimized instances are now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T15:00:00.000Z"
     }
   ]
 }
