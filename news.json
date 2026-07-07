@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-06T03:48:21.946Z",
+  "lastUpdated": "2026-07-07T03:38:30.554Z",
   "items": [
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T22:35:55.000Z"
+    },
+    {
+      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T22:23:45.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T21:29:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito now supports self-service provisioned API rate limits",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T20:30:00.000Z"
+    },
+    {
+      "title": "Amazon EVS VCF 9.0 and 9.1 support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T17:29:00.000Z"
+    },
+    {
+      "title": "Run MiniMax models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T17:00:44.000Z"
+    },
+    {
+      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T16:58:13.000Z"
+    },
+    {
+      "title": "Automatically redact PII in images with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T16:55:02.000Z"
+    },
+    {
+      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-06T16:53:38.000Z"
+    },
+    {
+      "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+      "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-06T16:52:23.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-07-06T15:46:43.000Z"
+    },
+    {
+      "title": "AWS Certificate Manager now supports the ACME protocol for public certificates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T15:00:00.000Z"
+    },
+    {
+      "title": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T15:00:00.000Z"
+    },
+    {
+      "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T09:00:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Paddle and GitLab",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-06T07:00:00.000Z"
+    },
     {
       "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform",
@@ -264,102 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam",
       "source": "AWS What's New",
       "pubDate": "2026-06-30T20:00:00.000Z"
-    },
-    {
-      "title": "AWS Parallel Computing Service supports in-place Slurm major version upgrades",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T19:12:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache T4g nodes now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon Neptune announces dual stack support with IPv6",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T19:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T18:44:00.000Z"
-    },
-    {
-      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T18:40:09.000Z"
-    },
-    {
-      "title": "AWS End User Messaging RCS now supports rich media and interactive messaging",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T18:21:00.000Z"
-    },
-    {
-      "title": "Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T17:30:00.000Z"
-    },
-    {
-      "title": "Announcing general availability of Amazon WorkSpaces for AI agents",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T17:28:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 Auto Scaling now supports reservations then balanced Availability Zone distribution",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-auto-scaling-res-then-balanced",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T17:09:00.000Z"
-    },
-    {
-      "title": "Announcing Capability Insights for AWS, an open-source solution for regional capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/capability-insights-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Network Firewall now supports container attribute-based inspection for Amazon EKS and Amazon ECS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-container-attributes-referencing",
-      "source": "AWS What's New",
-      "pubDate": "2026-06-30T17:00:00.000Z"
-    },
-    {
-      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:46:17.000Z"
-    },
-    {
-      "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
-      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:42:49.000Z"
-    },
-    {
-      "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:40:47.000Z"
-    },
-    {
-      "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:37:09.000Z"
-    },
-    {
-      "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-06-30T16:33:46.000Z"
     }
   ]
 }
