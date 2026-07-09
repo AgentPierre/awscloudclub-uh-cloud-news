@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-07-08T02:53:17.747Z",
+  "lastUpdated": "2026-07-09T03:41:53.846Z",
   "items": [
+    {
+      "title": "AWS Builder Center Now Offers Free Sandbox Environments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T22:45:00.000Z"
+    },
+    {
+      "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T21:00:00.000Z"
+    },
+    {
+      "title": "Introducing Claude apps gateway for AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T19:49:22.000Z"
+    },
+    {
+      "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
+      "link": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-08T18:58:42.000Z"
+    },
+    {
+      "title": "Amazon Redshift RG instances now available on the trailing track",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T18:12:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T17:00:00.000Z"
+    },
+    {
+      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
+      "link": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T16:57:12.000Z"
+    },
+    {
+      "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T16:55:48.000Z"
+    },
+    {
+      "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T16:51:35.000Z"
+    },
+    {
+      "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T15:57:33.000Z"
+    },
+    {
+      "title": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-08T15:53:08.000Z"
+    },
+    {
+      "title": "The CISO’s guide to post-quantum mandates and migrations",
+      "link": "https://aws.amazon.com/blogs/security/the-cisos-guide-to-post-quantum-mandates-and-migrations",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-08T15:00:05.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-07T23:30:00.000Z"
+    },
     {
       "title": "Amazon GameLift Streams introduces secure terminal access for stream sessions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access",
@@ -140,6 +224,18 @@
       "pubDate": "2026-07-07T12:00:00.000Z"
     },
     {
+      "title": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-07T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports importing existing MWAA environments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-import-existing-mwaa-environments",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-07T02:00:00.000Z"
+    },
+    {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2",
       "source": "AWS Machine Learning Blog",
@@ -206,12 +302,6 @@
       "pubDate": "2026-07-06T16:55:02.000Z"
     },
     {
-      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T16:53:38.000Z"
-    },
-    {
       "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
       "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar",
       "source": "AWS Security Blog",
@@ -248,6 +338,12 @@
       "pubDate": "2026-07-06T07:00:00.000Z"
     },
     {
+      "title": "AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codebuild-amazon-linux-2023",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-03T12:27:00.000Z"
+    },
+    {
       "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform",
       "source": "AWS What's New",
@@ -260,106 +356,10 @@
       "pubDate": "2026-07-02T20:48:00.000Z"
     },
     {
-      "title": "How Amazon Bedrock catches AI-generated phishing",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-02T17:55:41.000Z"
-    },
-    {
-      "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-02T17:50:23.000Z"
-    },
-    {
       "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
       "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent",
       "source": "AWS Containers Blog",
       "pubDate": "2026-07-02T17:03:59.000Z"
-    },
-    {
-      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-02T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports AMI versioning and auto-patching",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-02T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Config now supports 8 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-02T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T22:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch supports creating alarms from log queries",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T21:30:00.000Z"
-    },
-    {
-      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T20:48:00.000Z"
-    },
-    {
-      "title": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T20:01:00.000Z"
-    },
-    {
-      "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
-      "link": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-01T19:40:22.000Z"
-    },
-    {
-      "title": "AWS Partner Central now supports AWS Marketplace listings for co-selling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-01T19:06:00.000Z"
-    },
-    {
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-01T18:14:34.000Z"
-    },
-    {
-      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-01T18:07:06.000Z"
-    },
-    {
-      "title": "Structured memory filtering with metadata in AgentCore Memory",
-      "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-01T18:03:10.000Z"
-    },
-    {
-      "title": "Announcing Amazon EKS Rollback for safe and reliable management of cluster upgrades",
-      "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-01T17:32:29.000Z"
-    },
-    {
-      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-      "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-01T17:20:30.000Z"
     }
   ]
 }
