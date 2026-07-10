@@ -1,11 +1,95 @@
 {
-  "lastUpdated": "2026-07-09T03:41:53.846Z",
+  "lastUpdated": "2026-07-10T03:33:44.508Z",
   "items": [
+    {
+      "title": "Introducing OAuth Support for AWS MCP Server",
+      "link": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-09T23:43:47.000Z"
+    },
+    {
+      "title": "OAuth support for the AWS MCP Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T23:03:00.000Z"
+    },
+    {
+      "title": "Specification-driven composition for flexible data workflows",
+      "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-09T22:27:31.000Z"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T17:24:00.000Z"
+    },
+    {
+      "title": "AWS Client VPN extends availability to four additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T17:08:00.000Z"
+    },
+    {
+      "title": "MCP tool design: Practical approaches and tradeoffs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-09T16:40:16.000Z"
+    },
+    {
+      "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-09T16:38:11.000Z"
+    },
+    {
+      "title": "Migrate Amazon EC2 to EKS Auto Mode using Kiro CLI and MCP servers",
+      "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-eks-auto-mode-using-kiro-cli-and-mcp-servers",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-09T16:24:54.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T16:04:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports deep health checks for Slurm clusters with continuous provisioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/deep-health-check-continuous-slurm",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Feature Store now supports batch feature writes and record listing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amzn-sgm-feature-store-batch-write-list",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T15:35:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Config now supports 191 additional managed rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-config-additional-managed-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T12:00:00.000Z"
+    },
     {
       "title": "AWS Builder Center Now Offers Free Sandbox Environments",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox",
       "source": "AWS What's New",
       "pubDate": "2026-07-08T22:45:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T22:00:00.000Z"
     },
     {
       "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
@@ -60,6 +144,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-08T16:51:35.000Z"
+    },
+    {
+      "title": "AWS Neuron 2.31.0 now available with NKI 0.5.0 and UltraServer Operator",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announce-neuron-2-31-0",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-08T15:58:00.000Z"
     },
     {
       "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration",
       "source": "AWS What's New",
       "pubDate": "2026-07-06T20:30:00.000Z"
-    },
-    {
-      "title": "AWS introduces declarative controls for VPC Encryption Controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/vpc-encryption-controls-declarative-controls",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T18:19:00.000Z"
-    },
-    {
-      "title": "Amazon EVS VCF 9.0 and 9.1 support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T17:29:00.000Z"
-    },
-    {
-      "title": "Run MiniMax models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T17:00:44.000Z"
-    },
-    {
-      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T16:58:13.000Z"
-    },
-    {
-      "title": "Automatically redact PII in images with Amazon Nova",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T16:55:02.000Z"
-    },
-    {
-      "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
-      "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-06T16:52:23.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-06T15:46:43.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager now supports the ACME protocol for public certificates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T15:00:00.000Z"
-    },
-    {
-      "title": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T15:00:00.000Z"
-    },
-    {
-      "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T09:00:00.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager adds managed external secrets support for Paddle and GitLab",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T07:00:00.000Z"
-    },
-    {
-      "title": "AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codebuild-amazon-linux-2023",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-03T12:27:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-02T21:49:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-02T20:48:00.000Z"
-    },
-    {
-      "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
-      "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-02T17:03:59.000Z"
     }
   ]
 }
