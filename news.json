@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-07-10T03:33:44.508Z",
+  "lastUpdated": "2026-07-11T02:49:19.868Z",
   "items": [
+    {
+      "title": "Amazon EC2 network/EBS instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR on EKS now supports Apache Spark troubleshooting agent",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T18:16:00.000Z"
+    },
+    {
+      "title": "Amazon Location Service enhances Places APIs with new address and search options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T17:26:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters using continuous provisioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ami-configuration-continuous-slurm",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T17:00:00.000Z"
+    },
+    {
+      "title": "AWS designated as a critical third party to the UK financial sector",
+      "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-10T16:15:19.000Z"
+    },
+    {
+      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:35:05.000Z"
+    },
+    {
+      "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
+      "link": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:33:47.000Z"
+    },
+    {
+      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:31:12.000Z"
+    },
+    {
+      "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:28:54.000Z"
+    },
+    {
+      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:26:05.000Z"
+    },
+    {
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:23:25.000Z"
+    },
+    {
+      "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-10T15:20:16.000Z"
+    },
+    {
+      "title": "Amazon EC2 G7 instances are now available in the AWS US East (N. Virginia) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T15:14:00.000Z"
+    },
+    {
+      "title": "AWS DMS Schema Conversion now supports offline SQL Server conversion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T15:09:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Hyderabad) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T14:55:00.000Z"
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T14:00:00.000Z"
+    },
+    {
+      "title": "AWS DMS Schema Conversion now supports AI agent automation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Organizations now applies account departure security controls by default for new organizations created via AWS Organizations console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T07:00:00.000Z"
+    },
     {
       "title": "Introducing OAuth Support for AWS MCP Server",
       "link": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server",
@@ -18,6 +126,18 @@
       "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-07-09T22:27:31.000Z"
+    },
+    {
+      "title": "Amazon EC2 I8g instances now available in AWS GovCloud (US) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8g-instances-aws-govcloud-us-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T18:35:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 now supports using an EBS volume for Replace Root Volume",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-replace-root-volume-ebs-volume",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-09T18:06:00.000Z"
     },
     {
       "title": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
@@ -240,126 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless",
       "source": "AWS What's New",
       "pubDate": "2026-07-07T17:06:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Frankfurt) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8ine-aws-frankfurt",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker now supports data lineage in IAM-based domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T17:00:00.000Z"
-    },
-    {
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-07T16:51:29.000Z"
-    },
-    {
-      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-07T16:49:09.000Z"
-    },
-    {
-      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-07T16:46:43.000Z"
-    },
-    {
-      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-07T16:43:11.000Z"
-    },
-    {
-      "title": "Full request and response compliance logging on Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-07T16:35:30.000Z"
-    },
-    {
-      "title": "S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
-      "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-07T16:32:21.000Z"
-    },
-    {
-      "title": "Amazon Redshift RG instances now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Oracle Database 26ai",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Express One Zone is now available in the AWS Europe (Frankfurt) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon EKS Auto Mode reduces GPU management fees by up to 60%",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports importing existing MWAA environments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-import-existing-mwaa-environments",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-07T02:00:00.000Z"
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T22:35:55.000Z"
-    },
-    {
-      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
-      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-06T22:23:45.000Z"
-    },
-    {
-      "title": "AWS Security Hub adds impact analysis for exposure findings",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T21:45:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T21:29:00.000Z"
-    },
-    {
-      "title": "Amazon Cognito now supports self-service provisioned API rate limits",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-06T20:30:00.000Z"
     }
   ]
 }
