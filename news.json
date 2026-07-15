@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-07-14T02:40:58.101Z",
+  "lastUpdated": "2026-07-15T02:38:59.575Z",
   "items": [
+    {
+      "title": "ICYMI: June 2026 @AWS Security",
+      "link": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-15T00:37:58.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T22:00:56.000Z"
+    },
+    {
+      "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
+      "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-14T21:47:35.000Z"
+    },
+    {
+      "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T20:00:00.000Z"
+    },
+    {
+      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
+      "link": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-14T19:16:57.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T19:10:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T19:00:00.000Z"
+    },
+    {
+      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-14T18:44:26.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T18:20:00.000Z"
+    },
+    {
+      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL is now available in Europe (Spain)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T17:00:00.000Z"
+    },
+    {
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-14T16:47:32.000Z"
+    },
+    {
+      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-14T16:43:41.000Z"
+    },
+    {
+      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-14T16:33:08.000Z"
+    },
+    {
+      "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-14T16:25:03.000Z"
+    },
+    {
+      "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
+      "link": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-14T15:18:42.000Z"
+    },
+    {
+      "title": "AWS Storage Gateway adds console support for copying file shares across gateways",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T08:00:00.000Z"
+    },
     {
       "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra",
@@ -50,6 +164,12 @@
       "pubDate": "2026-07-13T17:27:40.000Z"
     },
     {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-13T17:00:00.000Z"
+    },
+    {
       "title": "Accessing private Git repositories from Amazon EKS capability for Argo CD",
       "link": "https://aws.amazon.com/blogs/containers/accessing-private-git-repositories-from-amazon-eks-capability-for-argo-cd",
       "source": "AWS Containers Blog",
@@ -80,16 +200,22 @@
       "pubDate": "2026-07-13T15:30:00.000Z"
     },
     {
+      "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-13T15:30:00.000Z"
+    },
+    {
       "title": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart",
       "source": "AWS What's New",
       "pubDate": "2026-07-13T15:30:00.000Z"
     },
     {
-      "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart",
+      "title": "Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore",
       "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:30:00.000Z"
+      "pubDate": "2026-07-13T15:00:00.000Z"
     },
     {
       "title": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
@@ -224,142 +350,16 @@
       "pubDate": "2026-07-10T07:00:00.000Z"
     },
     {
+      "title": "AWS Partner Central subsidiary connections now support qualification sharing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/subsidiary-qualification-sharing",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
       "title": "Introducing OAuth Support for AWS MCP Server",
       "link": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server",
       "source": "AWS Security Blog",
       "pubDate": "2026-07-09T23:43:47.000Z"
-    },
-    {
-      "title": "OAuth support for the AWS MCP Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T23:03:00.000Z"
-    },
-    {
-      "title": "Specification-driven composition for flexible data workflows",
-      "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-09T22:27:31.000Z"
-    },
-    {
-      "title": "Amazon EC2 I8g instances now available in AWS GovCloud (US) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8g-instances-aws-govcloud-us-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T18:35:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 now supports using an EBS volume for Replace Root Volume",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-replace-root-volume-ebs-volume",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T18:06:00.000Z"
-    },
-    {
-      "title": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T17:24:00.000Z"
-    },
-    {
-      "title": "AWS Client VPN extends availability to four additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T17:08:00.000Z"
-    },
-    {
-      "title": "MCP tool design: Practical approaches and tradeoffs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-09T16:40:16.000Z"
-    },
-    {
-      "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-09T16:38:11.000Z"
-    },
-    {
-      "title": "Migrate Amazon EC2 to EKS Auto Mode using Kiro CLI and MCP servers",
-      "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-eks-auto-mode-using-kiro-cli-and-mcp-servers",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-09T16:24:54.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T16:04:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports deep health checks for Slurm clusters with continuous provisioning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/deep-health-check-continuous-slurm",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Feature Store now supports batch feature writes and record listing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amzn-sgm-feature-store-batch-write-list",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T15:35:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Config now supports 191 additional managed rules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-config-additional-managed-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-09T12:00:00.000Z"
-    },
-    {
-      "title": "AWS Builder Center Now Offers Free Sandbox Environments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T22:45:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T22:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T21:00:00.000Z"
-    },
-    {
-      "title": "Introducing Claude apps gateway for AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-08T19:49:22.000Z"
-    },
-    {
-      "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
-      "link": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-08T18:58:42.000Z"
-    },
-    {
-      "title": "Amazon Redshift RG instances now available on the trailing track",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T18:12:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-08T17:00:00.000Z"
     }
   ]
 }
