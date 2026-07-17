@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-07-16T02:46:24.505Z",
+  "lastUpdated": "2026-07-17T02:48:50.987Z",
   "items": [
+    {
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-16T21:29:14.000Z"
+    },
+    {
+      "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T19:31:00.000Z"
+    },
+    {
+      "title": "Introducing Grok on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-16T19:29:26.000Z"
+    },
+    {
+      "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T18:56:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T18:20:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Event Notifications now include system-generated tags",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T18:00:00.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T18:00:00.000Z"
+    },
+    {
+      "title": "AWS Sustainability service now includes water withdrawals data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T16:43:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-16T15:50:52.000Z"
+    },
+    {
+      "title": "Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T15:00:00.000Z"
+    },
+    {
+      "title": "Prioritize your AWS Health alerts using AWS User Notifications",
+      "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-16T14:56:22.000Z"
+    },
+    {
+      "title": "AWS Backup extends logically air-gapped vault support to six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "title": "AWS Backup extends restore testing support to six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "title": "AWS Control Tower Account Factory for Terraform now re-applies customizations when accounts move between OUs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T04:07:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL is now in scope for FedRAMP Moderate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-now-in-scope-for-fedramp-moderate",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Logs Insights adds 25 new query commands and functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-15T21:56:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering",
@@ -38,12 +146,6 @@
       "pubDate": "2026-07-15T18:04:00.000Z"
     },
     {
-      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
       "title": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions",
       "source": "AWS What's New",
@@ -52,6 +154,12 @@
     {
       "title": "Amazon Cognito now supports importing users with password hashes",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-15T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions",
       "source": "AWS What's New",
       "pubDate": "2026-07-15T17:00:00.000Z"
     },
@@ -164,6 +272,12 @@
       "pubDate": "2026-07-14T19:00:00.000Z"
     },
     {
+      "title": "Connect Customer Outbound Campaigns now in Cape Town Africa",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/connect-africa-cape-town",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T19:00:00.000Z"
+    },
+    {
       "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
       "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand",
       "source": "AWS What's New",
       "pubDate": "2026-07-13T21:17:00.000Z"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-13T21:01:20.000Z"
-    },
-    {
-      "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-13T18:13:57.000Z"
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
-      "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-13T17:50:16.000Z"
-    },
-    {
-      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-13T17:34:38.000Z"
-    },
-    {
-      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-13T17:27:40.000Z"
-    },
-    {
-      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T17:00:00.000Z"
-    },
-    {
-      "title": "Accessing private Git repositories from Amazon EKS capability for Argo CD",
-      "link": "https://aws.amazon.com/blogs/containers/accessing-private-git-repositories-from-amazon-eks-capability-for-argo-cd",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-13T16:46:33.000Z"
-    },
-    {
-      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-13T16:42:15.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-13T16:18:20.000Z"
-    },
-    {
-      "title": "Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:30:00.000Z"
-    },
-    {
-      "title": "OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:30:00.000Z"
-    },
-    {
-      "title": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:30:00.000Z"
-    },
-    {
-      "title": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:30:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T14:31:00.000Z"
-    },
-    {
-      "title": "New compliance guidance available: HITRUST i1 on AWS",
-      "link": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-13T13:19:51.000Z"
-    },
-    {
-      "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-13T10:06:18.000Z"
-    },
-    {
-      "title": "Amazon EC2 network/EBS instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-10T20:00:00.000Z"
     }
   ]
 }
