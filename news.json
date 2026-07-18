@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-07-17T02:48:50.987Z",
+  "lastUpdated": "2026-07-18T02:40:40.383Z",
   "items": [
+    {
+      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-17T18:42:36.000Z"
+    },
+    {
+      "title": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-17T17:29:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-17T17:23:00.000Z"
+    },
+    {
+      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-17T17:13:15.000Z"
+    },
+    {
+      "title": "How Smartsheet built a remote MCP server on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-17T16:32:06.000Z"
+    },
+    {
+      "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
+      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-17T16:03:47.000Z"
+    },
+    {
+      "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
+      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-17T16:03:44.000Z"
+    },
+    {
+      "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
+      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-17T16:03:40.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-17T15:16:00.000Z"
+    },
     {
       "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base",
@@ -50,22 +104,16 @@
       "pubDate": "2026-07-16T16:43:00.000Z"
     },
     {
-      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T16:00:00.000Z"
-    },
-    {
       "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
       "source": "AWS What's New",
       "pubDate": "2026-07-16T16:00:00.000Z"
     },
     {
-      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-16T15:50:52.000Z"
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T16:00:00.000Z"
     },
     {
       "title": "Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA",
@@ -86,7 +134,7 @@
       "pubDate": "2026-07-16T10:00:00.000Z"
     },
     {
-      "title": "AWS Backup extends restore testing support to six additional AWS Regions",
+      "title": "AWS Backup extends restore testing support to seven additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions",
       "source": "AWS What's New",
       "pubDate": "2026-07-16T10:00:00.000Z"
@@ -146,6 +194,12 @@
       "pubDate": "2026-07-15T18:04:00.000Z"
     },
     {
+      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-15T17:00:00.000Z"
+    },
+    {
       "title": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions",
       "source": "AWS What's New",
@@ -154,12 +208,6 @@
     {
       "title": "Amazon Cognito now supports importing users with password hashes",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions",
       "source": "AWS What's New",
       "pubDate": "2026-07-15T17:00:00.000Z"
     },
@@ -290,12 +338,6 @@
       "pubDate": "2026-07-14T18:20:00.000Z"
     },
     {
-      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T17:00:00.000Z"
-    },
-    {
       "title": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip",
       "source": "AWS What's New",
@@ -308,58 +350,16 @@
       "pubDate": "2026-07-14T17:00:00.000Z"
     },
     {
+      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-14T17:00:00.000Z"
+    },
+    {
       "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-14T16:47:32.000Z"
-    },
-    {
-      "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-14T16:43:41.000Z"
-    },
-    {
-      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-14T16:33:08.000Z"
-    },
-    {
-      "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-14T16:25:03.000Z"
-    },
-    {
-      "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
-      "link": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-14T15:18:42.000Z"
-    },
-    {
-      "title": "AWS Storage Gateway adds console support for copying file shares across gateways",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T08:00:00.000Z"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T22:03:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-13T21:17:00.000Z"
     }
   ]
 }
