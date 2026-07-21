@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-07-20T03:49:16.885Z",
+  "lastUpdated": "2026-07-21T02:51:37.391Z",
   "items": [
+    {
+      "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
+      "link": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-20T21:59:00.000Z"
+    },
+    {
+      "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T18:29:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T17:37:00.000Z"
+    },
+    {
+      "title": "Selectively log network activity events by identity in AWS CloudTrail",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T17:34:00.000Z"
+    },
+    {
+      "title": "Custom OS installation now available on AWS DeepRacer devices",
+      "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-20T17:25:24.000Z"
+    },
+    {
+      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-20T17:01:32.000Z"
+    },
+    {
+      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-20T16:58:52.000Z"
+    },
+    {
+      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-20T16:56:48.000Z"
+    },
+    {
+      "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
+      "link": "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-20T16:54:24.000Z"
+    },
+    {
+      "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
+      "link": "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-20T16:40:16.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-07-20T16:37:34.000Z"
+    },
+    {
+      "title": "Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T16:16:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 I8ge instances are now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T15:00:00.000Z"
+    },
+    {
+      "title": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch announces coding agent insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T09:51:00.000Z"
+    },
+    {
+      "title": "Introducing KNFSD File Cache - Now in Preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T08:00:00.000Z"
+    },
     {
       "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
       "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate",
@@ -60,6 +168,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-16T21:29:14.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Synthetics now supports customer managed encryption keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-16T20:34:00.000Z"
     },
     {
       "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent",
       "source": "AWS What's New",
       "pubDate": "2026-07-15T14:44:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Db2 is now available in additional AWS Commercial regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T07:39:00.000Z"
-    },
-    {
-      "title": "AWS Lambda announces self-managed code storage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T07:00:00.000Z"
-    },
-    {
-      "title": "ICYMI: June 2026 @AWS Security",
-      "link": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-15T00:37:58.000Z"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T22:05:00.000Z"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T22:00:56.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch announces lookup processor for log enrichment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T22:00:00.000Z"
-    },
-    {
-      "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
-      "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-14T21:47:35.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T20:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T20:00:00.000Z"
-    },
-    {
-      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
-      "link": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-14T19:16:57.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T19:10:00.000Z"
-    },
-    {
-      "title": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T19:00:00.000Z"
-    },
-    {
-      "title": "Connect Customer Outbound Campaigns now in Cape Town Africa",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/connect-africa-cape-town",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T19:00:00.000Z"
-    },
-    {
-      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-14T18:44:26.000Z"
-    },
-    {
-      "title": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T18:20:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL is now available in Europe (Spain)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-14T17:00:00.000Z"
-    },
-    {
-      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-14T16:47:32.000Z"
     }
   ]
 }
