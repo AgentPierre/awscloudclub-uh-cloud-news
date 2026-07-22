@@ -1,11 +1,83 @@
 {
-  "lastUpdated": "2026-07-21T02:51:37.391Z",
+  "lastUpdated": "2026-07-22T02:49:23.647Z",
   "items": [
+    {
+      "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T20:00:00.000Z"
+    },
+    {
+      "title": "Do more with AWS WAF labels using dynamic label interpolation",
+      "link": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-21T17:03:16.000Z"
+    },
+    {
+      "title": "Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon SES introduces pricing plans",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T16:35:00.000Z"
+    },
+    {
+      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-21T16:23:12.000Z"
+    },
+    {
+      "title": "Amazon ECS now provides Action Logs for deployment and orchestration visibility",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T15:30:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T07:45:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T07:00:00.000Z"
+    },
     {
       "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
       "link": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment",
       "source": "AWS Security Blog",
       "pubDate": "2026-07-20T21:59:00.000Z"
+    },
+    {
+      "title": "AWS Partner Central agents expand funding guidance to all programs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T20:08:00.000Z"
     },
     {
       "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
@@ -80,14 +152,20 @@
       "pubDate": "2026-07-20T16:00:00.000Z"
     },
     {
-      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets",
+      "title": "Amazon Connect Customer launches metrics for agent queues on analytics dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect",
       "source": "AWS What's New",
-      "pubDate": "2026-07-20T15:00:00.000Z"
+      "pubDate": "2026-07-20T15:28:00.000Z"
     },
     {
       "title": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.3",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets",
       "source": "AWS What's New",
       "pubDate": "2026-07-20T15:00:00.000Z"
     },
@@ -108,6 +186,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache",
       "source": "AWS What's New",
       "pubDate": "2026-07-20T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio adds custom visual transforms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-17T21:40:00.000Z"
     },
     {
       "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering",
       "source": "AWS What's New",
       "pubDate": "2026-07-15T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T18:18:00.000Z"
-    },
-    {
-      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
-      "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-15T18:14:31.000Z"
-    },
-    {
-      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-15T18:11:57.000Z"
-    },
-    {
-      "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-15T18:08:50.000Z"
-    },
-    {
-      "title": "Amazon EC2 G7e instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T18:04:00.000Z"
-    },
-    {
-      "title": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Cognito now supports importing users with password hashes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Express Brokers adds support for Apache Kafka version 4.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-version-42",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS now supports up to four storage modifications in 24 hours",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T16:15:00.000Z"
-    },
-    {
-      "title": "Updating TypeScript version support in AWS SDK for JavaScript v3",
-      "link": "https://aws.amazon.com/blogs/developer/updating-typescript-version-support-in-aws-sdk-for-javascript-v3",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-07-15T16:07:03.000Z"
-    },
-    {
-      "title": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T15:51:00.000Z"
-    },
-    {
-      "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
-      "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-15T15:27:47.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T14:44:00.000Z"
     }
   ]
 }
