@@ -1,9 +1,117 @@
 {
-  "lastUpdated": "2026-07-22T02:49:23.647Z",
+  "lastUpdated": "2026-07-23T02:55:34.047Z",
   "items": [
+    {
+      "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T21:42:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T20:55:00.000Z"
+    },
+    {
+      "title": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T19:13:00.000Z"
+    },
+    {
+      "title": "AWS Entity Resolution now supports advanced real-time matching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T19:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda durable functions now supports customer managed key encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T18:30:00.000Z"
+    },
+    {
+      "title": "Amazon Corretto July 2026 Quarterly Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T18:00:00.000Z"
+    },
+    {
+      "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
+      "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-22T17:12:27.000Z"
+    },
+    {
+      "title": "AWS Organizations increases RCP quota to 2,000 per organization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T17:00:00.000Z"
+    },
+    {
+      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-22T15:54:28.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T14:30:00.000Z"
+    },
+    {
+      "title": "Building multi-Region resiliency for AWS CloudFormation custom resource deployment",
+      "link": "https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-22T14:25:09.000Z"
+    },
+    {
+      "title": "Architecting offline-first generative AI applications for edge deployments using AWS services",
+      "link": "https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-22T13:32:57.000Z"
+    },
+    {
+      "title": "Automate custom PII detection at scale with Amazon Macie and Step Functions",
+      "link": "https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-07-22T13:30:26.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T07:45:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Lima, Peru",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T04:00:00.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery is now available in six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T22:00:00.000Z"
+    },
     {
       "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-21T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn",
       "source": "AWS What's New",
       "pubDate": "2026-07-21T20:00:00.000Z"
     },
@@ -14,10 +122,10 @@
       "pubDate": "2026-07-21T20:00:00.000Z"
     },
     {
-      "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn",
+      "title": "Amazon SageMaker Unified Studio now supports Amazon OpenSearch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified",
       "source": "AWS What's New",
-      "pubDate": "2026-07-21T20:00:00.000Z"
+      "pubDate": "2026-07-21T17:36:00.000Z"
     },
     {
       "title": "Do more with AWS WAF labels using dynamic label interpolation",
@@ -56,10 +164,10 @@
       "pubDate": "2026-07-21T14:00:00.000Z"
     },
     {
-      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "title": "AWS Marketplace now supports self-service seller signature management for India-based sellers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-india",
       "source": "AWS What's New",
-      "pubDate": "2026-07-21T07:45:00.000Z"
+      "pubDate": "2026-07-21T07:18:00.000Z"
     },
     {
       "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
@@ -104,7 +212,7 @@
       "pubDate": "2026-07-20T17:25:24.000Z"
     },
     {
-      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-20T17:01:32.000Z"
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-16T21:29:14.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Synthetics now supports customer managed encryption keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T20:34:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T19:31:00.000Z"
-    },
-    {
-      "title": "Introducing Grok on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-16T19:29:26.000Z"
-    },
-    {
-      "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T18:56:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T18:20:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Event Notifications now include system-generated tags",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T18:00:00.000Z"
-    },
-    {
-      "title": "PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T18:00:00.000Z"
-    },
-    {
-      "title": "AWS Sustainability service now includes water withdrawals data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T16:43:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T15:00:00.000Z"
-    },
-    {
-      "title": "Prioritize your AWS Health alerts using AWS User Notifications",
-      "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-16T14:56:22.000Z"
-    },
-    {
-      "title": "AWS Backup extends logically air-gapped vault support to six additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T10:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup extends restore testing support to seven additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T10:00:00.000Z"
-    },
-    {
-      "title": "AWS Control Tower Account Factory for Terraform now re-applies customizations when accounts move between OUs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T04:07:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL is now in scope for FedRAMP Moderate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-now-in-scope-for-fedramp-moderate",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs Insights adds 25 new query commands and functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T21:56:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-15T20:00:00.000Z"
     }
   ]
 }
