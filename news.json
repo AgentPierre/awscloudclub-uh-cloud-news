@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-07-23T02:55:34.047Z",
+  "lastUpdated": "2026-07-24T02:50:10.007Z",
   "items": [
+    {
+      "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T23:46:00.000Z"
+    },
+    {
+      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T23:03:44.000Z"
+    },
+    {
+      "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
+      "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-23T21:41:07.000Z"
+    },
+    {
+      "title": "AWS now supports automatic credit memo application preferences",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T18:16:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T18:05:00.000Z"
+    },
+    {
+      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T17:00:20.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "title": "ARC zonal shift support for EKS Auto Mode and Karpenter",
+      "link": "https://aws.amazon.com/blogs/containers/arc-zonal-shift-support-for-eks-auto-mode-and-karpenter",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-07-23T16:53:34.000Z"
+    },
+    {
+      "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T16:42:54.000Z"
+    },
+    {
+      "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T16:40:59.000Z"
+    },
+    {
+      "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T16:38:34.000Z"
+    },
+    {
+      "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-23T16:30:20.000Z"
+    },
+    {
+      "title": "Amazon EVS is now available in additional Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T16:24:00.000Z"
+    },
+    {
+      "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
+      "link": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-23T16:23:30.000Z"
+    },
+    {
+      "title": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T16:02:00.000Z"
+    },
+    {
+      "title": "Announcing region expansion of G7e instances on SageMaker AI inference",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T15:04:00.000Z"
+    },
+    {
+      "title": "Announcing region expansion of G6 instances on SageMaker AI Inference",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T14:51:00.000Z"
+    },
+    {
+      "title": "AWS Wickr announces Data Retention Service feature",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T00:00:00.000Z"
+    },
     {
       "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region",
@@ -12,6 +132,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region",
       "source": "AWS What's New",
       "pubDate": "2026-07-22T20:55:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T19:55:00.000Z"
     },
     {
       "title": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
@@ -54,6 +180,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-22T15:54:28.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI inference now supports G7 instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-22T15:23:00.000Z"
     },
     {
       "title": "Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter",
@@ -188,6 +320,12 @@
       "pubDate": "2026-07-20T20:08:00.000Z"
     },
     {
+      "title": "AWS HealthOmics now available in two additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/healthomics-tokyo-ohio",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-20T18:54:00.000Z"
+    },
+    {
       "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata",
       "source": "AWS What's New",
@@ -212,7 +350,7 @@
       "pubDate": "2026-07-20T17:25:24.000Z"
     },
     {
-      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
+      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-20T17:01:32.000Z"
@@ -222,144 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-20T16:58:52.000Z"
-    },
-    {
-      "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-20T16:56:48.000Z"
-    },
-    {
-      "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
-      "link": "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-20T16:54:24.000Z"
-    },
-    {
-      "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
-      "link": "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-20T16:40:16.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-20T16:37:34.000Z"
-    },
-    {
-      "title": "Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T16:16:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 I8ge instances are now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer launches metrics for agent queues on analytics dashboards",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T15:28:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T15:00:00.000Z"
-    },
-    {
-      "title": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch announces coding agent insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T09:51:00.000Z"
-    },
-    {
-      "title": "Introducing KNFSD File Cache - Now in Preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio adds custom visual transforms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-17T21:40:00.000Z"
-    },
-    {
-      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-17T18:42:36.000Z"
-    },
-    {
-      "title": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-17T17:29:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-17T17:23:00.000Z"
-    },
-    {
-      "title": "Introducing Mobile Layout for Amazon Quick dashboards",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-17T17:13:15.000Z"
-    },
-    {
-      "title": "How Smartsheet built a remote MCP server on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-17T16:32:06.000Z"
-    },
-    {
-      "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
-      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-17T16:03:47.000Z"
-    },
-    {
-      "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
-      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-17T16:03:44.000Z"
-    },
-    {
-      "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
-      "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-17T16:03:40.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-17T15:16:00.000Z"
-    },
-    {
-      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-16T21:29:14.000Z"
     }
   ]
 }
