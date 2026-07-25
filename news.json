@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-07-24T02:50:10.007Z",
+  "lastUpdated": "2026-07-25T02:49:32.082Z",
   "items": [
+    {
+      "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T23:11:00.000Z"
+    },
+    {
+      "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T21:57:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T21:00:00.000Z"
+    },
+    {
+      "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-24T19:54:48.000Z"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T18:55:00.000Z"
+    },
+    {
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-24T17:59:03.000Z"
+    },
+    {
+      "title": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T16:00:00.000Z"
+    },
+    {
+      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-24T15:42:11.000Z"
+    },
+    {
+      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-24T15:40:08.000Z"
+    },
+    {
+      "title": "Amazon SES simplifies sending emails over SMTP using Mail Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T15:03:00.000Z"
+    },
+    {
+      "title": "Claude Opus 5 is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T15:00:00.000Z"
+    },
+    {
+      "title": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T14:00:00.000Z"
+    },
+    {
+      "title": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T13:00:00.000Z"
+    },
     {
       "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware",
@@ -32,6 +110,12 @@
       "pubDate": "2026-07-23T18:05:00.000Z"
     },
     {
+      "title": "AWS Lambda durable execution SDK for .NET is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T18:00:00.000Z"
+    },
+    {
       "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore",
       "source": "AWS Machine Learning Blog",
@@ -46,6 +130,12 @@
     {
       "title": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions",
       "source": "AWS What's New",
       "pubDate": "2026-07-23T17:00:00.000Z"
     },
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud",
       "source": "AWS What's New",
       "pubDate": "2026-07-21T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon SES introduces pricing plans",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-21T16:35:00.000Z"
-    },
-    {
-      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-      "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-21T16:23:12.000Z"
-    },
-    {
-      "title": "Amazon ECS now provides Action Logs for deployment and orchestration visibility",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-21T15:30:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-21T14:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace now supports self-service seller signature management for India-based sellers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-india",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-21T07:18:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-21T07:00:00.000Z"
-    },
-    {
-      "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
-      "link": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-20T21:59:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central agents expand funding guidance to all programs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T20:08:00.000Z"
-    },
-    {
-      "title": "AWS HealthOmics now available in two additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/healthomics-tokyo-ohio",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T18:54:00.000Z"
-    },
-    {
-      "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T18:29:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T17:37:00.000Z"
-    },
-    {
-      "title": "Selectively log network activity events by identity in AWS CloudTrail",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-20T17:34:00.000Z"
-    },
-    {
-      "title": "Custom OS installation now available on AWS DeepRacer devices",
-      "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-20T17:25:24.000Z"
-    },
-    {
-      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-20T17:01:32.000Z"
-    },
-    {
-      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-20T16:58:52.000Z"
     }
   ]
 }
