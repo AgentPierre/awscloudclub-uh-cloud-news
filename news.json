@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-07-28T02:41:45.626Z",
+  "lastUpdated": "2026-07-29T02:48:32.786Z",
   "items": [
+    {
+      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-28T19:07:09.000Z"
+    },
+    {
+      "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
+      "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-28T18:55:43.000Z"
+    },
+    {
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-28T17:24:54.000Z"
+    },
+    {
+      "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T17:18:00.000Z"
+    },
+    {
+      "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
+      "link": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-28T17:16:34.000Z"
+    },
+    {
+      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T16:00:00.000Z"
+    },
+    {
+      "title": "Installing and updating the AWS CLI with single-line commands",
+      "link": "https://aws.amazon.com/blogs/developer/installing-and-updating-the-aws-cli-with-single-line-commands",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-07-28T14:55:26.000Z"
+    },
+    {
+      "title": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "title": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-28T07:00:00.000Z"
+    },
     {
       "title": "Amazon Neptune now supports tag-based access control for IAM",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac",
@@ -30,6 +96,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams",
       "source": "AWS What's New",
       "pubDate": "2026-07-27T18:58:00.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-27T18:00:00.000Z"
     },
     {
       "title": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
@@ -142,6 +214,12 @@
     {
       "title": "Claude Opus 5 is now available on AWS",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-24T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri",
       "source": "AWS What's New",
       "pubDate": "2026-07-24T15:00:00.000Z"
     },
@@ -282,84 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference",
       "source": "AWS What's New",
       "pubDate": "2026-07-23T14:51:00.000Z"
-    },
-    {
-      "title": "AWS Wickr announces Data Retention Service feature",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T21:42:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T20:55:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T19:55:00.000Z"
-    },
-    {
-      "title": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T19:13:00.000Z"
-    },
-    {
-      "title": "AWS Entity Resolution now supports advanced real-time matching",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T19:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable functions now supports customer managed key encryption",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T18:30:00.000Z"
-    },
-    {
-      "title": "Amazon Corretto July 2026 Quarterly Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T18:00:00.000Z"
-    },
-    {
-      "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
-      "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-07-22T17:12:27.000Z"
-    },
-    {
-      "title": "AWS Organizations increases RCP quota to 2,000 per organization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T17:00:00.000Z"
-    },
-    {
-      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-22T15:54:28.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI inference now supports G7 instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-22T15:23:00.000Z"
     }
   ]
 }
