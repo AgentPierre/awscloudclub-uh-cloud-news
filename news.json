@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-07-29T02:48:32.786Z",
+  "lastUpdated": "2026-07-30T02:33:28.345Z",
   "items": [
+    {
+      "title": "Annual .NET target updates for the AWS SDK for .NET",
+      "link": "https://aws.amazon.com/blogs/developer/annual-net-target-updates-for-the-aws-sdk-for-net",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-07-29T21:18:33.000Z"
+    },
+    {
+      "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
+      "link": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-29T21:00:12.000Z"
+    },
+    {
+      "title": "Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift Data API announces long polling, session management, and flexible batch execution",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T20:45:00.000Z"
+    },
+    {
+      "title": "AWS Glue announces VPC support, filter pushdown, and partition support for the REST API connector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-rest-connector-filtering-partitioning-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T20:18:00.000Z"
+    },
+    {
+      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-29T16:20:28.000Z"
+    },
+    {
+      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-29T15:34:18.000Z"
+    },
+    {
+      "title": "Automating customer retention workflows in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-29T15:24:21.000Z"
+    },
+    {
+      "title": "AWS WAF adds pre-parse text transformations and new text transformations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T15:00:00.000Z"
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T15:00:00.000Z"
+    },
+    {
+      "title": "Secure your npm and pip package updates in Amazon Linux",
+      "link": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-29T14:53:39.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T12:00:00.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-29T07:00:00.000Z"
+    },
     {
       "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec",
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet",
       "source": "AWS What's New",
       "pubDate": "2026-07-23T18:00:00.000Z"
-    },
-    {
-      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T17:00:20.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "title": "ARC zonal shift support for EKS Auto Mode and Karpenter",
-      "link": "https://aws.amazon.com/blogs/containers/arc-zonal-shift-support-for-eks-auto-mode-and-karpenter",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-23T16:53:34.000Z"
-    },
-    {
-      "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T16:42:54.000Z"
-    },
-    {
-      "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T16:40:59.000Z"
-    },
-    {
-      "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
-      "link": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T16:38:34.000Z"
-    },
-    {
-      "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T16:30:20.000Z"
-    },
-    {
-      "title": "Amazon EVS is now available in additional Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T16:24:00.000Z"
-    },
-    {
-      "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
-      "link": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-23T16:23:30.000Z"
-    },
-    {
-      "title": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T16:02:00.000Z"
-    },
-    {
-      "title": "Announcing region expansion of G7e instances on SageMaker AI inference",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T15:04:00.000Z"
-    },
-    {
-      "title": "Announcing region expansion of G6 instances on SageMaker AI Inference",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T14:51:00.000Z"
     }
   ]
 }
