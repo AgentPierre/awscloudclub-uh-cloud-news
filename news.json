@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-07-30T02:33:28.345Z",
+  "lastUpdated": "2026-07-31T03:14:11.640Z",
   "items": [
+    {
+      "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T22:37:00.000Z"
+    },
+    {
+      "title": "Balancing speed and safety: A control framework for AI coding agents",
+      "link": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-30T21:49:15.000Z"
+    },
+    {
+      "title": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T20:21:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T20:02:00.000Z"
+    },
+    {
+      "title": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T17:43:00.000Z"
+    },
+    {
+      "title": "Extend Amazon Inspector SBOM Generator with Plugins",
+      "link": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-30T17:22:54.000Z"
+    },
+    {
+      "title": "Deploying Kimi K3 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-30T17:22:32.000Z"
+    },
+    {
+      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-30T16:40:36.000Z"
+    },
+    {
+      "title": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T16:18:00.000Z"
+    },
+    {
+      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-30T16:10:10.000Z"
+    },
+    {
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-30T16:02:32.000Z"
+    },
+    {
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-30T15:58:32.000Z"
+    },
+    {
+      "title": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T15:39:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T14:07:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T14:07:00.000Z"
+    },
+    {
+      "title": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T13:00:00.000Z"
+    },
+    {
+      "title": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T13:00:00.000Z"
+    },
+    {
+      "title": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-30T02:30:15.000Z"
+    },
     {
       "title": "Annual .NET target updates for the AWS SDK for .NET",
       "link": "https://aws.amazon.com/blogs/developer/annual-net-target-updates-for-the-aws-sdk-for-net",
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
       "source": "AWS What's New",
       "pubDate": "2026-07-24T21:57:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T21:00:00.000Z"
-    },
-    {
-      "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
-      "link": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-24T19:54:48.000Z"
-    },
-    {
-      "title": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T18:55:00.000Z"
-    },
-    {
-      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-24T17:59:03.000Z"
-    },
-    {
-      "title": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T16:00:00.000Z"
-    },
-    {
-      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-24T15:42:11.000Z"
-    },
-    {
-      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-24T15:40:08.000Z"
-    },
-    {
-      "title": "Amazon SES simplifies sending emails over SMTP using Mail Manager",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T15:03:00.000Z"
-    },
-    {
-      "title": "Claude Opus 5 is now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T15:00:00.000Z"
-    },
-    {
-      "title": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T14:00:00.000Z"
-    },
-    {
-      "title": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T13:00:00.000Z"
-    },
-    {
-      "title": "AWS Clean Rooms supports larger worker types up to 32 vCPUs for SQL",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T12:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T23:46:00.000Z"
-    },
-    {
-      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-23T23:03:44.000Z"
-    },
-    {
-      "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
-      "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-07-23T21:41:07.000Z"
-    },
-    {
-      "title": "AWS now supports automatic credit memo application preferences",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T18:16:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T18:05:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable execution SDK for .NET is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-23T18:00:00.000Z"
     }
   ]
 }
