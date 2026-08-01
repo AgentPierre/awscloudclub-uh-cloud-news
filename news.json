@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-07-31T03:14:11.640Z",
+  "lastUpdated": "2026-08-01T03:12:31.149Z",
   "items": [
+    {
+      "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-31T19:53:04.000Z"
+    },
+    {
+      "title": "HIPAA Security Rule on AWS – Technical Safeguards Implementation and Readiness Guidance",
+      "link": "https://aws.amazon.com/blogs/security/hipaa-security-rule-on-aws-technical-safeguards-implementation-and-readiness-guidance",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-07-31T19:44:25.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T18:00:00.000Z"
+    },
+    {
+      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-07-31T15:33:11.000Z"
+    },
+    {
+      "title": "Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch announces managed Prometheus collectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T13:06:00.000Z"
+    },
+    {
+      "title": "AWS CodeDeploy now available in five additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T10:54:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C7i-flex instances now available in Europe (Milan) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-flex-instances-MXP-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T00:21:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C7i instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-instances-mxp-yyc-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T00:17:00.000Z"
+    },
     {
       "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git",
@@ -38,8 +98,8 @@
       "pubDate": "2026-07-30T17:22:54.000Z"
     },
     {
-      "title": "Deploying Kimi K3 on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws",
+      "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-30T17:22:32.000Z"
     },
@@ -300,66 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
       "source": "AWS What's New",
       "pubDate": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T17:00:00.000Z"
-    },
-    {
-      "title": "Announcing the Cloud Security Alliance on AWS Compliance Guide",
-      "link": "https://aws.amazon.com/blogs/security/announcing-the-cloud-security-alliance-on-aws-compliance-guide",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-27T16:15:44.000Z"
-    },
-    {
-      "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-27T16:11:32.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and faster startup",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T16:09:00.000Z"
-    },
-    {
-      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-27T16:07:44.000Z"
-    },
-    {
-      "title": "How Guardoc transforms medical document processing with Amazon Nova models",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-27T16:05:00.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-07-27T14:54:41.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports restoring TDE databases on Mult-AZ instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T23:11:00.000Z"
-    },
-    {
-      "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-24T21:57:00.000Z"
     }
   ]
 }
