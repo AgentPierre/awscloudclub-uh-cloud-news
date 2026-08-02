@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T03:12:31.149Z",
+  "lastUpdated": "2026-08-02T02:57:35.343Z",
   "items": [
     {
       "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
@@ -34,6 +34,12 @@
     {
       "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
@@ -290,14 +296,14 @@
       "pubDate": "2026-07-28T17:16:34.000Z"
     },
     {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai",
+      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
       "source": "AWS What's New",
       "pubDate": "2026-07-28T16:00:00.000Z"
     },
     {
-      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai",
       "source": "AWS What's New",
       "pubDate": "2026-07-28T16:00:00.000Z"
     },
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams",
       "source": "AWS What's New",
       "pubDate": "2026-07-27T18:58:00.000Z"
-    },
-    {
-      "title": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T18:00:00.000Z"
     }
   ]
 }
