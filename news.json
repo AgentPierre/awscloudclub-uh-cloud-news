@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T02:57:35.343Z",
+  "lastUpdated": "2026-08-03T03:14:43.045Z",
   "items": [
     {
       "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
@@ -32,14 +32,14 @@
       "pubDate": "2026-07-31T15:00:00.000Z"
     },
     {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
+      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
     {
-      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
