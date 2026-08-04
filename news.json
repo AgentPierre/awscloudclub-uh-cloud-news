@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-08-03T03:14:43.045Z",
+  "lastUpdated": "2026-08-04T02:43:43.016Z",
   "items": [
+    {
+      "title": "AWS Transform continuous modernization is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T21:15:00.000Z"
+    },
+    {
+      "title": "Announcing General Availability of DynamoDB Mapper for Kotlin",
+      "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-dynamodb-mapper-for-kotlin",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-03T21:03:09.000Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T21:03:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Streams now supports sharing streams with stream URLs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T20:24:00.000Z"
+    },
+    {
+      "title": "AWS Resilience Hub now provides recommended resilience tests",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T19:02:58.000Z"
+    },
+    {
+      "title": "AWS Organizations now provides maximum account quota visibility in Service Quotas",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T18:54:00.000Z"
+    },
+    {
+      "title": "AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 I7i instances now available in Asia Pacific (Thailand) and Israel (Tel Aviv) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T17:28:00.000Z"
+    },
+    {
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-03T17:24:15.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI serverless model customization now supports full fine-tuning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Durable Execution SDK for .NET now Generally Available",
+      "link": "https://aws.amazon.com/blogs/developer/aws-durable-execution-sdk-for-net-now-generally-available",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-03T16:36:23.000Z"
+    },
+    {
+      "title": "Run GPU batch inference on Amazon ECS Managed Instances with scale to zero",
+      "link": "https://aws.amazon.com/blogs/containers/run-gpu-batch-inference-on-amazon-ecs-managed-instances-with-scale-to-zero",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-03T16:34:46.000Z"
+    },
+    {
+      "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-03T16:30:58.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-03T16:12:30.000Z"
+    },
+    {
+      "title": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "title": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon ECR now supports image layers up to 200 GB",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Config now supports 15 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports Teradata Vantage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T20:19:00.000Z"
+    },
     {
       "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
       "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick",
@@ -32,14 +146,14 @@
       "pubDate": "2026-07-31T15:00:00.000Z"
     },
     {
-      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
     {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
+      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
@@ -54,6 +168,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T10:54:00.000Z"
+    },
+    {
+      "title": "Amazon Web Services now introduces Context Ontology Accelerator",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-context--ontology-accelarator-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-07-31T10:00:00.000Z"
     },
     {
       "title": "Amazon EC2 C7i-flex instances now available in Europe (Milan) region",
@@ -240,126 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA",
       "source": "AWS What's New",
       "pubDate": "2026-07-29T15:00:00.000Z"
-    },
-    {
-      "title": "Secure your npm and pip package updates in Amazon Linux",
-      "link": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-29T14:53:39.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T07:00:00.000Z"
-    },
-    {
-      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-28T19:07:09.000Z"
-    },
-    {
-      "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
-      "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-28T18:55:43.000Z"
-    },
-    {
-      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-28T17:24:54.000Z"
-    },
-    {
-      "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T17:18:00.000Z"
-    },
-    {
-      "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
-      "link": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-28T17:16:34.000Z"
-    },
-    {
-      "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T16:00:00.000Z"
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T16:00:00.000Z"
-    },
-    {
-      "title": "Installing and updating the AWS CLI with single-line commands",
-      "link": "https://aws.amazon.com/blogs/developer/installing-and-updating-the-aws-cli-with-single-line-commands",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-07-28T14:55:26.000Z"
-    },
-    {
-      "title": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T10:00:00.000Z"
-    },
-    {
-      "title": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-28T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Neptune now supports tag-based access control for IAM",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T22:00:00.000Z"
-    },
-    {
-      "title": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T20:45:00.000Z"
-    },
-    {
-      "title": "AWS Glue Data Quality now supports distribution statistics for data profiling",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T20:23:00.000Z"
-    },
-    {
-      "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
-      "link": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-27T19:01:23.000Z"
-    },
-    {
-      "title": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-27T18:58:00.000Z"
     }
   ]
 }
