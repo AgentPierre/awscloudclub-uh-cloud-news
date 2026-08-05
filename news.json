@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-08-04T02:43:43.016Z",
+  "lastUpdated": "2026-08-05T02:41:41.282Z",
   "items": [
+    {
+      "title": "AWS Tools Installer V2 is Now Generally Available",
+      "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-is-now-generally-available",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-05T00:01:47.000Z"
+    },
+    {
+      "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T22:24:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T20:37:00.000Z"
+    },
+    {
+      "title": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T20:29:00.000Z"
+    },
+    {
+      "title": "AWS Security Hub Extended adds supply chain security as its 10th category",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T19:14:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T18:57:00.000Z"
+    },
+    {
+      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-04T18:39:14.000Z"
+    },
+    {
+      "title": "AWS Application and Network Load Balancers now support RFC 9151 compliant security policies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T18:28:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T18:15:00.000Z"
+    },
+    {
+      "title": "Spring 2026 PCI DSS and PCI 3DS compliance packages for AWS now available",
+      "link": "https://aws.amazon.com/blogs/security/spring-2026-pci-dss-and-pci-3ds-compliance-packages-for-aws-now-available",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-04T17:22:28.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T17:00:00.000Z"
+    },
+    {
+      "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-04T16:02:21.000Z"
+    },
+    {
+      "title": "Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T16:00:00.000Z"
+    },
+    {
+      "title": "Extending Amazon ECS Express Mode to Build an Optimal Container Environment",
+      "link": "https://aws.amazon.com/blogs/containers/extending-amazon-ecs-express-mode-to-build-an-optimal-container-environment",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-04T15:57:59.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server now support BYOM in additional commercial regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for SQL Server supports Developer Edition in additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T07:00:00.000Z"
+    },
+    {
+      "title": "RDS SQL Server now supports publishing SQL Server Audit logs to CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-publish-sql-audit-to-cw",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-04T07:00:00.000Z"
+    },
     {
       "title": "AWS Transform continuous modernization is now generally available",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
@@ -98,14 +206,14 @@
       "pubDate": "2026-08-03T15:00:00.000Z"
     },
     {
-      "title": "Amazon ECR now supports image layers up to 200 GB",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers",
+      "title": "AWS Config now supports 15 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types",
       "source": "AWS What's New",
       "pubDate": "2026-08-03T15:00:00.000Z"
     },
     {
-      "title": "AWS Config now supports 15 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types",
+      "title": "Amazon ECR now supports image layers up to 200 GB",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers",
       "source": "AWS What's New",
       "pubDate": "2026-08-03T15:00:00.000Z"
     },
@@ -146,14 +254,14 @@
       "pubDate": "2026-07-31T15:00:00.000Z"
     },
     {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
+      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
     {
-      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
+      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T14:00:00.000Z"
     },
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-07-30T16:02:32.000Z"
-    },
-    {
-      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-30T15:58:32.000Z"
-    },
-    {
-      "title": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T15:39:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T14:07:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T14:07:00.000Z"
-    },
-    {
-      "title": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "title": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "title": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T02:30:15.000Z"
-    },
-    {
-      "title": "Annual .NET target updates for the AWS SDK for .NET",
-      "link": "https://aws.amazon.com/blogs/developer/annual-net-target-updates-for-the-aws-sdk-for-net",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-07-29T21:18:33.000Z"
-    },
-    {
-      "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
-      "link": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-29T21:00:12.000Z"
-    },
-    {
-      "title": "Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift Data API announces long polling, session management, and flexible batch execution",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T20:45:00.000Z"
-    },
-    {
-      "title": "AWS Glue announces VPC support, filter pushdown, and partition support for the REST API connector",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-rest-connector-filtering-partitioning-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T20:18:00.000Z"
-    },
-    {
-      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-29T16:20:28.000Z"
-    },
-    {
-      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-29T15:34:18.000Z"
-    },
-    {
-      "title": "Automating customer retention workflows in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-29T15:24:21.000Z"
-    },
-    {
-      "title": "AWS WAF adds pre-parse text transformations and new text transformations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T15:00:00.000Z"
-    },
-    {
-      "title": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-29T15:00:00.000Z"
     }
   ]
 }
