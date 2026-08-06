@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-08-05T02:41:41.282Z",
+  "lastUpdated": "2026-08-06T02:44:17.429Z",
   "items": [
+    {
+      "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T21:35:00.000Z"
+    },
+    {
+      "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
+      "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-05T21:00:11.000Z"
+    },
+    {
+      "title": "Announcing response streaming for .NET on AWS Lambda",
+      "link": "https://aws.amazon.com/blogs/developer/announcing-response-streaming-for-net-on-aws-lambda",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-05T20:08:43.000Z"
+    },
+    {
+      "title": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T20:06:00.000Z"
+    },
+    {
+      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-05T18:50:02.000Z"
+    },
+    {
+      "title": "Under the hood: how Amazon EKS Auto Mode detects, repairs, and diagnoses node failures",
+      "link": "https://aws.amazon.com/blogs/containers/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-05T18:48:18.000Z"
+    },
+    {
+      "title": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T18:25:00.000Z"
+    },
+    {
+      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-05T18:09:03.000Z"
+    },
+    {
+      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-05T18:02:23.000Z"
+    },
+    {
+      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-05T18:00:57.000Z"
+    },
+    {
+      "title": "From 2 weeks to 2 minutes: Amazon Cognito launches Provisioned limits for self-service rate limit management",
+      "link": "https://aws.amazon.com/blogs/security/from-2-weeks-to-2-minutes-amazon-cognito-launches-provisioned-limits-for-self-service-rate-limit-management",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-05T17:17:47.000Z"
+    },
+    {
+      "title": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon DynamoDB now supports real-time vector search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T16:59:00.000Z"
+    },
+    {
+      "title": "Building and Deploying .NET AI Agents with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/developer/building-and-deploying-net-ai-agents-with-amazon-bedrock-agentcore",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-05T16:56:46.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T15:12:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-05T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-05T14:45:10.000Z"
+    },
     {
       "title": "AWS Tools Installer V2 is Now Generally Available",
       "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-is-now-generally-available",
@@ -134,6 +236,12 @@
       "pubDate": "2026-08-03T20:24:00.000Z"
     },
     {
+      "title": "AWS HealthOmics now supports task-level timeout for WDL workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-03T20:00:00.000Z"
+    },
+    {
       "title": "AWS Resilience Hub now provides recommended resilience tests",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub",
       "source": "AWS What's New",
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i",
       "source": "AWS What's New",
       "pubDate": "2026-07-31T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T14:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch announces managed Prometheus collectors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T13:06:00.000Z"
-    },
-    {
-      "title": "AWS CodeDeploy now available in five additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T10:54:00.000Z"
-    },
-    {
-      "title": "Amazon Web Services now introduces Context Ontology Accelerator",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-context--ontology-accelarator-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C7i-flex instances now available in Europe (Milan) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-flex-instances-MXP-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T00:21:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C7i instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-instances-mxp-yyc-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-31T00:17:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T22:37:00.000Z"
-    },
-    {
-      "title": "Balancing speed and safety: A control framework for AI coding agents",
-      "link": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-30T21:49:15.000Z"
-    },
-    {
-      "title": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T20:21:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T20:02:00.000Z"
-    },
-    {
-      "title": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T17:43:00.000Z"
-    },
-    {
-      "title": "Extend Amazon Inspector SBOM Generator with Plugins",
-      "link": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-07-30T17:22:54.000Z"
-    },
-    {
-      "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-30T17:22:32.000Z"
-    },
-    {
-      "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-30T16:40:36.000Z"
-    },
-    {
-      "title": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-07-30T16:18:00.000Z"
-    },
-    {
-      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-30T16:10:10.000Z"
-    },
-    {
-      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-07-30T16:02:32.000Z"
     }
   ]
 }
