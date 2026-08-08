@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-08-07T02:45:48.965Z",
+  "lastUpdated": "2026-08-08T01:46:41.958Z",
   "items": [
+    {
+      "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T21:11:00.000Z"
+    },
+    {
+      "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
+      "link": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-07T19:37:57.000Z"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB now supports backup and restore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T19:21:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T18:00:48.000Z"
+    },
+    {
+      "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
+      "link": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-07T16:46:40.000Z"
+    },
+    {
+      "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-07T16:26:58.000Z"
+    },
+    {
+      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-07T16:22:50.000Z"
+    },
+    {
+      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
+      "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-07T16:21:00.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T15:52:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon SES now helps identify automated open and click events in event notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T04:58:00.000Z"
+    },
     {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore",
@@ -24,6 +108,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T21:53:00.000Z"
+    },
+    {
+      "title": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-06T21:10:00.000Z"
     },
     {
       "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
@@ -62,6 +152,12 @@
       "pubDate": "2026-08-06T18:56:00.000Z"
     },
     {
+      "title": "Amazon OpenSearch UI now supports Network Access Control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ui-network-access-control",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-06T18:16:00.000Z"
+    },
+    {
       "title": "Configure rate limits for AI traffic on AgentCore gateway",
       "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway",
       "source": "AWS Machine Learning Blog",
@@ -70,6 +166,12 @@
     {
       "title": "AWS Transform for migrations automates post-launch actions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-06T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer adds one-click drill-down on real-time metrics dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-drill-down-metrics",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T17:00:00.000Z"
     },
@@ -162,12 +264,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon SES now helps identify automated open and click events in event notifications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T07:00:00.000Z"
     },
     {
       "title": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
@@ -264,102 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights",
       "source": "AWS What's New",
       "pubDate": "2026-08-05T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB now supports real-time vector search",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T16:59:00.000Z"
-    },
-    {
-      "title": "Building and Deploying .NET AI Agents with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/developer/building-and-deploying-net-ai-agents-with-amazon-bedrock-agentcore",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-08-05T16:56:46.000Z"
-    },
-    {
-      "title": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T15:42:00.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T15:12:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale",
-      "source": "AWS News Blog",
-      "pubDate": "2026-08-05T14:45:10.000Z"
-    },
-    {
-      "title": "AWS Tools Installer V2 is Now Generally Available",
-      "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-is-now-generally-available",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-08-05T00:01:47.000Z"
-    },
-    {
-      "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T22:24:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T20:37:00.000Z"
-    },
-    {
-      "title": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T20:29:00.000Z"
-    },
-    {
-      "title": "AWS Security Hub Extended adds supply chain security as its 10th category",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T19:14:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T18:57:00.000Z"
-    },
-    {
-      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-04T18:39:14.000Z"
-    },
-    {
-      "title": "AWS Application and Network Load Balancers now support RFC 9151 compliant security policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T18:28:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-04T18:15:00.000Z"
     }
   ]
 }
