@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-08-10T01:57:58.087Z",
+  "lastUpdated": "2026-08-11T01:53:19.760Z",
   "items": [
+    {
+      "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T23:08:00.000Z"
+    },
+    {
+      "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T23:05:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T23:02:00.000Z"
+    },
+    {
+      "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T23:02:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T21:15:00.000Z"
+    },
+    {
+      "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
+      "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-10T20:21:40.000Z"
+    },
+    {
+      "title": "Amazon EC2 introduces application status checks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T17:47:00.000Z"
+    },
+    {
+      "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
+      "link": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-10T17:09:02.000Z"
+    },
+    {
+      "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-10T16:34:37.000Z"
+    },
+    {
+      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-10T16:30:46.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T15:51:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-10T15:45:03.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T13:00:00.000Z"
+    },
     {
       "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex",
@@ -132,12 +210,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T20:00:00.000Z"
-    },
-    {
-      "title": "Route Amazon Bedrock Guardrails interventions to Amazon Security Lake",
-      "link": "https://aws.amazon.com/blogs/security/route-amazon-bedrock-guardrails-interventions-to-amazon-security-lake",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-06T19:00:15.000Z"
     },
     {
       "title": "Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes",
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-m8g-instances-additional-regions",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T00:27:00.000Z"
-    },
-    {
-      "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T21:35:00.000Z"
-    },
-    {
-      "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
-      "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-05T21:00:11.000Z"
-    },
-    {
-      "title": "Announcing response streaming for .NET on AWS Lambda",
-      "link": "https://aws.amazon.com/blogs/developer/announcing-response-streaming-for-net-on-aws-lambda",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-08-05T20:08:43.000Z"
-    },
-    {
-      "title": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T20:06:00.000Z"
-    },
-    {
-      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-05T18:50:02.000Z"
-    },
-    {
-      "title": "Under the hood: how Amazon EKS Auto Mode detects, repairs, and diagnoses node failures",
-      "link": "https://aws.amazon.com/blogs/containers/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-05T18:48:18.000Z"
-    },
-    {
-      "title": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T18:25:00.000Z"
-    },
-    {
-      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-05T18:09:03.000Z"
-    },
-    {
-      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-05T18:02:23.000Z"
-    },
-    {
-      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-05T18:00:57.000Z"
-    },
-    {
-      "title": "From 2 weeks to 2 minutes: Amazon Cognito launches Provisioned limits for self-service rate limit management",
-      "link": "https://aws.amazon.com/blogs/security/from-2-weeks-to-2-minutes-amazon-cognito-launches-provisioned-limits-for-self-service-rate-limit-management",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-05T17:17:47.000Z"
-    },
-    {
-      "title": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-05T17:00:00.000Z"
     }
   ]
 }
