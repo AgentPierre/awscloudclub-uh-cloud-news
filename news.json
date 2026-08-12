@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-08-11T01:53:19.760Z",
+  "lastUpdated": "2026-08-12T02:05:56.273Z",
   "items": [
+    {
+      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T22:03:00.000Z"
+    },
+    {
+      "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
+      "link": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-11T21:50:28.000Z"
+    },
+    {
+      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-11T21:38:06.000Z"
+    },
+    {
+      "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
+      "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-11T21:17:02.000Z"
+    },
+    {
+      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T20:25:00.000Z"
+    },
+    {
+      "title": "Summer 2026 SOC 1 report is now available with 185 services in scope",
+      "link": "https://aws.amazon.com/blogs/security/summer-2026-soc-1-report-is-now-available-with-185-services-in-scope",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-11T18:53:08.000Z"
+    },
+    {
+      "title": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-11T16:14:33.000Z"
+    },
+    {
+      "title": "AWS successfully completed its 2025-26 NHS DSPT assessment",
+      "link": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-2025-26-nhs-dspt-assessment",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-11T16:12:04.000Z"
+    },
+    {
+      "title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-11T16:11:15.000Z"
+    },
+    {
+      "title": "First Orion accelerates QA automation using Amazon Nova Act",
+      "link": "https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-11T16:09:06.000Z"
+    },
+    {
+      "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-11T15:59:22.000Z"
+    },
+    {
+      "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T15:22:00.000Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T15:21:00.000Z"
+    },
+    {
+      "title": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T14:57:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T14:57:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer launches performance dashboard for Cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T13:30:00.000Z"
+    },
+    {
+      "title": "AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T12:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MariaDB now supports MariaDB 12.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T08:54:00.000Z"
+    },
     {
       "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart",
@@ -36,6 +144,12 @@
       "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london",
       "source": "AWS Security Blog",
       "pubDate": "2026-08-10T20:21:40.000Z"
+    },
+    {
+      "title": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T20:07:00.000Z"
     },
     {
       "title": "Amazon EC2 introduces application status checks",
@@ -146,6 +260,12 @@
       "pubDate": "2026-08-07T15:52:00.000Z"
     },
     {
+      "title": "Amazon CloudWatch Alarms now supports wall clock evaluation windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-alarms-wallclock-evaluation",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-07T08:00:00.000Z"
+    },
+    {
       "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion",
       "source": "AWS What's New",
@@ -168,6 +288,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august",
       "source": "AWS What's New",
       "pubDate": "2026-08-07T04:58:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now provides schedule adherence metrics on dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/schedule-adherence-metrics",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-06T23:38:00.000Z"
     },
     {
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
@@ -234,132 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ui-network-access-control",
       "source": "AWS What's New",
       "pubDate": "2026-08-06T18:16:00.000Z"
-    },
-    {
-      "title": "Configure rate limits for AI traffic on AgentCore gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T17:50:42.000Z"
-    },
-    {
-      "title": "AWS Transform for migrations automates post-launch actions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer adds one-click drill-down on real-time metrics dashboards",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-drill-down-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Agent now supports email-based MFA for penetration testing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T16:54:00.000Z"
-    },
-    {
-      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T16:43:19.000Z"
-    },
-    {
-      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T16:30:47.000Z"
-    },
-    {
-      "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
-      "link": "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-06T16:16:06.000Z"
-    },
-    {
-      "title": "Centralize cross-account Amazon ECS telemetry with an ADOT gateway",
-      "link": "https://aws.amazon.com/blogs/containers/centralize-cross-account-amazon-ecs-telemetry-with-an-adot-gateway",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-06T16:13:46.000Z"
-    },
-    {
-      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T16:12:24.000Z"
-    },
-    {
-      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T16:11:13.000Z"
-    },
-    {
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "link": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T16:08:12.000Z"
-    },
-    {
-      "title": "Amazon RDS now provides visibility into storage volume initialization status",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces now publishes enhanced observability metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Marketplace now lets sellers configure net payment terms on private offers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-net-payment-terms-for-private-offers",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T14:49:00.000Z"
-    },
-    {
-      "title": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T14:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup for Amazon S3 now supports direct access to backup data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T10:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick supports multi-dataset analytical capabiity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T06:54:00.000Z"
-    },
-    {
-      "title": "Announcing temporal policies and rate limiting in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/temporal-policies-agentcore",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-m8g-instances-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T00:27:00.000Z"
     }
   ]
 }
