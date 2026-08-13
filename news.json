@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-08-12T02:05:56.273Z",
+  "lastUpdated": "2026-08-13T02:08:10.844Z",
   "items": [
+    {
+      "title": "Reducing Text2SQL latency with parameterized query templates",
+      "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-13T00:40:32.000Z"
+    },
+    {
+      "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
+      "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-13T00:14:19.000Z"
+    },
+    {
+      "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
+      "link": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-12T22:16:55.000Z"
+    },
+    {
+      "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T22:00:00.000Z"
+    },
+    {
+      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T18:00:00.000Z"
+    },
+    {
+      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-12T17:45:20.000Z"
+    },
+    {
+      "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
+      "link": "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-12T17:38:15.000Z"
+    },
+    {
+      "title": "Introducing advanced Kubernetes control plane configuration in Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-12T17:23:45.000Z"
+    },
+    {
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T17:15:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T17:15:00.000Z"
+    },
+    {
+      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-12T17:09:00.000Z"
+    },
+    {
+      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-12T13:46:28.000Z"
+    },
+    {
+      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-12T13:44:58.000Z"
+    },
+    {
+      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-12T13:42:48.000Z"
+    },
+    {
+      "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-11T23:00:00.000Z"
+    },
     {
       "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central",
@@ -122,14 +218,14 @@
       "pubDate": "2026-08-10T23:05:00.000Z"
     },
     {
-      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
+      "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart",
       "source": "AWS What's New",
       "pubDate": "2026-08-10T23:02:00.000Z"
     },
     {
-      "title": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart",
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
       "source": "AWS What's New",
       "pubDate": "2026-08-10T23:02:00.000Z"
     },
@@ -138,6 +234,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching",
       "source": "AWS What's New",
       "pubDate": "2026-08-10T21:15:00.000Z"
+    },
+    {
+      "title": "AWS Marketplace now supports category-based notification subscriptions and multi-channel delivery for buyers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-managed-buyer-notifications",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-10T21:00:12.000Z"
     },
     {
       "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud",
       "source": "AWS What's New",
       "pubDate": "2026-08-07T15:52:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Alarms now supports wall clock evaluation windows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-alarms-wallclock-evaluation",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-07T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-07T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-07T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon SES now helps identify automated open and click events in event notifications",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-07T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-07T04:58:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now provides schedule adherence metrics on dashboards",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/schedule-adherence-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T23:38:00.000Z"
-    },
-    {
-      "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore",
-      "source": "AWS News Blog",
-      "pubDate": "2026-08-06T22:58:00.000Z"
-    },
-    {
-      "title": "Automate certificates with ACME support in AWS Certificate Manager",
-      "link": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-06T22:03:36.000Z"
-    },
-    {
-      "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T22:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T21:53:00.000Z"
-    },
-    {
-      "title": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T21:10:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T20:51:00.000Z"
-    },
-    {
-      "title": "AgentCore runtime instances are now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T19:00:00.000Z"
-    },
-    {
-      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-06T18:57:55.000Z"
-    },
-    {
-      "title": "AWS Glue Schema Registry is now available in ten more AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T18:56:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch UI now supports Network Access Control",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ui-network-access-control",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-06T18:16:00.000Z"
     }
   ]
 }
