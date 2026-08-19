@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-08-18T01:19:24.936Z",
+  "lastUpdated": "2026-08-19T01:21:09.986Z",
   "items": [
+    {
+      "title": "Amazon Bedrock now supports OpenAI models in India",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T23:30:00.000Z"
+    },
+    {
+      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T21:48:00.000Z"
+    },
+    {
+      "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-18T20:46:26.000Z"
+    },
+    {
+      "title": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T19:15:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T18:56:14.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T18:49:00.000Z"
+    },
+    {
+      "title": "Amazon MWAA Serverless now supports PythonOperator and BashOperator",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T17:24:00.000Z"
+    },
+    {
+      "title": "IAM Policy Autopilot now supports Terraform plan files",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T17:19:00.000Z"
+    },
+    {
+      "title": "Customize Amazon Quick embedded chat into your application",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T17:13:13.000Z"
+    },
+    {
+      "title": "Implement vector-prompt document classification using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T17:10:37.000Z"
+    },
+    {
+      "title": "How Jumio built a real-time feature store on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T17:05:48.000Z"
+    },
+    {
+      "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
+      "link": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-18T17:04:28.000Z"
+    },
+    {
+      "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T17:02:52.000Z"
+    },
+    {
+      "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-18T16:27:07.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T16:00:00.000Z"
+    },
+    {
+      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+      "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-18T13:58:41.000Z"
+    },
+    {
+      "title": "Consistency is the new latency: AI at the data layer",
+      "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-18T11:13:20.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces now supports Nested Virtualization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-metadata-annotations-govcloud-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T04:00:00.000Z"
+    },
     {
       "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2",
@@ -78,6 +204,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc",
       "source": "AWS What's New",
       "pubDate": "2026-08-17T15:39:00.000Z"
+    },
+    {
+      "title": "AWS Console-to-Code adds 26 services and cross-region recording​",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/console-to-code-adds-26-services",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-17T15:00:00.000Z"
     },
     {
       "title": "AWS CloudShell now includes a built-in visual file editor",
@@ -228,138 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages",
       "source": "AWS What's New",
       "pubDate": "2026-08-13T13:00:00.000Z"
-    },
-    {
-      "title": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "title": "Reducing Text2SQL latency with parameterized query templates",
-      "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-13T00:40:32.000Z"
-    },
-    {
-      "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
-      "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-13T00:14:19.000Z"
-    },
-    {
-      "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
-      "link": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-12T22:16:55.000Z"
-    },
-    {
-      "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T22:00:00.000Z"
-    },
-    {
-      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T18:00:00.000Z"
-    },
-    {
-      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-12T17:45:20.000Z"
-    },
-    {
-      "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
-      "link": "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-12T17:38:15.000Z"
-    },
-    {
-      "title": "Introducing advanced Kubernetes control plane configuration in Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/containers/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-12T17:23:45.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T17:15:00.000Z"
-    },
-    {
-      "title": "AWS Deadline Cloud Now Supports EBS Persistent Volume Cost Tracking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-now-supports-ebs-persistent-volume-cost-tracking",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-nova-mme-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-12T14:34:00.000Z"
-    },
-    {
-      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-12T13:46:28.000Z"
-    },
-    {
-      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-12T13:44:58.000Z"
-    },
-    {
-      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
-      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-12T13:42:48.000Z"
-    },
-    {
-      "title": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-11T23:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-11T22:03:00.000Z"
-    },
-    {
-      "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
-      "link": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-11T21:50:28.000Z"
-    },
-    {
-      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-11T21:38:06.000Z"
-    },
-    {
-      "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
-      "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-11T21:17:02.000Z"
-    },
-    {
-      "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-11T20:25:00.000Z"
     }
   ]
 }
