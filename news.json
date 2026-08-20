@@ -1,6 +1,162 @@
 {
-  "lastUpdated": "2026-08-19T01:21:09.986Z",
+  "lastUpdated": "2026-08-20T01:20:08.807Z",
   "items": [
+    {
+      "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
+      "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-20T00:32:52.000Z"
+    },
+    {
+      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T23:00:00.000Z"
+    },
+    {
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T22:55:00.000Z"
+    },
+    {
+      "title": "Domain and publish date filters for Web Search on AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-19T22:13:20.000Z"
+    },
+    {
+      "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-19T22:09:56.000Z"
+    },
+    {
+      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-19T22:06:09.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T21:06:00.000Z"
+    },
+    {
+      "title": "Deep dive into Amazon EKS certificate authority rotation",
+      "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-19T20:55:49.000Z"
+    },
+    {
+      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-19T20:40:45.000Z"
+    },
+    {
+      "title": "Encrypt Amazon ECS traffic: VPC encryption controls and Service Connect TLS",
+      "link": "https://aws.amazon.com/blogs/containers/encrypt-amazon-ecs-traffic-vpc-encryption-controls-and-service-connect-tls",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-08-19T20:37:56.000Z"
+    },
+    {
+      "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
+      "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-19T20:36:50.000Z"
+    },
+    {
+      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T20:25:00.000Z"
+    },
+    {
+      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T17:57:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T17:54:00.000Z"
+    },
+    {
+      "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-19T17:24:15.000Z"
+    },
+    {
+      "title": "AWS Marketplace launches support for Amazon Lightsail",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T17:04:00.000Z"
+    },
+    {
+      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T16:14:00.000Z"
+    },
+    {
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T15:36:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T15:00:00.000Z"
+    },
+    {
+      "title": "AWS IAM now supports 20 managed policies per role by default",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T15:00:00.000Z"
+    },
+    {
+      "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-19T14:29:31.000Z"
+    },
+    {
+      "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-19T13:11:51.000Z"
+    },
+    {
+      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T07:51:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T05:18:00.000Z"
+    },
     {
       "title": "Amazon Bedrock now supports OpenAI models in India",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1",
@@ -104,6 +260,12 @@
       "pubDate": "2026-08-18T16:00:00.000Z"
     },
     {
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-18T15:00:00.000Z"
+    },
+    {
       "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
       "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo",
       "source": "AWS News Blog",
@@ -198,168 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available",
       "source": "AWS What's New",
       "pubDate": "2026-08-17T15:41:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-17T15:39:00.000Z"
-    },
-    {
-      "title": "AWS Console-to-Code adds 26 services and cross-region recording​",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/console-to-code-adds-26-services",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-17T15:00:00.000Z"
-    },
-    {
-      "title": "AWS CloudShell now includes a built-in visual file editor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-17T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports per-user resource limits",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-per-user-resource-limits",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T21:07:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T21:04:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports approval policies for sharing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T21:00:00.000Z"
-    },
-    {
-      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-      "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-14T16:02:10.000Z"
-    },
-    {
-      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-14T15:58:44.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports customizable no data messages for visuals",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports Oracle APEX version 26.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T15:00:00.000Z"
-    },
-    {
-      "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-14T10:02:13.000Z"
-    },
-    {
-      "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Billing and Cost Management introduces Managed Dashboards",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-14T02:00:00.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
-      "link": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-13T21:23:00.000Z"
-    },
-    {
-      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T20:49:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T19:34:00.000Z"
-    },
-    {
-      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T18:23:00.000Z"
-    },
-    {
-      "title": "Spot Placement Score now includes Local Zones",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T17:13:00.000Z"
-    },
-    {
-      "title": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T16:12:00.000Z"
-    },
-    {
-      "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-13T16:02:10.000Z"
-    },
-    {
-      "title": "Track generative AI costs with Amazon Bedrock inference profiles",
-      "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-13T15:59:39.000Z"
-    },
-    {
-      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-13T15:56:07.000Z"
-    },
-    {
-      "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-13T15:52:44.000Z"
-    },
-    {
-      "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-13T15:48:15.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager supports switching from e-mail to DNS validation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "title": "Recovery strategies to meet data residency requirements",
-      "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-13T14:05:39.000Z"
-    },
-    {
-      "title": "Amazon S3 adds additional policy details to access denied error messages",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-13T13:00:00.000Z"
     }
   ]
 }
