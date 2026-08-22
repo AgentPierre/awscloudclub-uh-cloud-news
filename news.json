@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-08-21T01:23:56.795Z",
+  "lastUpdated": "2026-08-22T01:19:23.175Z",
   "items": [
+    {
+      "title": "Amazon Connect Customer now lets managers chat with their data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T20:00:00.000Z"
+    },
+    {
+      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+      "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-21T18:53:26.000Z"
+    },
+    {
+      "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
+      "link": "https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-21T18:19:23.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T18:00:00.000Z"
+    },
+    {
+      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-21T17:06:17.000Z"
+    },
+    {
+      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-21T17:02:35.000Z"
+    },
+    {
+      "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T17:00:00.000Z"
+    },
+    {
+      "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-21T16:59:15.000Z"
+    },
+    {
+      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-21T16:57:01.000Z"
+    },
+    {
+      "title": "AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T16:42:00.000Z"
+    },
+    {
+      "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2",
+      "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-21T10:01:18.000Z"
+    },
+    {
+      "title": "Amazon SES now supports open and click tracking override parameters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T07:00:00.000Z"
+    },
     {
       "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock",
@@ -34,6 +106,12 @@
     {
       "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd",
       "source": "AWS What's New",
       "pubDate": "2026-08-20T20:00:00.000Z"
     },
@@ -102,6 +180,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-08-20T16:06:06.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-20T16:00:00.000Z"
     },
     {
       "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
@@ -218,6 +302,12 @@
       "pubDate": "2026-08-19T20:13:00.000Z"
     },
     {
+      "title": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-19T18:27:00.000Z"
+    },
+    {
       "title": "AWS Elemental MediaConnect Router now supports configurable recovery latency modes",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes",
       "source": "AWS What's New",
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase",
       "source": "AWS What's New",
       "pubDate": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-19T14:29:31.000Z"
-    },
-    {
-      "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-19T13:11:51.000Z"
-    },
-    {
-      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T10:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T07:51:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T05:18:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock now supports OpenAI models in India",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T23:30:00.000Z"
-    },
-    {
-      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T22:30:00.000Z"
-    },
-    {
-      "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T21:48:00.000Z"
-    },
-    {
-      "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-18T20:46:26.000Z"
-    },
-    {
-      "title": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T19:15:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-18T18:56:14.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports data profiling and anomaly detection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T18:49:00.000Z"
-    },
-    {
-      "title": "Amazon MWAA Serverless now supports PythonOperator and BashOperator",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-18T17:24:00.000Z"
     }
   ]
 }
