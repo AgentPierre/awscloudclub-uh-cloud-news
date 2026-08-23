@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-08-22T01:19:23.175Z",
+  "lastUpdated": "2026-08-23T01:27:13.442Z",
   "items": [
+    {
+      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T20:11:00.000Z"
+    },
     {
       "title": "Amazon Connect Customer now lets managers chat with their data",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default",
       "source": "AWS What's New",
       "pubDate": "2026-08-19T15:36:00.000Z"
-    },
-    {
-      "title": "AWS IAM now supports 20 managed policies per role by default",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T15:00:00.000Z"
     }
   ]
 }
