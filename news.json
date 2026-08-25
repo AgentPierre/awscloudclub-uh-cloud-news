@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-08-24T01:24:16.093Z",
+  "lastUpdated": "2026-08-25T01:21:28.885Z",
   "items": [
+    {
+      "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T22:42:00.000Z"
+    },
+    {
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-24T19:32:14.000Z"
+    },
+    {
+      "title": "SageMaker MLflow now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T19:26:00.000Z"
+    },
+    {
+      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-24T18:59:15.000Z"
+    },
+    {
+      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T18:29:00.000Z"
+    },
+    {
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-24T16:22:03.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-24T16:20:15.000Z"
+    },
+    {
+      "title": "Building a restaurant telephony AI host with Amazon Connect",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-24T16:13:09.000Z"
+    },
+    {
+      "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T16:00:00.000Z"
+    },
+    {
+      "title": "AI-powered metadata correction and harmonization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-24T15:53:03.000Z"
+    },
+    {
+      "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
+      "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-08-24T15:23:21.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod enhances support for Ray",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T14:46:00.000Z"
+    },
+    {
+      "title": "AWS ParallelCluster 3.16 adds an on-node diagnostics tool",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T14:00:00.000Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for MySQL now supports new minor version 8.4.11",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T08:41:00.000Z"
+    },
+    {
+      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-21T21:11:00.000Z"
+    },
     {
       "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing",
@@ -118,6 +220,18 @@
     {
       "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads",
       "source": "AWS What's New",
       "pubDate": "2026-08-20T20:00:00.000Z"
     },
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-08-19T22:09:56.000Z"
-    },
-    {
-      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
-      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-19T22:06:09.000Z"
-    },
-    {
-      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T21:30:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T21:06:00.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB Streams now supports attribute-based access control",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T21:03:00.000Z"
-    },
-    {
-      "title": "Deep dive into Amazon EKS certificate authority rotation",
-      "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-19T20:55:49.000Z"
-    },
-    {
-      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-19T20:40:45.000Z"
-    },
-    {
-      "title": "Encrypt Amazon ECS traffic: VPC encryption controls and Service Connect TLS",
-      "link": "https://aws.amazon.com/blogs/containers/encrypt-amazon-ecs-traffic-vpc-encryption-controls-and-service-connect-tls",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-19T20:37:56.000Z"
-    },
-    {
-      "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
-      "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-19T20:36:50.000Z"
-    },
-    {
-      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T20:25:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T20:13:00.000Z"
-    },
-    {
-      "title": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T18:27:00.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaConnect Router now supports configurable recovery latency modes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T18:00:00.000Z"
-    },
-    {
-      "title": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T17:57:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T17:54:00.000Z"
-    },
-    {
-      "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-19T17:24:15.000Z"
-    },
-    {
-      "title": "AWS Marketplace launches support for Amazon Lightsail",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T17:04:00.000Z"
-    },
-    {
-      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T16:14:00.000Z"
-    },
-    {
-      "title": "Amazon Quick adds deny by default for custom permissions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T15:36:00.000Z"
     }
   ]
 }
