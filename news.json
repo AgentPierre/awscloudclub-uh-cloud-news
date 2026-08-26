@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-08-25T01:21:28.885Z",
+  "lastUpdated": "2026-08-26T01:24:40.308Z",
   "items": [
+    {
+      "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
+      "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-25T21:53:49.000Z"
+    },
+    {
+      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T19:42:00.000Z"
+    },
+    {
+      "title": "AWS Batch now supports Amazon ECS Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T19:36:00.000Z"
+    },
+    {
+      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-25T19:00:09.000Z"
+    },
+    {
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T18:00:00.000Z"
+    },
+    {
+      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-25T16:35:01.000Z"
+    },
+    {
+      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T16:34:00.000Z"
+    },
+    {
+      "title": "Happy 20th Birthday, Amazon EC2",
+      "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-25T16:11:02.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T16:00:00.000Z"
+    },
+    {
+      "title": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T13:18:00.000Z"
+    },
+    {
+      "title": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T07:30:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T07:24:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda functions now support full IAM resource-based policies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-25T02:00:00.000Z"
+    },
     {
       "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
@@ -66,6 +162,12 @@
       "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-08-24T15:23:21.000Z"
+    },
+    {
+      "title": "MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-24T15:00:00.000Z"
     },
     {
       "title": "Amazon SageMaker HyperPod enhances support for Ray",
@@ -218,12 +320,6 @@
       "pubDate": "2026-08-20T20:00:00.000Z"
     },
     {
-      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T20:00:00.000Z"
-    },
-    {
       "title": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams",
       "source": "AWS What's New",
@@ -232,6 +328,12 @@
     {
       "title": "Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd",
       "source": "AWS What's New",
       "pubDate": "2026-08-20T20:00:00.000Z"
     },
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap",
       "source": "AWS What's New",
       "pubDate": "2026-08-20T18:30:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T18:02:00.000Z"
-    },
-    {
-      "title": "ARC Region switch adds Amazon RDS Switchover Read Replica execution block",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T17:45:00.000Z"
-    },
-    {
-      "title": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T17:25:00.000Z"
-    },
-    {
-      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-20T16:31:28.000Z"
-    },
-    {
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-20T16:24:12.000Z"
-    },
-    {
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-20T16:11:18.000Z"
-    },
-    {
-      "title": "AWS vector solutions: Build agentic AI where your data lives",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-20T16:06:06.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T16:00:00.000Z"
-    },
-    {
-      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-20T15:20:03.000Z"
-    },
-    {
-      "title": "AWS Direct Connect introduces inbound prefix controls and higher prefix scale",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 1",
-      "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-20T00:32:52.000Z"
-    },
-    {
-      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-20T00:06:00.000Z"
-    },
-    {
-      "title": "Launching External Web Access for Web Search on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T23:00:00.000Z"
-    },
-    {
-      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-19T22:55:00.000Z"
-    },
-    {
-      "title": "Domain and publish date filters for Web Search on AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-19T22:13:20.000Z"
-    },
-    {
-      "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-19T22:09:56.000Z"
     }
   ]
 }
