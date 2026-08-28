@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-08-27T08:09:54.401Z",
+  "lastUpdated": "2026-08-28T10:12:57.637Z",
   "items": [
+    {
+      "title": "Build agentic creative workflows with Amazon Quick and fal",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-27T23:04:22.000Z"
+    },
+    {
+      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T22:41:00.000Z"
+    },
+    {
+      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T22:39:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T21:41:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T20:07:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T18:40:00.000Z"
+    },
+    {
+      "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-27T18:36:08.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore expands to two new regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now automatically refreshes scheduling metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T17:59:00.000Z"
+    },
+    {
+      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T17:37:00.000Z"
+    },
+    {
+      "title": "AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-fsx-netapp-cross-account-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T17:25:00.000Z"
+    },
+    {
+      "title": "Amazon EVS now supports i7i.metal-48xl Amazon EC2 instance type",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T16:35:00.000Z"
+    },
+    {
+      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+      "link": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-27T16:20:05.000Z"
+    },
+    {
+      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-27T16:11:27.000Z"
+    },
+    {
+      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-27T16:05:10.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL now supports foreign key constraints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-foreign-key-constraints",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-27T07:00:00.000Z"
+    },
     {
       "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset",
@@ -176,14 +284,14 @@
       "pubDate": "2026-08-25T16:11:02.000Z"
     },
     {
-      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles",
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24",
       "source": "AWS What's New",
       "pubDate": "2026-08-25T16:00:00.000Z"
     },
     {
-      "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24",
+      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles",
       "source": "AWS What's New",
       "pubDate": "2026-08-25T16:00:00.000Z"
     },
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-08-24T19:32:14.000Z"
-    },
-    {
-      "title": "SageMaker MLflow now supports customer managed keys",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T19:26:00.000Z"
-    },
-    {
-      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-24T18:59:15.000Z"
-    },
-    {
-      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T18:29:00.000Z"
-    },
-    {
-      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-24T16:22:03.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-08-24T16:20:15.000Z"
-    },
-    {
-      "title": "Building a restaurant telephony AI host with Amazon Connect",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-24T16:13:09.000Z"
-    },
-    {
-      "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T16:00:00.000Z"
-    },
-    {
-      "title": "AI-powered metadata correction and harmonization",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-24T15:53:03.000Z"
-    },
-    {
-      "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
-      "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-24T15:23:21.000Z"
-    },
-    {
-      "title": "MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod enhances support for Ray",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T14:46:00.000Z"
-    },
-    {
-      "title": "AWS ParallelCluster 3.16 adds an on-node diagnostics tool",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T14:00:00.000Z"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MySQL now supports new minor version 8.4.11",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T08:41:00.000Z"
-    },
-    {
-      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-21T21:11:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-21T20:11:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now lets managers chat with their data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-21T20:00:00.000Z"
     }
   ]
 }
