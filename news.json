@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-08-28T10:12:57.637Z",
+  "lastUpdated": "2026-08-29T06:12:05.062Z",
   "items": [
+    {
+      "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T22:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T20:00:00.000Z"
+    },
+    {
+      "title": "AWS Transform now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T19:45:00.000Z"
+    },
+    {
+      "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+      "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-28T19:31:05.000Z"
+    },
+    {
+      "title": "Extend your data perimeter to the AWS Management Console with Private Access",
+      "link": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-28T18:53:57.000Z"
+    },
+    {
+      "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T17:34:00.000Z"
+    },
+    {
+      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-28T16:22:30.000Z"
+    },
+    {
+      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+      "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-28T16:20:40.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch agent adds support for journald logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T16:00:00.000Z"
+    },
+    {
+      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T13:17:00.000Z"
+    },
     {
       "title": "Build agentic creative workflows with Amazon Quick and fal",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal",
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24",
       "source": "AWS What's New",
       "pubDate": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T16:00:00.000Z"
-    },
-    {
-      "title": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T13:18:00.000Z"
-    },
-    {
-      "title": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T07:30:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T07:24:00.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T07:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda functions now support full IAM resource-based policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T02:00:00.000Z"
-    },
-    {
-      "title": "Amazon GameLift Servers enhanced DDoS Protection now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-servers-enhanced-ddos-protection",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T22:42:00.000Z"
-    },
-    {
-      "title": "AWS Glue now supports catalog federation for remote Apache Iceberg catalogs in AWS GovCloud (US) regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-catalog-federation-iceberg-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-24T20:50:00.000Z"
-    },
-    {
-      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-24T19:32:14.000Z"
     }
   ]
 }
