@@ -1,6 +1,186 @@
 {
-  "lastUpdated": "2026-08-31T04:25:14.935Z",
+  "lastUpdated": "2026-09-01T04:09:04.836Z",
   "items": [
+    {
+      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-31T22:47:53.000Z"
+    },
+    {
+      "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T22:30:00.000Z"
+    },
+    {
+      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T22:00:00.000Z"
+    },
+    {
+      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T21:05:00.000Z"
+    },
+    {
+      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T21:02:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-31T19:53:34.000Z"
+    },
+    {
+      "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-31T19:50:12.000Z"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T19:48:00.000Z"
+    },
+    {
+      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-31T19:18:09.000Z"
+    },
+    {
+      "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-31T19:08:45.000Z"
+    },
+    {
+      "title": "We invited a direct competitor into Security Hub Extended. Here’s why.",
+      "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-31T19:00:07.000Z"
+    },
+    {
+      "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-08-31T18:56:12.000Z"
+    },
+    {
+      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T18:10:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T18:08:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T18:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T17:30:00.000Z"
+    },
+    {
+      "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+      "link": "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-08-31T17:18:31.000Z"
+    },
+    {
+      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T16:46:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T15:41:00.000Z"
+    },
+    {
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T15:21:00.000Z"
+    },
+    {
+      "title": "Introducing a standalone SigV4 signer for the AWS SDK for .NET",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-a-standalone-sigv4-signer-for-the-aws-sdk-for-net",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-08-31T15:00:22.000Z"
+    },
+    {
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Connect now supports restarting connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-08-31T14:45:25.000Z"
+    },
+    {
+      "title": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T07:00:00.000Z"
+    },
+    {
+      "title": "Automated Security Response on AWS adds AI Toolkit for custom remediations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T06:00:00.000Z"
+    },
+    {
+      "title": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-29T06:47:00.000Z"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T23:34:00.000Z"
+    },
     {
       "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris",
@@ -42,6 +222,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
       "source": "AWS What's New",
       "pubDate": "2026-08-28T17:34:00.000Z"
+    },
+    {
+      "title": "Amazon EMR on EKS now supports job run concurrency controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-eks",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-28T17:08:00.000Z"
     },
     {
       "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
@@ -174,192 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-08-27T16:05:10.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports foreign key constraints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-foreign-key-constraints",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T22:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports unplanned shrinkage in agent schedules",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T20:16:00.000Z"
-    },
-    {
-      "title": "ICYMI: July 2026 @AWS Security",
-      "link": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-26T19:32:55.000Z"
-    },
-    {
-      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T19:13:35.000Z"
-    },
-    {
-      "title": "Get started with the Agent Toolkit for AWS in the AWS CLI",
-      "link": "https://aws.amazon.com/blogs/developer/get-started-with-the-agent-toolkit-for-aws-in-the-aws-cli",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-08-26T18:14:37.000Z"
-    },
-    {
-      "title": "Mountpoint for Amazon S3 adds memory usage controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T18:00:00.000Z"
-    },
-    {
-      "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
-      "link": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-26T17:39:19.000Z"
-    },
-    {
-      "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-26T17:36:23.000Z"
-    },
-    {
-      "title": "Closing the AI agent trust gap with graduated autonomy",
-      "link": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-08-26T17:33:03.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports points-based scoring in performance evaluations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T17:00:00.000Z"
-    },
-    {
-      "title": "How GoDaddy transformed its analytics with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T16:51:53.000Z"
-    },
-    {
-      "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T16:36:35.000Z"
-    },
-    {
-      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T16:31:32.000Z"
-    },
-    {
-      "title": "AWS Glue 5.1 is now available in AWS European Sovereign Cloud Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-5-1-european-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T16:26:00.000Z"
-    },
-    {
-      "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
-      "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T16:24:05.000Z"
-    },
-    {
-      "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
-      "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T16:24:02.000Z"
-    },
-    {
-      "title": "Break-glass access for Amazon EKS when federated identity fails",
-      "link": "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-08-26T16:20:28.000Z"
-    },
-    {
-      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-26T15:48:10.000Z"
-    },
-    {
-      "title": "AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-26T10:00:00.000Z"
-    },
-    {
-      "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
-      "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-25T21:53:49.000Z"
-    },
-    {
-      "title": "Amazon EC2 R8id instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C8id and M8id instances are now available in additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T20:00:00.000Z"
-    },
-    {
-      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T19:42:00.000Z"
-    },
-    {
-      "title": "AWS Batch now supports Amazon ECS Managed Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T19:36:00.000Z"
-    },
-    {
-      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-25T19:00:09.000Z"
-    },
-    {
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T18:00:00.000Z"
-    },
-    {
-      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
-      "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-25T16:35:01.000Z"
-    },
-    {
-      "title": "AWS Lambda MicroVMs now supports AWS PrivateLink",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T16:34:00.000Z"
-    },
-    {
-      "title": "Happy 20th Birthday, Amazon EC2",
-      "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2",
-      "source": "AWS News Blog",
-      "pubDate": "2026-08-25T16:11:02.000Z"
-    },
-    {
-      "title": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-25T16:00:00.000Z"
     }
   ]
 }
