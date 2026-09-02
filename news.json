@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-09-01T04:09:04.836Z",
+  "lastUpdated": "2026-09-02T03:31:05.743Z",
   "items": [
+    {
+      "title": "Amazon Quick now lets you build custom apps with natural language  -",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T21:37:00.000Z"
+    },
+    {
+      "title": "AWS Deadline Cloud now supports sharing job bundles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T20:16:00.000Z"
+    },
+    {
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T19:12:43.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T19:00:00.000Z"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T19:00:00.000Z"
+    },
+    {
+      "title": "AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer dashboards now support compact mode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T16:17:54.000Z"
+    },
+    {
+      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T16:03:41.000Z"
+    },
+    {
+      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T16:02:22.000Z"
+    },
+    {
+      "title": "Automate proxy injection for Amazon EKS on AWS Fargate using Kyverno",
+      "link": "https://aws.amazon.com/blogs/containers/automate-proxy-injection-for-amazon-eks-on-aws-fargate-using-kyverno",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-01T15:59:57.000Z"
+    },
+    {
+      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T15:50:00.000Z"
+    },
+    {
+      "title": "Fast model loading for AI inference on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/fast-model-loading-for-ai-inference-on-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-01T15:48:15.000Z"
+    },
+    {
+      "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T15:47:00.000Z"
+    },
+    {
+      "title": "How Boomi Scribe streamlines documentation using AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-01T15:45:36.000Z"
+    },
+    {
+      "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T15:00:00.000Z"
+    },
+    {
+      "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-01T14:01:10.000Z"
+    },
+    {
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T14:00:00.000Z"
+    },
+    {
+      "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
+      "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-01T13:09:19.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-01T07:30:00.000Z"
+    },
     {
       "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
       "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
@@ -18,6 +144,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion",
       "source": "AWS What's New",
       "pubDate": "2026-08-31T22:00:00.000Z"
+    },
+    {
+      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T21:35:00.000Z"
     },
     {
       "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
@@ -48,6 +180,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions",
       "source": "AWS What's New",
       "pubDate": "2026-08-31T19:48:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing",
+      "source": "AWS What's New",
+      "pubDate": "2026-08-31T19:25:00.000Z"
     },
     {
       "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
@@ -222,144 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
       "source": "AWS What's New",
       "pubDate": "2026-08-28T17:34:00.000Z"
-    },
-    {
-      "title": "Amazon EMR on EKS now supports job run concurrency controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-eks",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-28T17:08:00.000Z"
-    },
-    {
-      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-28T16:22:30.000Z"
-    },
-    {
-      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-28T16:20:40.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-28T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-28T16:00:00.000Z"
-    },
-    {
-      "title": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-28T13:17:00.000Z"
-    },
-    {
-      "title": "Build agentic creative workflows with Amazon Quick and fal",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-27T23:04:22.000Z"
-    },
-    {
-      "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T22:41:00.000Z"
-    },
-    {
-      "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T22:39:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T21:41:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T20:07:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T18:40:00.000Z"
-    },
-    {
-      "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-27T18:36:08.000Z"
-    },
-    {
-      "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore expands to two new regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now automatically refreshes scheduling metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T17:59:00.000Z"
-    },
-    {
-      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T17:37:00.000Z"
-    },
-    {
-      "title": "AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-fsx-netapp-cross-account-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T17:25:00.000Z"
-    },
-    {
-      "title": "Amazon EVS now supports i7i.metal-48xl Amazon EC2 instance type",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl",
-      "source": "AWS What's New",
-      "pubDate": "2026-08-27T16:35:00.000Z"
-    },
-    {
-      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
-      "link": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-08-27T16:20:05.000Z"
-    },
-    {
-      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-27T16:11:27.000Z"
-    },
-    {
-      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-08-27T16:05:10.000Z"
     }
   ]
 }
