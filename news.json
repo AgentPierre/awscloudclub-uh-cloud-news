@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-09-07T03:32:44.845Z",
+  "lastUpdated": "2026-09-08T03:37:40.526Z",
   "items": [
+    {
+      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-07T14:24:08.000Z"
+    },
     {
       "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container",
       "source": "AWS What's New",
       "pubDate": "2026-09-02T09:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T08:00:00.000Z"
     }
   ]
 }
