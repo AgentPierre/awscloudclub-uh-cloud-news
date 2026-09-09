@@ -1,11 +1,155 @@
 {
-  "lastUpdated": "2026-09-08T03:37:40.526Z",
+  "lastUpdated": "2026-09-09T03:42:47.285Z",
   "items": [
+    {
+      "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T22:49:00.000Z"
+    },
+    {
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T22:06:58.000Z"
+    },
+    {
+      "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T21:58:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T21:19:00.000Z"
+    },
+    {
+      "title": "AWS Transform is now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon API Gateway now supports mutual TLS for backend integrations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T19:16:00.000Z"
+    },
+    {
+      "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T19:12:51.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T18:29:15.000Z"
+    },
+    {
+      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T17:03:50.000Z"
+    },
+    {
+      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T17:03:20.000Z"
+    },
+    {
+      "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T16:23:21.000Z"
+    },
+    {
+      "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+      "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T16:21:57.000Z"
+    },
+    {
+      "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T16:15:23.000Z"
+    },
+    {
+      "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-08T16:11:11.000Z"
+    },
+    {
+      "title": "Generate standalone types with Smithy",
+      "link": "https://aws.amazon.com/blogs/developer/generate-standalone-types-with-smithy",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-09-08T16:03:12.000Z"
+    },
+    {
+      "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T16:00:00.000Z"
+    },
+    {
+      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T16:00:00.000Z"
+    },
+    {
+      "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T14:32:00.000Z"
+    },
+    {
+      "title": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T08:00:00.000Z"
+    },
+    {
+      "title": "AWS announces Nx Plugin for AWS for scaffolding full-stack applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/nx-plugin-for-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T07:30:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Object Lock now supports variable retention with event holds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-object-lock-variable-retention",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T04:00:00.000Z"
+    },
     {
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-09-07T14:24:08.000Z"
+    },
+    {
+      "title": "Amazon MWAA Serverless is now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-serverless-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-04T22:00:00.000Z"
     },
     {
       "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
@@ -48,6 +192,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-09-04T17:20:04.000Z"
+    },
+    {
+      "title": "Amazon GuardDuty adds optional threat detection rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-04T17:01:00.000Z"
     },
     {
       "title": "Amazon ECS introduces Early Success Criteria for service deployments",
@@ -206,160 +356,10 @@
       "pubDate": "2026-09-03T16:03:00.000Z"
     },
     {
-      "title": "Embed Quick Sight visuals using Cognito user authentication",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:01:56.000Z"
-    },
-    {
       "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available",
       "source": "AWS What's New",
       "pubDate": "2026-09-03T16:01:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Linux 2027 is now available in public preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SES now supports S/MIME email signing",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T04:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T03:00:00.000Z"
-    },
-    {
-      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-02T21:22:05.000Z"
-    },
-    {
-      "title": "Managing identity source transition for AWS IAM Identity Center",
-      "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-02T20:36:31.000Z"
-    },
-    {
-      "title": "Agentic security: Detection and response at machine speed",
-      "link": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-02T18:36:37.000Z"
-    },
-    {
-      "title": "Modernizing and scaling support operations with generative AI on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-02T18:26:35.000Z"
-    },
-    {
-      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-02T18:21:20.000Z"
-    },
-    {
-      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-02T18:18:47.000Z"
-    },
-    {
-      "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
-      "link": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-02T18:14:17.000Z"
-    },
-    {
-      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T17:52:00.000Z"
-    },
-    {
-      "title": "Introducing the S3 PowerShell Drive in AWS Tools for PowerShell",
-      "link": "https://aws.amazon.com/blogs/developer/introducing-the-s3-powershell-drive-in-aws-tools-for-powershell",
-      "source": "AWS Developer Tools Blog",
-      "pubDate": "2026-09-02T17:20:03.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T16:54:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer announces general availability of agentic CX designer",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T16:00:00.000Z"
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Config now supports 60 new resource types",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T14:06:00.000Z"
-    },
-    {
-      "title": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T13:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda now supports SnapStart for container image functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-02T09:00:00.000Z"
     }
   ]
 }
