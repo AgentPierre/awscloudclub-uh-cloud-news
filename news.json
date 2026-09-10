@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-09-09T03:42:47.285Z",
+  "lastUpdated": "2026-09-10T03:40:25.302Z",
   "items": [
+    {
+      "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-09T22:26:29.000Z"
+    },
+    {
+      "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
+      "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-09T21:33:59.000Z"
+    },
+    {
+      "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
+      "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-09T21:05:02.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T21:00:00.000Z"
+    },
+    {
+      "title": "ICYMI: What landed for AI builders in August 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-09T20:01:03.000Z"
+    },
+    {
+      "title": "AWS Transform for .NET modernization is now generally available via CLI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T20:00:00.000Z"
+    },
+    {
+      "title": "The state of AI for security: Measuring what matters most for building trust",
+      "link": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-09T19:09:14.000Z"
+    },
+    {
+      "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-09T18:11:12.000Z"
+    },
+    {
+      "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T18:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T16:03:00.000Z"
+    },
+    {
+      "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-09T15:51:29.000Z"
+    },
+    {
+      "title": "Automate user-level custom permissions for Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-09T15:45:24.000Z"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T14:19:00.000Z"
+    },
+    {
+      "title": "Amazon EBS Volume Clones now supports copying volumes across accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T10:00:00.000Z"
+    },
+    {
+      "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer Profiles now sends events when customers enter or exit segments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-profiles-segment-events",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-09T08:00:00.000Z"
+    },
     {
       "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock",
@@ -111,13 +219,19 @@
     },
     {
       "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transformation-adds-new-features",
       "source": "AWS What's New",
       "pubDate": "2026-09-08T14:32:00.000Z"
     },
     {
       "title": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-08T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR extends support at no additional cost for customers migrating off older releases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-extended-support-migration",
       "source": "AWS What's New",
       "pubDate": "2026-09-08T08:00:00.000Z"
     },
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation",
       "source": "AWS What's New",
       "pubDate": "2026-09-04T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-04T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T23:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T22:01:00.000Z"
-    },
-    {
-      "title": "Incident response guide for AWS CloudTrail investigations – Part 2",
-      "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-03T21:15:53.000Z"
-    },
-    {
-      "title": "Incident response guide for AWS CloudTrail investigations – Part 1",
-      "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-03T21:15:39.000Z"
-    },
-    {
-      "title": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T19:14:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T19:03:00.000Z"
-    },
-    {
-      "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T18:00:00.000Z"
-    },
-    {
-      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T17:17:00.000Z"
-    },
-    {
-      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T17:00:00.000Z"
-    },
-    {
-      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:16:28.000Z"
-    },
-    {
-      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:14:12.000Z"
-    },
-    {
-      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:11:57.000Z"
-    },
-    {
-      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:10:39.000Z"
-    },
-    {
-      "title": "Best practices for building agentic automations with Amazon Quick Automate",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-03T16:08:28.000Z"
-    },
-    {
-      "title": "Amazon Redshift rg.large instances now support single-node clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T16:03:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-03T16:01:00.000Z"
     }
   ]
 }
