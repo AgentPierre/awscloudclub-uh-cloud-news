@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-09-12T03:42:25.183Z",
+  "lastUpdated": "2026-09-13T03:50:18.152Z",
   "items": [
+    {
+      "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-12T08:00:00.000Z"
+    },
     {
       "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong",
@@ -206,14 +212,14 @@
       "pubDate": "2026-09-10T08:00:00.000Z"
     },
     {
-      "title": "AWS Elemental introduces Dynamic Multiview for live video",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video",
+      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3",
       "source": "AWS What's New",
       "pubDate": "2026-09-10T08:00:00.000Z"
     },
     {
-      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3",
+      "title": "AWS Elemental introduces Dynamic Multiview for live video",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video",
       "source": "AWS What's New",
       "pubDate": "2026-09-10T08:00:00.000Z"
     },
@@ -352,12 +358,6 @@
     {
       "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-09T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Entity Resolution adds record-level confidence scores for ML matching",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence",
       "source": "AWS What's New",
       "pubDate": "2026-09-09T08:00:00.000Z"
     }
