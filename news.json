@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-09-15T03:57:07.434Z",
+  "lastUpdated": "2026-09-16T03:54:37.196Z",
   "items": [
+    {
+      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+      "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-15T22:21:59.000Z"
+    },
+    {
+      "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T22:00:00.000Z"
+    },
+    {
+      "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication",
+      "link": "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-15T19:00:52.000Z"
+    },
+    {
+      "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T18:58:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T18:30:00.000Z"
+    },
+    {
+      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T16:54:00.000Z"
+    },
+    {
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-15T16:18:19.000Z"
+    },
+    {
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-15T16:11:36.000Z"
+    },
+    {
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-15T16:01:47.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now enables agents to bid on preferred shifts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T16:00:00.000Z"
+    },
+    {
+      "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
+      "link": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-15T15:53:51.000Z"
+    },
+    {
+      "title": "AWS Glue zero-ETL now captures archived Salesforce records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T08:00:00.000Z"
+    },
     {
       "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
       "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
@@ -12,6 +90,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-09-14T20:35:45.000Z"
+    },
+    {
+      "title": "AWS improves regional resiliency for root user sign-in",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-14T19:30:00.000Z"
     },
     {
       "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
@@ -152,6 +236,12 @@
       "pubDate": "2026-09-11T14:08:01.000Z"
     },
     {
+      "title": "Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-unified-studio-odbc-power-bi",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-11T08:00:00.000Z"
+    },
+    {
       "title": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru",
       "source": "AWS What's New",
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support",
       "source": "AWS What's New",
       "pubDate": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental Inference now generates contextual metadata from live video in real time",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental introduces Dynamic Multiview for live video",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon EVS is now available in more regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-09T22:26:29.000Z"
-    },
-    {
-      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
-      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts",
-      "source": "AWS News Blog",
-      "pubDate": "2026-09-09T22:01:47.000Z"
-    },
-    {
-      "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
-      "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-09T21:33:59.000Z"
-    },
-    {
-      "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
-      "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-09T21:05:02.000Z"
-    },
-    {
-      "title": "AWS Marketplace sellers now receive qualified demo and private offer requests in minutes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-demo-private-offer-requests-qualification",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-09T21:04:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-09T21:00:00.000Z"
-    },
-    {
-      "title": "ICYMI: What landed for AI builders in August 2026",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-09T20:01:03.000Z"
-    },
-    {
-      "title": "AWS Transform for .NET modernization is now generally available via CLI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-09T20:00:00.000Z"
     }
   ]
 }
