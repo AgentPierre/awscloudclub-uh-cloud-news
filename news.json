@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-09-16T03:54:37.196Z",
+  "lastUpdated": "2026-09-17T03:59:42.995Z",
   "items": [
+    {
+      "title": "Amazon Corretto 27 is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-17T00:00:31.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T22:29:00.000Z"
+    },
+    {
+      "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
+      "link": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-16T21:20:48.000Z"
+    },
+    {
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-16T19:00:00.000Z"
+    },
+    {
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-16T18:59:25.000Z"
+    },
+    {
+      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T17:56:00.000Z"
+    },
+    {
+      "title": "AWS reimagines the getting started experience",
+      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-16T17:50:14.000Z"
+    },
+    {
+      "title": "New AWS experience helps builders get started and ship faster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T17:45:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer custom metrics now supports tag-based access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer can now import evaluation form PDFs using AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T16:30:00.000Z"
+    },
+    {
+      "title": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T16:25:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-16T16:00:00.000Z"
+    },
+    {
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-16T15:47:39.000Z"
+    },
+    {
+      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-16T15:17:37.000Z"
+    },
+    {
+      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T22:42:00.000Z"
+    },
     {
       "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
       "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring",
@@ -30,6 +132,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
       "source": "AWS What's New",
       "pubDate": "2026-09-15T18:58:00.000Z"
+    },
+    {
+      "title": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-15T18:54:00.000Z"
     },
     {
       "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
@@ -242,124 +350,16 @@
       "pubDate": "2026-09-11T08:00:00.000Z"
     },
     {
+      "title": "AWS PCS now supports custom GRES, hardware topology, and MIG",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-gres-hardware-topology-mig",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-11T08:00:00.000Z"
+    },
+    {
       "title": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru",
       "source": "AWS What's New",
       "pubDate": "2026-09-11T07:12:00.000Z"
-    },
-    {
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T21:58:09.000Z"
-    },
-    {
-      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T21:37:49.000Z"
-    },
-    {
-      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-      "link": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T21:15:39.000Z"
-    },
-    {
-      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform for .NET now generates unit tests for modernized code",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T20:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable functions integrates with Pydantic AI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T18:45:00.000Z"
-    },
-    {
-      "title": "Amazon Quick is now generally available on desktop",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T18:16:37.000Z"
-    },
-    {
-      "title": "Amazon MQ now supports RabbitMQ 4.3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T18:08:00.000Z"
-    },
-    {
-      "title": "Announcing second-generation single-rack AWS Outposts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T17:58:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T16:52:00.000Z"
-    },
-    {
-      "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
-      "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-10T16:14:22.000Z"
-    },
-    {
-      "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T16:08:57.000Z"
-    },
-    {
-      "title": "Model-agnostic PII detection with LLMs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T16:02:16.000Z"
-    },
-    {
-      "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "title": "Agent Evaluation Metric for multi-turn conversations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T15:55:41.000Z"
-    },
-    {
-      "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-10T15:53:05.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-10T11:00:00.000Z"
     }
   ]
 }
