@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-09-18T03:46:54.923Z",
+  "lastUpdated": "2026-09-19T03:43:37.380Z",
   "items": [
+    {
+      "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-18T21:33:13.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T20:52:14.000Z"
+    },
+    {
+      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T18:34:00.000Z"
+    },
+    {
+      "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T17:27:00.000Z"
+    },
+    {
+      "title": "Introducing Kimi K3 on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T16:52:01.000Z"
+    },
+    {
+      "title": "AWS Resilience Hub adds three new capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T16:49:00.000Z"
+    },
+    {
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T15:38:53.000Z"
+    },
+    {
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T15:31:34.000Z"
+    },
+    {
+      "title": "AWS RTB Fabric now supports configurable Availability Zone affinity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T15:30:00.000Z"
+    },
+    {
+      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T15:25:23.000Z"
+    },
+    {
+      "title": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T15:15:00.000Z"
+    },
+    {
+      "title": "Amazon SNS now supports message payloads up to 1 MiB",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T15:00:00.000Z"
+    },
+    {
+      "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-09-18T14:35:42.000Z"
+    },
+    {
+      "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T13:25:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-18T13:08:34.000Z"
+    },
+    {
+      "title": "AWS PrivateLink announces Tunnel Endpoints to access network segments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T07:00:00.000Z"
+    },
     {
       "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
       "link": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud",
@@ -120,6 +216,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app",
       "source": "AWS What's New",
       "pubDate": "2026-09-17T07:09:00.000Z"
+    },
+    {
+      "title": "Amazon SES now supports tenant-level deliverability insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-17T07:00:00.000Z"
     },
     {
       "title": "Amazon Quick now generates individual sheets and builds analyses from an image",
@@ -258,108 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
       "source": "AWS What's New",
       "pubDate": "2026-09-15T22:00:00.000Z"
-    },
-    {
-      "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication",
-      "link": "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-15T19:00:52.000Z"
-    },
-    {
-      "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T18:58:00.000Z"
-    },
-    {
-      "title": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T18:54:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports instance preference lists for training and processing jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T18:30:00.000Z"
-    },
-    {
-      "title": "Analyze your CloudTrail events using natural language in Amazon Q Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T16:54:00.000Z"
-    },
-    {
-      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-15T16:18:19.000Z"
-    },
-    {
-      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-15T16:11:36.000Z"
-    },
-    {
-      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-15T16:01:47.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now enables agents to bid on preferred shifts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T16:00:00.000Z"
-    },
-    {
-      "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
-      "link": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-15T15:53:51.000Z"
-    },
-    {
-      "title": "AWS Glue zero-ETL now captures archived Salesforce records",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-archived-salesforce",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T08:00:00.000Z"
-    },
-    {
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-14T21:22:45.000Z"
-    },
-    {
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-14T20:35:45.000Z"
-    },
-    {
-      "title": "AWS improves regional resiliency for root user sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/root-user-regional-resiliency",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-14T19:30:00.000Z"
-    },
-    {
-      "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
-      "link": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-14T17:46:56.000Z"
-    },
-    {
-      "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-14T17:39:00.000Z"
     }
   ]
 }
