@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-09-21T03:57:26.795Z",
+  "lastUpdated": "2026-09-22T03:54:22.854Z",
   "items": [
+    {
+      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-21T20:05:00.000Z"
+    },
+    {
+      "title": "Amazon EVS now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-21T19:08:00.000Z"
+    },
+    {
+      "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
+      "link": "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-21T18:41:27.000Z"
+    },
+    {
+      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-21T18:30:34.000Z"
+    },
+    {
+      "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-21T16:36:10.000Z"
+    },
+    {
+      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-21T16:34:21.000Z"
+    },
+    {
+      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-21T16:27:34.000Z"
+    },
+    {
+      "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-21T16:24:40.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-21T16:11:24.000Z"
+    },
+    {
+      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+      "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-21T15:33:25.000Z"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T22:16:00.000Z"
+    },
     {
       "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
       "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks",
@@ -36,6 +102,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy",
       "source": "AWS What's New",
       "pubDate": "2026-09-18T16:49:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 I7ie instances now available in AWS Israel region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-18T16:00:00.000Z"
     },
     {
       "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
@@ -224,7 +296,7 @@
       "pubDate": "2026-09-17T07:00:00.000Z"
     },
     {
-      "title": "Amazon Quick now generates individual sheets and builds analyses from an image",
+      "title": "Amazon Quick adds Generate Sheet and image-based analysis creation",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image",
       "source": "AWS What's New",
       "pubDate": "2026-09-17T02:37:00.000Z"
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances",
       "source": "AWS What's New",
       "pubDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer can now import evaluation form PDFs using AI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer custom metrics now supports tag-based access control",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T16:30:00.000Z"
-    },
-    {
-      "title": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T16:25:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Keyspaces (for Apache Cassandra) is now generally available in 11 additional Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-keyspaces",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T16:00:00.000Z"
-    },
-    {
-      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-16T15:47:39.000Z"
-    },
-    {
-      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-16T15:17:37.000Z"
-    },
-    {
-      "title": "Amazon Connect Talent is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-talent",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T12:22:00.000Z"
-    },
-    {
-      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T22:42:00.000Z"
-    },
-    {
-      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
-      "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-15T22:21:59.000Z"
-    },
-    {
-      "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-15T22:00:00.000Z"
     }
   ]
 }
