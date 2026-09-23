@@ -1,6 +1,144 @@
 {
-  "lastUpdated": "2026-09-22T03:54:22.854Z",
+  "lastUpdated": "2026-09-23T03:52:02.474Z",
   "items": [
+    {
+      "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T00:06:00.000Z"
+    },
+    {
+      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-22T22:23:14.000Z"
+    },
+    {
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-22T22:21:13.000Z"
+    },
+    {
+      "title": "The operations gap between deploying an application and running it forever",
+      "link": "https://aws.amazon.com/blogs/containers/the-operations-gap-between-deploying-an-application-and-running-it-forever",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-22T20:38:09.000Z"
+    },
+    {
+      "title": "Billing Transfer now supports automatic billing group creation for two-level transfers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T20:08:00.000Z"
+    },
+    {
+      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T18:10:22.000Z"
+    },
+    {
+      "title": "OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T18:09:00.000Z"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T17:28:01.000Z"
+    },
+    {
+      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T17:18:13.000Z"
+    },
+    {
+      "title": "Implement per-pod image pull permissions with ECR repository policies on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/implement-per-pod-image-pull-permissions-with-ecr-repository-policies-on-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-22T16:58:07.000Z"
+    },
+    {
+      "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T15:46:07.000Z"
+    },
+    {
+      "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T15:35:53.000Z"
+    },
+    {
+      "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T15:30:34.000Z"
+    },
+    {
+      "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T15:19:54.000Z"
+    },
+    {
+      "title": "Extending public sector intelligence with Agentforce and AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-22T15:17:45.000Z"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Glue Data Quality delivers context-specific rule recommendations in seconds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR 7.14 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS Custom now supports the latest CU for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T07:30:00.000Z"
+    },
     {
       "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability",
@@ -218,148 +356,10 @@
       "pubDate": "2026-09-17T17:23:00.000Z"
     },
     {
-      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:53:13.000Z"
-    },
-    {
-      "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
-      "link": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:42:31.000Z"
-    },
-    {
-      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:41:03.000Z"
-    },
-    {
-      "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:36:42.000Z"
-    },
-    {
-      "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:30:17.000Z"
-    },
-    {
-      "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T15:28:08.000Z"
-    },
-    {
       "title": "Building cloud-native PACS on AWS",
       "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-09-17T15:21:06.000Z"
-    },
-    {
-      "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
-      "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-17T15:13:42.000Z"
-    },
-    {
-      "title": "Introducing Amazon EC2 T8i instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Builder Center now available as mobile app on iOS and Android",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T07:09:00.000Z"
-    },
-    {
-      "title": "Amazon SES now supports tenant-level deliverability insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick adds Generate Sheet and image-based analysis creation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T02:37:00.000Z"
-    },
-    {
-      "title": "Amazon Corretto 27 is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T00:00:31.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T22:29:00.000Z"
-    },
-    {
-      "title": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T22:01:00.000Z"
-    },
-    {
-      "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
-      "link": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-16T21:20:48.000Z"
-    },
-    {
-      "title": "Improving HCLS AI reasoning with open-source agent skills",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-16T19:00:00.000Z"
-    },
-    {
-      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-16T18:59:25.000Z"
-    },
-    {
-      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T17:56:00.000Z"
-    },
-    {
-      "title": "AWS reimagines the getting started experience",
-      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience",
-      "source": "AWS News Blog",
-      "pubDate": "2026-09-16T17:50:14.000Z"
-    },
-    {
-      "title": "New AWS experience helps builders get started and ship faster",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T17:45:00.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-16T17:00:00.000Z"
     }
   ]
 }
