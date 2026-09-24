@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-09-23T03:52:02.474Z",
+  "lastUpdated": "2026-09-24T03:44:44.560Z",
   "items": [
+    {
+      "title": "ICYMI: August 2026 @AWS Security",
+      "link": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-23T23:07:36.000Z"
+    },
+    {
+      "title": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T22:51:00.000Z"
+    },
+    {
+      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-23T18:41:09.000Z"
+    },
+    {
+      "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
+      "link": "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-23T18:30:21.000Z"
+    },
+    {
+      "title": "Agentic conversational video intelligence built on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-23T18:21:54.000Z"
+    },
+    {
+      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-23T18:17:44.000Z"
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T17:41:00.000Z"
+    },
+    {
+      "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
+      "link": "https://aws.amazon.com/blogs/developer/aws-crt-for-javascript-and-aws-iot-device-sdk-for-javascript-v2-align-with-the-node-js-release-schedule",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-09-23T17:13:23.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now provides routing step data in the analytics data lake",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR on EKS now supports IPv6 Amazon EKS clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T15:00:00.000Z"
+    },
+    {
+      "title": "Supporting ASD’s multi-factor authentication campaign: Why MFA matters more than ever",
+      "link": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-09-23T14:45:44.000Z"
+    },
+    {
+      "title": "Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-23T08:00:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai",
@@ -104,8 +176,8 @@
       "pubDate": "2026-09-22T15:00:00.000Z"
     },
     {
-      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support",
+      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1",
       "source": "AWS What's New",
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
@@ -116,8 +188,8 @@
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
     {
-      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1",
+      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support",
       "source": "AWS What's New",
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
@@ -138,6 +210,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server",
       "source": "AWS What's New",
       "pubDate": "2026-09-22T07:30:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer launches agent-to-agent collaboration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/Amazon-Connect-Customer-A2A",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-22T04:00:00.000Z"
     },
     {
       "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
@@ -266,12 +344,6 @@
       "pubDate": "2026-09-18T15:30:00.000Z"
     },
     {
-      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T15:25:23.000Z"
-    },
-    {
       "title": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock",
       "source": "AWS What's New",
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-09-18T14:35:42.000Z"
-    },
-    {
-      "title": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T13:25:00.000Z"
-    },
-    {
-      "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T13:08:34.000Z"
-    },
-    {
-      "title": "AWS PrivateLink announces Tunnel Endpoints to access network segments",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T07:00:00.000Z"
-    },
-    {
-      "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
-      "link": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-17T21:19:20.000Z"
-    },
-    {
-      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
-      "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available",
-      "source": "AWS News Blog",
-      "pubDate": "2026-09-17T21:11:48.000Z"
-    },
-    {
-      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
-      "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode",
-      "source": "AWS News Blog",
-      "pubDate": "2026-09-17T19:20:21.000Z"
-    },
-    {
-      "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T19:00:00.000Z"
-    },
-    {
-      "title": "AWS HealthOmics now supports IAM session policies",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T18:32:00.000Z"
-    },
-    {
-      "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-17T18:00:56.000Z"
-    },
-    {
-      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-17T17:55:20.000Z"
-    },
-    {
-      "title": "AWS Batch now supports bulk job cancellation and termination",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-17T17:23:00.000Z"
-    },
-    {
-      "title": "Building cloud-native PACS on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-17T15:21:06.000Z"
     }
   ]
 }
