@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-09-24T03:44:44.560Z",
+  "lastUpdated": "2026-09-25T04:00:04.846Z",
   "items": [
+    {
+      "title": "Amazon EventBridge relaunches event buses for enterprise scale",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T21:00:00.000Z"
+    },
+    {
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications",
+      "source": "AWS News Blog",
+      "pubDate": "2026-09-24T20:58:46.000Z"
+    },
+    {
+      "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T18:29:00.000Z"
+    },
+    {
+      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-24T16:20:12.000Z"
+    },
+    {
+      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-24T16:12:47.000Z"
+    },
+    {
+      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-24T16:06:46.000Z"
+    },
+    {
+      "title": "Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "title": "AWS Network Security Manager is now generally available in US East (N. Virginia) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T08:00:00.000Z"
+    },
+    {
+      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Servers now available in 5 new regions and 8 Local Zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache Global Datastore now supports tagging and tag-based access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-24T07:00:00.000Z"
+    },
     {
       "title": "ICYMI: August 2026 @AWS Security",
       "link": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security",
@@ -194,14 +284,14 @@
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
     {
-      "title": "AWS Glue Data Quality delivers context-specific rule recommendations in seconds",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations",
+      "title": "Amazon EMR 7.14 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available",
       "source": "AWS What's New",
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
     {
-      "title": "Amazon EMR 7.14 is now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available",
+      "title": "AWS Glue Data Quality delivers context-specific rule recommendations in seconds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations",
       "source": "AWS What's New",
       "pubDate": "2026-09-22T08:00:00.000Z"
     },
@@ -270,96 +360,6 @@
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026",
       "source": "AWS News Blog",
       "pubDate": "2026-09-21T16:11:24.000Z"
-    },
-    {
-      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
-      "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-09-21T15:33:25.000Z"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T22:16:00.000Z"
-    },
-    {
-      "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-18T21:33:13.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T20:52:14.000Z"
-    },
-    {
-      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T18:34:00.000Z"
-    },
-    {
-      "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T17:27:00.000Z"
-    },
-    {
-      "title": "Introducing Kimi K3 on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T16:52:01.000Z"
-    },
-    {
-      "title": "AWS Resilience Hub adds three new capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T16:49:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 I7ie instances now available in AWS Israel region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T16:00:00.000Z"
-    },
-    {
-      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T15:38:53.000Z"
-    },
-    {
-      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-18T15:31:34.000Z"
-    },
-    {
-      "title": "AWS RTB Fabric now supports configurable Availability Zone affinity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T15:30:00.000Z"
-    },
-    {
-      "title": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T15:15:00.000Z"
-    },
-    {
-      "title": "Amazon SNS now supports message payloads up to 1 MiB",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
-      "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-09-18T14:35:42.000Z"
     }
   ]
 }
