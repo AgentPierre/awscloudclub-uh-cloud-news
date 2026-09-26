@@ -1,6 +1,120 @@
 {
-  "lastUpdated": "2026-09-25T04:00:04.846Z",
+  "lastUpdated": "2026-09-26T04:05:33.394Z",
   "items": [
+    {
+      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+      "link": "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-25T21:18:33.000Z"
+    },
+    {
+      "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T19:19:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T18:40:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T18:37:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8i and C8i-flex instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T18:09:00.000Z"
+    },
+    {
+      "title": "AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T17:54:00.000Z"
+    },
+    {
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T16:29:50.000Z"
+    },
+    {
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T16:18:07.000Z"
+    },
+    {
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T16:15:22.000Z"
+    },
+    {
+      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T16:09:46.000Z"
+    },
+    {
+      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T15:54:42.000Z"
+    },
+    {
+      "title": "One Amazon EKS, many edges: How to choose your edge container strategy on AWS",
+      "link": "https://aws.amazon.com/blogs/containers/one-amazon-eks-many-edges-how-to-choose-your-edge-container-strategy-on-aws",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-09-25T15:52:19.000Z"
+    },
+    {
+      "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-09-25T15:49:44.000Z"
+    },
+    {
+      "title": "AWS DataSync launches a monitoring dashboard for tracking task executions across your account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T15:24:00.000Z"
+    },
+    {
+      "title": "Introducing SDK Client Warm-Up feature in the AWS SDK for Java 2.x",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-sdk-client-warm-up-feature-in-the-aws-sdk-for-java-2-x",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-09-25T15:09:20.000Z"
+    },
+    {
+      "title": "AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T08:00:00.000Z"
+    },
+    {
+      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-09-25T00:58:00.000Z"
+    },
     {
       "title": "Amazon EventBridge relaunches event buses for enterprise scale",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses",
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-09-22T15:19:54.000Z"
-    },
-    {
-      "title": "Extending public sector intelligence with Agentforce and AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-22T15:17:45.000Z"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon EMR 7.14 is now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Glue Data Quality delivers context-specific rule recommendations in seconds",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS Custom now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T07:30:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer launches agent-to-agent collaboration",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/Amazon-Connect-Customer-A2A",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-21T20:05:00.000Z"
-    },
-    {
-      "title": "Amazon EVS now in scope for FedRAMP Class C",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-21T19:08:00.000Z"
-    },
-    {
-      "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
-      "link": "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-09-21T18:41:27.000Z"
-    },
-    {
-      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-21T18:30:34.000Z"
-    },
-    {
-      "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-21T16:36:10.000Z"
-    },
-    {
-      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-21T16:34:21.000Z"
-    },
-    {
-      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-21T16:27:34.000Z"
-    },
-    {
-      "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-21T16:24:40.000Z"
-    },
-    {
-      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026",
-      "source": "AWS News Blog",
-      "pubDate": "2026-09-21T16:11:24.000Z"
     }
   ]
 }
