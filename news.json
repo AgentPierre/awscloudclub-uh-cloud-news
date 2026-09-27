@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T04:05:33.394Z",
+  "lastUpdated": "2026-09-27T04:19:24.674Z",
   "items": [
     {
       "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
@@ -98,14 +98,14 @@
       "pubDate": "2026-09-25T08:00:00.000Z"
     },
     {
-      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
+      "title": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server",
       "source": "AWS What's New",
       "pubDate": "2026-09-25T07:00:00.000Z"
     },
     {
-      "title": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server",
+      "title": "AWS End User Messaging now supports voice calling on WhatsApp",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp",
       "source": "AWS What's New",
       "pubDate": "2026-09-25T07:00:00.000Z"
     },
@@ -194,14 +194,14 @@
       "pubDate": "2026-09-24T08:00:00.000Z"
     },
     {
-      "title": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition",
+      "title": "Amazon ElastiCache Global Datastore now supports tagging and tag-based access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging",
       "source": "AWS What's New",
       "pubDate": "2026-09-24T07:00:00.000Z"
     },
     {
-      "title": "Amazon ElastiCache Global Datastore now supports tagging and tag-based access control",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging",
+      "title": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition",
       "source": "AWS What's New",
       "pubDate": "2026-09-24T07:00:00.000Z"
     },
