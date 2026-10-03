@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-10-02T04:39:51.318Z",
+  "lastUpdated": "2026-10-03T04:22:10.833Z",
   "items": [
+    {
+      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T20:18:00.000Z"
+    },
+    {
+      "title": "AWS Health introduces the version catalog for software lifecycle management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T18:09:00.000Z"
+    },
+    {
+      "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
+      "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-02T17:57:15.000Z"
+    },
+    {
+      "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
+      "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-02T17:57:01.000Z"
+    },
+    {
+      "title": "Deploy open source Regional availability tools in your VPC",
+      "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-02T17:50:56.000Z"
+    },
+    {
+      "title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T17:30:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora DSQL now supports partial indexes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T17:30:00.000Z"
+    },
+    {
+      "title": "AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T16:30:00.000Z"
+    },
+    {
+      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-02T15:48:26.000Z"
+    },
+    {
+      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-02T15:46:05.000Z"
+    },
+    {
+      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-02T15:44:20.000Z"
+    },
+    {
+      "title": "The AWS MCP Server is now available in six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T08:00:00.000Z"
+    },
+    {
+      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-02T07:00:00.000Z"
+    },
     {
       "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring",
@@ -276,90 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-continuum-penetration",
       "source": "AWS What's New",
       "pubDate": "2026-09-30T16:13:00.000Z"
-    },
-    {
-      "title": "Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "title": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-30T15:37:15.000Z"
-    },
-    {
-      "title": "AI-powered EKS migration assessment with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/containers/ai-powered-eks-migration-assessment-with-amazon-bedrock-agentcore",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-09-30T15:34:19.000Z"
-    },
-    {
-      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-09-30T15:21:57.000Z"
-    },
-    {
-      "title": "How athenahealth modernized healthcare workloads with Amazon EKS Hybrid Nodes",
-      "link": "https://aws.amazon.com/blogs/containers/how-athenahealth-modernized-healthcare-workloads-with-amazon-eks-hybrid-nodes",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-09-30T15:16:52.000Z"
-    },
-    {
-      "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick now supports live data from your datasets in apps",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T15:00:00.000Z"
-    },
-    {
-      "title": "Partner Revenue Measurement adds Multi-Partner support to Resource Tagging",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T12:00:00.000Z"
-    },
-    {
-      "title": "AWS accounts now support phone number verification",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-accounts-phone-number-verification",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transfer-family-sftp-connector-quota-1000",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T08:00:00.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift simplifies access to secure logging with federated permissions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-secure-logging-permissions",
-      "source": "AWS What's New",
-      "pubDate": "2026-09-30T08:00:00.000Z"
     }
   ]
 }
