@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-10-07T04:56:29.333Z",
+  "lastUpdated": "2026-10-08T05:07:03.288Z",
   "items": [
+    {
+      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+      "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-07T21:49:50.000Z"
+    },
+    {
+      "title": "Building your AI vulnerability harness, Part 1",
+      "link": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-07T21:49:43.000Z"
+    },
+    {
+      "title": "Introducing Claude Haiku 5.5 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T18:52:10.000Z"
+    },
+    {
+      "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T18:34:44.000Z"
+    },
+    {
+      "title": "Part 1 – Cybersecurity journeys: I didn’t plan this",
+      "link": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-07T16:21:19.000Z"
+    },
+    {
+      "title": "Beyond hours saved: Building the business case for agentic automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T15:50:00.000Z"
+    },
+    {
+      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T15:48:46.000Z"
+    },
+    {
+      "title": "Automate remediation post AWS DevOps Agent investigation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T15:46:49.000Z"
+    },
+    {
+      "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T15:44:27.000Z"
+    },
+    {
+      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-07T15:38:28.000Z"
+    },
+    {
+      "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-07T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Config now supports 77 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-07T15:00:00.000Z"
+    },
+    {
+      "title": "Claude Haiku 5.5 is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-07T14:00:00.000Z"
+    },
+    {
+      "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-07T14:00:00.000Z"
+    },
     {
       "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
@@ -140,14 +224,14 @@
       "pubDate": "2026-10-05T17:23:19.000Z"
     },
     {
-      "title": "AWS Client VPN now supports device posture assessment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture",
+      "title": "AWS Advanced Ruby Driver Wrapper is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available",
       "source": "AWS What's New",
       "pubDate": "2026-10-05T17:00:00.000Z"
     },
     {
-      "title": "AWS Advanced Ruby Driver Wrapper is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available",
+      "title": "AWS Client VPN now supports device posture assessment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture",
       "source": "AWS What's New",
       "pubDate": "2026-10-05T17:00:00.000Z"
     },
@@ -230,14 +314,14 @@
       "pubDate": "2026-10-02T17:50:56.000Z"
     },
     {
-      "title": "Amazon Aurora DSQL now supports partial indexes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes",
+      "title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
       "source": "AWS What's New",
       "pubDate": "2026-10-02T17:30:00.000Z"
     },
     {
-      "title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
+      "title": "Amazon Aurora DSQL now supports partial indexes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes",
       "source": "AWS What's New",
       "pubDate": "2026-10-02T17:30:00.000Z"
     },
@@ -252,18 +336,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-10-02T15:48:26.000Z"
-    },
-    {
-      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-02T15:46:05.000Z"
-    },
-    {
-      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-02T15:44:20.000Z"
     },
     {
       "title": "The AWS MCP Server is now available in six additional AWS Regions",
@@ -288,78 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring",
       "source": "AWS What's New",
       "pubDate": "2026-10-02T03:35:00.000Z"
-    },
-    {
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-01T22:06:14.000Z"
-    },
-    {
-      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview",
-      "source": "AWS News Blog",
-      "pubDate": "2026-10-01T20:04:04.000Z"
-    },
-    {
-      "title": "AWS Well-Architected Agent is now available in preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-01T20:00:00.000Z"
-    },
-    {
-      "title": "Serve live, governed data in AI-built apps with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-01T19:49:06.000Z"
-    },
-    {
-      "title": "Amazon Redshift now supports cross-Region queries for your data lake",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-01T18:41:00.000Z"
-    },
-    {
-      "title": "Amazon Q Developer now delivers enhanced visualizations in the AWS Management Console",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-q-developer-enhanced-visualizations-aws-management-console",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-01T17:43:00.000Z"
-    },
-    {
-      "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-01T17:34:56.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB introduces filtered export to Amazon S3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-01T17:00:00.000Z"
-    },
-    {
-      "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-01T16:51:04.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-01T16:44:00.000Z"
-    },
-    {
-      "title": "Implementing feature flags in container environments with AWS AppConfig",
-      "link": "https://aws.amazon.com/blogs/containers/implementing-feature-flags-in-container-environments-with-aws-appconfig",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-10-01T16:42:33.000Z"
-    },
-    {
-      "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-01T16:40:24.000Z"
     }
   ]
 }
