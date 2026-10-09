@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-10-08T05:07:03.288Z",
+  "lastUpdated": "2026-10-09T05:09:59.287Z",
   "items": [
+    {
+      "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-08T19:41:00.000Z"
+    },
+    {
+      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-08T18:51:00.000Z"
+    },
+    {
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-08T18:33:29.000Z"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-08T18:00:00.000Z"
+    },
+    {
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-08T16:20:04.000Z"
+    },
+    {
+      "title": "AWS Network Firewall adds wildcard support for container attribute filters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon GameLift Servers adds CPU burstability for container fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-08T08:00:00.000Z"
+    },
     {
       "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
       "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file",
@@ -24,6 +66,12 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-10-07T18:34:44.000Z"
+    },
+    {
+      "title": "Amazon EC2 C8gb instances now generally available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-07T18:26:00.000Z"
     },
     {
       "title": "Part 1 – Cybersecurity journeys: I didn’t plan this",
@@ -254,12 +302,6 @@
       "pubDate": "2026-10-05T15:51:38.000Z"
     },
     {
-      "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-05T15:50:01.000Z"
-    },
-    {
       "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026",
       "source": "AWS News Blog",
@@ -318,48 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
       "source": "AWS What's New",
       "pubDate": "2026-10-02T17:30:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora DSQL now supports partial indexes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T17:30:00.000Z"
-    },
-    {
-      "title": "AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T16:30:00.000Z"
-    },
-    {
-      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-02T15:48:26.000Z"
-    },
-    {
-      "title": "The AWS MCP Server is now available in six additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T08:00:00.000Z"
-    },
-    {
-      "title": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T07:00:00.000Z"
-    },
-    {
-      "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-02T03:35:00.000Z"
     }
   ]
 }
