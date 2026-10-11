@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T04:55:20.239Z",
+  "lastUpdated": "2026-10-11T04:42:40.976Z",
   "items": [
     {
       "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
@@ -356,8 +356,8 @@
       "pubDate": "2026-10-05T17:23:19.000Z"
     },
     {
-      "title": "AWS Advanced Ruby Driver Wrapper is generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available",
+      "title": "AWS Client VPN now supports device posture assessment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture",
       "source": "AWS What's New",
       "pubDate": "2026-10-05T17:00:00.000Z"
     }
