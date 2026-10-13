@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-10-12T04:58:11.321Z",
+  "lastUpdated": "2026-10-13T05:58:57.026Z",
   "items": [
+    {
+      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T23:10:00.000Z"
+    },
+    {
+      "title": "Announcing AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere",
+      "source": "AWS News Blog",
+      "pubDate": "2026-10-12T22:34:47.000Z"
+    },
+    {
+      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T22:28:00.000Z"
+    },
+    {
+      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+      "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-12T21:58:44.000Z"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-12T20:13:06.000Z"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-12T20:12:53.000Z"
+    },
+    {
+      "title": "AWS Lambda announces Lambda Web Functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T19:30:00.000Z"
+    },
+    {
+      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-12T17:52:22.000Z"
+    },
+    {
+      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T16:00:00.000Z"
+    },
+    {
+      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-12T15:51:46.000Z"
+    },
+    {
+      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-12T15:50:14.000Z"
+    },
+    {
+      "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-12T14:34:57.000Z"
+    },
+    {
+      "title": "AWS Transfer Family supports custom ports for public SFTP servers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR now supports native data quality checks in Apache Spark jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T07:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service now supports index-level encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-12T02:30:00.000Z"
+    },
+    {
+      "title": "AWS now lets customers sign up for AWS and pay invoices using ACH direct debit",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-sign-up-invoices-ach-direct-debit",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-11T08:00:00.000Z"
+    },
     {
       "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json",
@@ -240,126 +360,6 @@
       "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws",
       "source": "AWS News Blog",
       "pubDate": "2026-10-06T16:09:36.000Z"
-    },
-    {
-      "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
-      "link": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-06T16:07:06.000Z"
-    },
-    {
-      "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
-      "link": "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-10-06T15:54:29.000Z"
-    },
-    {
-      "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-06T15:53:28.000Z"
-    },
-    {
-      "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-06T15:50:23.000Z"
-    },
-    {
-      "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-06T15:47:02.000Z"
-    },
-    {
-      "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-06T15:45:42.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-06T14:01:00.000Z"
-    },
-    {
-      "title": "Introducing GLM 5.3 on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-05T23:25:17.000Z"
-    },
-    {
-      "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T21:57:18.000Z"
-    },
-    {
-      "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T21:42:00.000Z"
-    },
-    {
-      "title": "AWS Continuum sets a new standard in autonomous code security",
-      "link": "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-05T21:41:01.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center now supports network access controls for Identity Store",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Singapore)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-hpc8a-asia-pacific",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T20:33:00.000Z"
-    },
-    {
-      "title": "AWS Control Tower AFT now supports plan-only customization runs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T19:31:00.000Z"
-    },
-    {
-      "title": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T18:32:00.000Z"
-    },
-    {
-      "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
-      "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-05T17:54:56.000Z"
-    },
-    {
-      "title": "Amazon EC2 introduces shared tags for Amazon Machine Images",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T17:28:00.000Z"
-    },
-    {
-      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-05T17:25:20.000Z"
-    },
-    {
-      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-05T17:23:19.000Z"
-    },
-    {
-      "title": "AWS Client VPN now supports device posture assessment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-05T17:00:00.000Z"
     }
   ]
 }
