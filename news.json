@@ -1,6 +1,144 @@
 {
-  "lastUpdated": "2026-10-15T03:43:55.902Z",
+  "lastUpdated": "2026-10-16T03:40:01.119Z",
   "items": [
+    {
+      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T20:40:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T20:10:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon DynamoDB Streams now supports timestamp-based stream processing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T18:30:00.000Z"
+    },
+    {
+      "title": "AWS Lambda Durable Execution SDK for Go is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T18:23:00.000Z"
+    },
+    {
+      "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T18:00:00.000Z"
+    },
+    {
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-15T17:43:35.000Z"
+    },
+    {
+      "title": "AWS HealthOmics now supports shared VPCs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T17:42:00.000Z"
+    },
+    {
+      "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T17:34:00.000Z"
+    },
+    {
+      "title": "AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T16:40:00.000Z"
+    },
+    {
+      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+      "link": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-15T16:10:14.000Z"
+    },
+    {
+      "title": "Amazon CloudFront announces dual-stack support for VPC origins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T16:00:00.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T16:00:00.000Z"
+    },
+    {
+      "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
+      "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-15T15:50:31.000Z"
+    },
+    {
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-15T15:05:35.000Z"
+    },
+    {
+      "title": "Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T15:00:00.000Z"
+    },
+    {
+      "title": "AWS IoT Device SDK MQTT 3.1.1 and V1 Service Clients Entering Maintenance Mode",
+      "link": "https://aws.amazon.com/blogs/developer/aws-iot-device-sdk-mqtt-3-1-1-and-v1-service-clients-entering-maintenance-mode",
+      "source": "AWS Developer Tools Blog",
+      "pubDate": "2026-10-15T14:41:42.000Z"
+    },
+    {
+      "title": "Amazon S3 Metadata now available in six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T13:00:00.000Z"
+    },
+    {
+      "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus Collector now available in Asia Pacific (New Zealand) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon Managed Workflows for Apache Airflow now offers AI agent skills",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-ai-agent-skills",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T08:00:00.000Z"
+    },
+    {
+      "title": "Launch AWS DevOps Agent to review findings and test results from AWS Resilience Hub",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-devops-agent-test-results-aws-resilience-hub",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-15T07:00:00.000Z"
+    },
     {
       "title": "Amazon CloudWatch announces log routing and chained log parsers",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing",
@@ -8,10 +146,10 @@
       "pubDate": "2026-10-14T22:14:00.000Z"
     },
     {
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in",
+      "title": "AWS HealthOmics expands container registry support for private workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support",
       "source": "AWS What's New",
-      "pubDate": "2026-10-14T22:00:00.000Z"
+      "pubDate": "2026-10-14T21:55:00.000Z"
     },
     {
       "title": "Penetration testing every deployment with AWS Continuum",
@@ -24,6 +162,12 @@
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0",
       "source": "AWS News Blog",
       "pubDate": "2026-10-14T19:30:48.000Z"
+    },
+    {
+      "title": "AWS Lambda recursive loop detection now supports Amazon EventBridge Custom event buses",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-recursive-loops-eventbridge-custom",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-14T18:00:00.000Z"
     },
     {
       "title": "ARC Region switch adds four new capabilities",
@@ -216,150 +360,6 @@
       "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-10-13T14:32:42.000Z"
-    },
-    {
-      "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
-      "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-13T14:23:33.000Z"
-    },
-    {
-      "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-13T14:00:00.000Z"
-    },
-    {
-      "title": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-13T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-13T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS now supports the latest CU for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cu-microsoft-sql-server",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-13T07:30:00.000Z"
-    },
-    {
-      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T23:10:00.000Z"
-    },
-    {
-      "title": "Announcing AWS Lambda Web Functions",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere",
-      "source": "AWS News Blog",
-      "pubDate": "2026-10-12T22:34:47.000Z"
-    },
-    {
-      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T22:30:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T22:28:00.000Z"
-    },
-    {
-      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
-      "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-12T21:58:44.000Z"
-    },
-    {
-      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
-      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-12T20:13:06.000Z"
-    },
-    {
-      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
-      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-12T20:12:53.000Z"
-    },
-    {
-      "title": "AWS Lambda announces Lambda Web Functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T19:30:00.000Z"
-    },
-    {
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-12T17:52:22.000Z"
-    },
-    {
-      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T16:00:00.000Z"
-    },
-    {
-      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-12T15:51:46.000Z"
-    },
-    {
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-12T15:50:14.000Z"
-    },
-    {
-      "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-12T14:34:57.000Z"
-    },
-    {
-      "title": "AWS Transfer Family supports custom ports for public SFTP servers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon EMR now supports native data quality checks in Apache Spark jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T07:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service now supports index-level encryption",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-12T02:30:00.000Z"
     }
   ]
 }
