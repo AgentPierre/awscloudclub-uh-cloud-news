@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:29:58.761Z",
+  "lastUpdated": "2026-10-18T03:37:16.864Z",
   "items": [
     {
       "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
@@ -50,6 +50,12 @@
       "pubDate": "2026-10-16T13:50:00.000Z"
     },
     {
+      "title": "Amazon Braket now in scope for FedRAMP Class C",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-16T08:00:00.000Z"
+    },
+    {
       "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central",
       "source": "AWS What's New",
@@ -68,14 +74,14 @@
       "pubDate": "2026-10-16T07:00:00.000Z"
     },
     {
-      "title": "AWS End User Messaging now offers managed OTP verification end-to-end",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP",
+      "title": "AWS End User Messaging adds a guided wizard for RCS registration videos",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos",
       "source": "AWS What's New",
       "pubDate": "2026-10-16T07:00:00.000Z"
     },
     {
-      "title": "AWS End User Messaging adds a guided wizard for RCS registration videos",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos",
+      "title": "AWS End User Messaging now offers managed OTP verification end-to-end",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP",
       "source": "AWS What's New",
       "pubDate": "2026-10-16T07:00:00.000Z"
     },
@@ -158,14 +164,14 @@
       "pubDate": "2026-10-15T16:10:14.000Z"
     },
     {
-      "title": "Amazon CloudFront announces dual-stack support for VPC origins",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack",
+      "title": "PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment",
       "source": "AWS What's New",
       "pubDate": "2026-10-15T16:00:00.000Z"
     },
     {
-      "title": "PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment",
+      "title": "Amazon CloudFront announces dual-stack support for VPC origins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack",
       "source": "AWS What's New",
       "pubDate": "2026-10-15T16:00:00.000Z"
     },
@@ -212,14 +218,14 @@
       "pubDate": "2026-10-15T08:00:00.000Z"
     },
     {
-      "title": "Oracle Database@AWS supports aggregate and default routes for ODB peering",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-database-aws-aggregate-routes-odb",
+      "title": "Amazon Managed Workflows for Apache Airflow now offers AI agent skills",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-ai-agent-skills",
       "source": "AWS What's New",
       "pubDate": "2026-10-15T08:00:00.000Z"
     },
     {
-      "title": "Amazon Managed Workflows for Apache Airflow now offers AI agent skills",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-ai-agent-skills",
+      "title": "Oracle Database@AWS supports aggregate and default routes for ODB peering",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-database-aws-aggregate-routes-odb",
       "source": "AWS What's New",
       "pubDate": "2026-10-15T08:00:00.000Z"
     },
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality",
       "source": "AWS What's New",
       "pubDate": "2026-10-14T01:00:00.000Z"
-    },
-    {
-      "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-13T22:00:00.000Z"
     }
   ]
 }
