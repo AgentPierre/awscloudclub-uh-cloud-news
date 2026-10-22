@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-10-21T03:47:46.366Z",
+  "lastUpdated": "2026-10-22T03:47:35.299Z",
   "items": [
+    {
+      "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+      "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-22T00:50:04.000Z"
+    },
+    {
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-21T23:38:38.000Z"
+    },
+    {
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-21T23:36:47.000Z"
+    },
+    {
+      "title": "Observability patterns for AI agents on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-10-21T23:34:27.000Z"
+    },
+    {
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-21T22:36:26.000Z"
+    },
+    {
+      "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-21T21:26:23.000Z"
+    },
+    {
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-21T21:23:26.000Z"
+    },
+    {
+      "title": "Train Qwen3 on AWS Trainium with torchtitan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-21T20:00:22.000Z"
+    },
+    {
+      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-21T19:19:50.000Z"
+    },
+    {
+      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T19:10:00.000Z"
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T17:21:00.000Z"
+    },
+    {
+      "title": "Best practices for integrating IAM Roles Anywhere with your PKI",
+      "link": "https://aws.amazon.com/blogs/security/best-practices-for-integrating-iam-roles-anywhere-with-your-pki",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-21T17:03:50.000Z"
+    },
+    {
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T17:00:00.000Z"
+    },
+    {
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T15:00:00.000Z"
+    },
+    {
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T15:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer launches two new layouts for agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T13:48:00.000Z"
+    },
+    {
+      "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T08:00:00.000Z"
+    },
     {
       "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway",
@@ -48,6 +168,12 @@
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services",
       "source": "AWS News Blog",
       "pubDate": "2026-10-20T17:03:38.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-20T17:00:00.000Z"
     },
     {
       "title": "Managing identity source transition for AWS IAM Identity Center",
@@ -152,6 +278,12 @@
       "pubDate": "2026-10-20T08:00:00.000Z"
     },
     {
+      "title": "Amazon CloudWatch Alarms now supports tags in alarm actions payload",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-tags-on-alarm-actions-payload",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-20T08:00:00.000Z"
+    },
+    {
       "title": "Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration",
       "source": "AWS What's New",
@@ -194,30 +326,6 @@
       "pubDate": "2026-10-19T17:30:00.000Z"
     },
     {
-      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-19T16:49:19.000Z"
-    },
-    {
-      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-19T16:23:22.000Z"
-    },
-    {
-      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
-      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-19T16:05:17.000Z"
-    },
-    {
-      "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-19T16:03:23.000Z"
-    },
-    {
       "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules",
       "source": "AWS What's New",
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server",
       "source": "AWS What's New",
       "pubDate": "2026-10-19T07:30:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for SQL Server now supports snapshots on read replicas",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-19T07:01:00.000Z"
-    },
-    {
-      "title": "AWS Partner Central adds Solution Matching Engine performance insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-17T03:00:00.000Z"
-    },
-    {
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-16T20:48:16.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T20:04:00.000Z"
-    },
-    {
-      "title": "Amazon EMR Serverless now supports IPv6 and dual-stack connectivity",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-serverless",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T19:20:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T18:26:00.000Z"
-    },
-    {
-      "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T17:59:00.000Z"
-    },
-    {
-      "title": "Automating secure container registry management for air-gapped AWS workloads",
-      "link": "https://aws.amazon.com/blogs/containers/automating-secure-container-registry-management-for-air-gapped-aws-workloads",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-10-16T17:48:23.000Z"
-    },
-    {
-      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T16:00:00.000Z"
-    },
-    {
-      "title": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T13:50:00.000Z"
-    },
-    {
-      "title": "Amazon Braket now in scope for FedRAMP Class C",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T08:00:00.000Z"
-    },
-    {
-      "title": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T08:00:00.000Z"
-    },
-    {
-      "title": "AWS End User Messaging adds registration improvements for faster, higher-quality submissions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "AWS End User Messaging now supports Brand Profiles",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "AWS End User Messaging adds a guided wizard for RCS registration videos",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "AWS End User Messaging now offers managed OTP verification end-to-end",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-16T07:00:00.000Z"
-    },
-    {
-      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-15T20:40:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-15T20:10:00.000Z"
     }
   ]
 }
