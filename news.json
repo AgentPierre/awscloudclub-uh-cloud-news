@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-10-23T03:51:52.461Z",
+  "lastUpdated": "2026-10-24T03:46:15.991Z",
   "items": [
+    {
+      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T21:04:00.000Z"
+    },
+    {
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-23T17:48:54.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-23T16:30:10.000Z"
+    },
+    {
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-23T16:24:55.000Z"
+    },
+    {
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-23T16:21:36.000Z"
+    },
+    {
+      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T15:43:00.000Z"
+    },
+    {
+      "title": "Amazon Corretto October 2026 Quarterly Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon MWAA now available in Mexico (Central) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-23T08:00:00.000Z"
+    },
     {
       "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
@@ -12,6 +72,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
       "source": "AWS What's New",
       "pubDate": "2026-10-22T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-22T20:54:00.000Z"
     },
     {
       "title": "AWS Continuum for code vulnerabilities is now generally available",
@@ -90,6 +156,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore",
       "source": "AWS What's New",
       "pubDate": "2026-10-22T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon MSK Connect now supports pausing and resuming connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-22T15:00:00.000Z"
     },
     {
       "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
@@ -236,6 +308,12 @@
       "pubDate": "2026-10-21T13:00:00.000Z"
     },
     {
+      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T08:00:00.000Z"
+    },
+    {
       "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths",
       "source": "AWS What's New",
@@ -244,12 +322,6 @@
     {
       "title": "AWS Transform now builds new networks and modernizes security groups",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-21T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation",
       "source": "AWS What's New",
       "pubDate": "2026-10-21T08:00:00.000Z"
     },
@@ -284,82 +356,10 @@
       "pubDate": "2026-10-20T17:52:50.000Z"
     },
     {
-      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-20T17:48:27.000Z"
-    },
-    {
-      "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-20T17:34:04.000Z"
-    },
-    {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
       "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services",
       "source": "AWS News Blog",
       "pubDate": "2026-10-20T17:03:38.000Z"
-    },
-    {
-      "title": "Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T17:00:00.000Z"
-    },
-    {
-      "title": "Managing identity source transition for AWS IAM Identity Center",
-      "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-20T16:47:02.000Z"
-    },
-    {
-      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-20T16:42:53.000Z"
-    },
-    {
-      "title": "Discover tools at runtime with AWS Agent Registry",
-      "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-20T16:22:24.000Z"
-    },
-    {
-      "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T15:32:00.000Z"
-    },
-    {
-      "title": "AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T15:00:00.000Z"
-    },
-    {
-      "title": "Structured outputs for Claude models available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T14:00:00.000Z"
-    },
-    {
-      "title": "AWS Clean Rooms now supports Databricks as a data source",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T12:23:00.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-20T08:00:00.000Z"
     }
   ]
 }
