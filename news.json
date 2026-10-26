@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T03:44:45.122Z",
+  "lastUpdated": "2026-10-26T03:48:32.815Z",
   "items": [
     {
       "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
@@ -50,14 +50,14 @@
       "pubDate": "2026-10-23T14:00:00.000Z"
     },
     {
-      "title": "Amazon MWAA now available in Mexico (Central) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central",
+      "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent",
       "source": "AWS What's New",
       "pubDate": "2026-10-23T08:00:00.000Z"
     },
     {
-      "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent",
+      "title": "Amazon MWAA now available in Mexico (Central) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central",
       "source": "AWS What's New",
       "pubDate": "2026-10-23T08:00:00.000Z"
     },
@@ -308,12 +308,6 @@
       "pubDate": "2026-10-21T13:00:00.000Z"
     },
     {
-      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-21T08:00:00.000Z"
-    },
-    {
       "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths",
       "source": "AWS What's New",
@@ -322,6 +316,12 @@
     {
       "title": "AWS Transform now builds new networks and modernizes security groups",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-21T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation",
       "source": "AWS What's New",
       "pubDate": "2026-10-21T08:00:00.000Z"
     },
