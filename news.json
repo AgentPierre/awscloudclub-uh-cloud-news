@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-10-27T04:11:14.375Z",
+  "lastUpdated": "2026-10-28T04:39:55.046Z",
   "items": [
+    {
+      "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
+      "link": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-27T23:46:13.000Z"
+    },
+    {
+      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T23:31:00.000Z"
+    },
+    {
+      "title": "SageMaker MLflow Apps now support MLflow 3.16",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T20:40:00.000Z"
+    },
+    {
+      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-27T18:03:12.000Z"
+    },
+    {
+      "title": "AWS becomes first CSP to complete the Cloud High profile assessment with 172 services and features in scope",
+      "link": "https://aws.amazon.com/blogs/security/aws-becomes-first-csp-to-complete-the-cloud-high-profile-assessment-with-172-services-and-features-in-scope",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-27T17:50:05.000Z"
+    },
+    {
+      "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+      "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-27T17:23:23.000Z"
+    },
+    {
+      "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-27T17:14:32.000Z"
+    },
+    {
+      "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
+      "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-27T17:10:35.000Z"
+    },
+    {
+      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-27T17:00:39.000Z"
+    },
+    {
+      "title": "Part 3 – Cybersecurity journeys: The work behind the work",
+      "link": "https://aws.amazon.com/blogs/security/part-3-cybersecurity-journeys-the-work-behind-the-work",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-10-27T17:00:07.000Z"
+    },
+    {
+      "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-27T16:53:02.000Z"
+    },
+    {
+      "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-27T16:50:55.000Z"
+    },
+    {
+      "title": "Amazon Aurora serverless now supports up to 384 ACUs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T15:21:00.000Z"
+    },
+    {
+      "title": "Amazon Corretto October 2026 Patch Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T14:00:00.000Z"
+    },
+    {
+      "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon ECR now supports replication backfill for existing container images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-26T20:24:00.000Z"
+    },
     {
       "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock",
@@ -50,6 +152,12 @@
       "pubDate": "2026-10-26T17:15:14.000Z"
     },
     {
+      "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-26T15:40:00.000Z"
+    },
+    {
       "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
       "source": "AWS What's New",
@@ -94,6 +202,12 @@
     {
       "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-26T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Elemental MediaConnect Router now supports endpoint connection management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints",
       "source": "AWS What's New",
       "pubDate": "2026-10-26T08:00:00.000Z"
     },
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-10-22T16:30:06.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T16:30:00.000Z"
-    },
-    {
-      "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T16:25:57.000Z"
-    },
-    {
-      "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Connect now supports pausing and resuming connectors",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T15:00:00.000Z"
-    },
-    {
-      "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T12:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T08:00:00.000Z"
-    },
-    {
-      "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T07:06:00.000Z"
-    },
-    {
-      "title": "Amazon Quick Now Available in the AWS Singapore Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T07:00:00.000Z"
-    },
-    {
-      "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-22T00:50:04.000Z"
-    },
-    {
-      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-21T23:38:38.000Z"
-    },
-    {
-      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-21T23:36:47.000Z"
-    },
-    {
-      "title": "Observability patterns for AI agents on Amazon EKS",
-      "link": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks",
-      "source": "AWS Containers Blog",
-      "pubDate": "2026-10-21T23:34:27.000Z"
-    },
-    {
-      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
-      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-21T22:36:26.000Z"
-    },
-    {
-      "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-21T21:26:23.000Z"
-    },
-    {
-      "title": "Adaptive agentic intelligence framework using Strands Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-21T21:23:26.000Z"
-    },
-    {
-      "title": "Train Qwen3 on AWS Trainium with torchtitan",
-      "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-21T20:00:22.000Z"
-    },
-    {
-      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-21T19:19:50.000Z"
-    },
-    {
-      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-21T19:10:00.000Z"
     }
   ]
 }
