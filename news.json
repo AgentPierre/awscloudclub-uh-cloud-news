@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-10-28T04:39:55.046Z",
+  "lastUpdated": "2026-10-29T04:52:52.118Z",
   "items": [
+    {
+      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T21:00:00.000Z"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T20:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:44:00.000Z"
+    },
+    {
+      "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:35:00.000Z"
+    },
+    {
+      "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+      "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-28T18:32:34.000Z"
+    },
+    {
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-28T18:28:26.000Z"
+    },
+    {
+      "title": "Quick now supports smart approvals for agentic actions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:28:00.000Z"
+    },
+    {
+      "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+      "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-10-28T18:25:50.000Z"
+    },
+    {
+      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-28T18:19:54.000Z"
+    },
+    {
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-10-28T18:12:13.000Z"
+    },
+    {
+      "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:07:00.000Z"
+    },
+    {
+      "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T18:00:00.000Z"
+    },
+    {
+      "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T17:33:00.000Z"
+    },
+    {
+      "title": "AWS Backup adds restore testing support for Amazon Redshift",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T08:00:00.000Z"
+    },
+    {
+      "title": "Announcing the AWS Marketplace and Amazon Business unified storefront",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T08:00:00.000Z"
+    },
+    {
+      "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-28T08:00:00.000Z"
+    },
     {
       "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
       "link": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall",
@@ -18,6 +120,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16",
       "source": "AWS What's New",
       "pubDate": "2026-10-27T20:40:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer supports inline attachment previews",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T19:15:00.000Z"
     },
     {
       "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
@@ -78,6 +186,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu",
       "source": "AWS What's New",
       "pubDate": "2026-10-27T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-27T15:25:00.000Z"
     },
     {
       "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
@@ -200,14 +314,14 @@
       "pubDate": "2026-10-26T08:00:00.000Z"
     },
     {
-      "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate",
+      "title": "AWS Elemental MediaConnect Router now supports endpoint connection management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints",
       "source": "AWS What's New",
       "pubDate": "2026-10-26T08:00:00.000Z"
     },
     {
-      "title": "AWS Elemental MediaConnect Router now supports endpoint connection management",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints",
+      "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate",
       "source": "AWS What's New",
       "pubDate": "2026-10-26T08:00:00.000Z"
     },
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
       "source": "AWS Machine Learning Blog",
       "pubDate": "2026-10-23T16:30:10.000Z"
-    },
-    {
-      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-23T16:24:55.000Z"
-    },
-    {
-      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-23T16:21:36.000Z"
-    },
-    {
-      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-23T15:43:00.000Z"
-    },
-    {
-      "title": "Amazon Corretto October 2026 Quarterly Updates",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-23T14:00:00.000Z"
-    },
-    {
-      "title": "Amazon MWAA now available in Mexico (Central) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T21:10:00.000Z"
-    },
-    {
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T20:54:00.000Z"
-    },
-    {
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
-      "source": "AWS News Blog",
-      "pubDate": "2026-10-22T20:33:10.000Z"
-    },
-    {
-      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T18:34:00.000Z"
-    },
-    {
-      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T18:06:35.000Z"
-    },
-    {
-      "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T18:01:53.000Z"
-    },
-    {
-      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T18:00:04.000Z"
-    },
-    {
-      "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T18:00:01.000Z"
-    },
-    {
-      "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T17:48:22.000Z"
-    },
-    {
-      "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T17:45:58.000Z"
-    },
-    {
-      "title": "AWS CloudFormation now simplifies stack update rollback operations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-22T17:30:00.000Z"
-    },
-    {
-      "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-22T16:30:06.000Z"
     }
   ]
 }
