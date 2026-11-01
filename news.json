@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:38:35.748Z",
+  "lastUpdated": "2026-11-01T04:58:13.136Z",
   "items": [
     {
       "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
@@ -182,8 +182,8 @@
       "pubDate": "2026-10-29T08:00:00.000Z"
     },
     {
-      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2",
+      "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us",
       "source": "AWS What's New",
       "pubDate": "2026-10-29T08:00:00.000Z"
     },
@@ -194,14 +194,14 @@
       "pubDate": "2026-10-29T08:00:00.000Z"
     },
     {
-      "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us",
+      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training",
       "source": "AWS What's New",
       "pubDate": "2026-10-29T08:00:00.000Z"
     },
     {
-      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training",
+      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2",
       "source": "AWS What's New",
       "pubDate": "2026-10-29T08:00:00.000Z"
     },
