@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-11-01T04:58:13.136Z",
+  "lastUpdated": "2026-11-02T04:59:02.646Z",
   "items": [
+    {
+      "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
+      "link": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-02T03:37:30.000Z"
+    },
     {
       "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
       "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
@@ -354,12 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16",
       "source": "AWS What's New",
       "pubDate": "2026-10-27T20:40:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer supports inline attachment previews",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-27T19:15:00.000Z"
     }
   ]
 }
