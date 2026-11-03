@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-11-02T04:59:02.646Z",
+  "lastUpdated": "2026-11-03T05:47:50.779Z",
   "items": [
+    {
+      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T20:45:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports per snapshot billing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T18:43:00.000Z"
+    },
+    {
+      "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T18:36:00.000Z"
+    },
+    {
+      "title": "Beyond DKIM key rotation: understanding email replay attacks",
+      "link": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-02T18:06:28.000Z"
+    },
+    {
+      "title": "How to run a DR readiness engagement",
+      "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-11-02T17:26:49.000Z"
+    },
+    {
+      "title": "Validating your DR commitment: From controlled test to real-world readiness",
+      "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-11-02T17:26:33.000Z"
+    },
+    {
+      "title": "Three business decisions that define your DR success",
+      "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-11-02T17:26:26.000Z"
+    },
+    {
+      "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+      "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard",
+      "source": "AWS Architecture Blog",
+      "pubDate": "2026-11-02T17:21:29.000Z"
+    },
+    {
+      "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-02T17:11:21.000Z"
+    },
+    {
+      "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-02T17:01:31.000Z"
+    },
+    {
+      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-02T17:01:16.000Z"
+    },
+    {
+      "title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-02T17:00:58.000Z"
+    },
+    {
+      "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026",
+      "source": "AWS News Blog",
+      "pubDate": "2026-11-02T16:45:48.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T08:00:00.000Z"
+    },
+    {
+      "title": "Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T08:00:00.000Z"
+    },
+    {
+      "title": "Announcing an updated text detection model for Amazon Textract",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-02T08:00:00.000Z"
+    },
     {
       "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
       "link": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation",
@@ -86,20 +230,26 @@
       "pubDate": "2026-10-30T15:00:00.000Z"
     },
     {
+      "title": "Amazon Quick Introduces Quick Essentials",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials",
+      "source": "AWS What's New",
+      "pubDate": "2026-10-30T08:00:00.000Z"
+    },
+    {
       "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics",
       "source": "AWS What's New",
       "pubDate": "2026-10-30T08:00:00.000Z"
     },
     {
-      "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1",
+      "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning",
       "source": "AWS What's New",
       "pubDate": "2026-10-30T08:00:00.000Z"
     },
     {
-      "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning",
+      "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1",
       "source": "AWS What's New",
       "pubDate": "2026-10-30T08:00:00.000Z"
     },
@@ -210,156 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2",
       "source": "AWS What's New",
       "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Redshift announces hands-off automated cross-region backups",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Unified Studio now supports custom designations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T21:00:00.000Z"
-    },
-    {
-      "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T20:00:00.000Z"
-    },
-    {
-      "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T19:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:44:00.000Z"
-    },
-    {
-      "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:35:00.000Z"
-    },
-    {
-      "title": "How Revinate accelerated API adoption with Amazon API Gateway",
-      "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-28T18:32:34.000Z"
-    },
-    {
-      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-28T18:28:26.000Z"
-    },
-    {
-      "title": "Quick now supports smart approvals for agentic actions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:28:00.000Z"
-    },
-    {
-      "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
-      "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-28T18:25:50.000Z"
-    },
-    {
-      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-28T18:19:54.000Z"
-    },
-    {
-      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-28T18:12:13.000Z"
-    },
-    {
-      "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:07:00.000Z"
-    },
-    {
-      "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:00:00.000Z"
-    },
-    {
-      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T18:00:00.000Z"
-    },
-    {
-      "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T17:33:00.000Z"
-    },
-    {
-      "title": "AWS Backup adds restore testing support for Amazon Redshift",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T08:00:00.000Z"
-    },
-    {
-      "title": "Announcing the AWS Marketplace and Amazon Business unified storefront",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Agent Registry is now available in four additional AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T08:00:00.000Z"
-    },
-    {
-      "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-28T08:00:00.000Z"
-    },
-    {
-      "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
-      "link": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-10-27T23:46:13.000Z"
-    },
-    {
-      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-27T23:31:00.000Z"
-    },
-    {
-      "title": "SageMaker MLflow Apps now support MLflow 3.16",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-27T20:40:00.000Z"
     }
   ]
 }
