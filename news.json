@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-11-03T05:47:50.779Z",
+  "lastUpdated": "2026-11-04T05:22:34.963Z",
   "items": [
+    {
+      "title": "Amazon Connect Customer lets agents pause and resume emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T20:15:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T17:00:00.000Z"
+    },
+    {
+      "title": "Bring structured and unstructured data together with Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:49:29.000Z"
+    },
+    {
+      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:47:40.000Z"
+    },
+    {
+      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:43:20.000Z"
+    },
+    {
+      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:41:13.000Z"
+    },
+    {
+      "title": "Building ultra-low-latency voice AI applications on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:40:54.000Z"
+    },
+    {
+      "title": "Deep dive: Auto scaling response times on Amazon ECS",
+      "link": "https://aws.amazon.com/blogs/containers/deep-dive-auto-scaling-response-times-on-amazon-ecs",
+      "source": "AWS Containers Blog",
+      "pubDate": "2026-11-03T16:37:37.000Z"
+    },
+    {
+      "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-03T16:32:54.000Z"
+    },
+    {
+      "title": "AWS Config now supports 10 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T08:30:00.000Z"
+    },
+    {
+      "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T06:00:00.000Z"
+    },
     {
       "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions",
@@ -282,84 +360,6 @@
       "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock",
       "source": "AWS Architecture Blog",
       "pubDate": "2026-10-29T18:16:38.000Z"
-    },
-    {
-      "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T18:14:17.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T18:06:00.000Z"
-    },
-    {
-      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T16:58:57.000Z"
-    },
-    {
-      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T16:54:52.000Z"
-    },
-    {
-      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T16:11:08.000Z"
-    },
-    {
-      "title": "Amazon Aurora now supports post-quantum TLS key exchange",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T15:00:00.000Z"
-    },
-    {
-      "title": "AWS Step Functions workflows now available as AI agent tools",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T08:00:00.000Z"
     }
   ]
 }
