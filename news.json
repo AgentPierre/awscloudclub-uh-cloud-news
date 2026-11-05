@@ -1,11 +1,113 @@
 {
-  "lastUpdated": "2026-11-04T05:22:34.963Z",
+  "lastUpdated": "2026-11-05T05:42:08.074Z",
   "items": [
+    {
+      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg",
+      "source": "AWS News Blog",
+      "pubDate": "2026-11-04T23:34:52.000Z"
+    },
+    {
+      "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T21:29:00.000Z"
+    },
+    {
+      "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T19:00:00.000Z"
+    },
+    {
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-04T18:46:36.000Z"
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T18:40:00.000Z"
+    },
+    {
+      "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon Connect Customer now shows associated cases in contact records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T17:00:00.000Z"
+    },
+    {
+      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-04T16:33:03.000Z"
+    },
+    {
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-04T16:30:40.000Z"
+    },
+    {
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-04T16:25:57.000Z"
+    },
+    {
+      "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
+      "source": "AWS Machine Learning Blog",
+      "pubDate": "2026-11-04T16:23:33.000Z"
+    },
+    {
+      "title": "Amazon EC2 and VPC now display related resources for all resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T08:00:00.000Z"
+    },
+    {
+      "title": "New features for Amazon EC2 Capacity Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-04T07:00:00.000Z"
+    },
     {
       "title": "Amazon Connect Customer lets agents pause and resume emails",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email",
       "source": "AWS What's New",
       "pubDate": "2026-11-03T20:15:00.000Z"
+    },
+    {
+      "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T18:00:00.000Z"
     },
     {
       "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
@@ -70,6 +172,12 @@
     {
       "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-03T08:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry",
       "source": "AWS What's New",
       "pubDate": "2026-11-03T08:00:00.000Z"
     },
@@ -252,114 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us",
       "source": "AWS What's New",
       "pubDate": "2026-10-30T19:40:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer automatically saves in-progress emails as drafts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T19:30:00.000Z"
-    },
-    {
-      "title": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T18:20:00.000Z"
-    },
-    {
-      "title": "Amazon CloudFront now provides viewer ISP and post-quantum TLS details",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T18:15:00.000Z"
-    },
-    {
-      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-30T17:32:20.000Z"
-    },
-    {
-      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-30T17:27:45.000Z"
-    },
-    {
-      "title": "Amazon MSK now supports TLS 1.3 for data in transit",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T17:00:00.000Z"
-    },
-    {
-      "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T15:57:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer now supports versioning and aliasing for flows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T15:00:00.000Z"
-    },
-    {
-      "title": "Amazon Quick Introduces Quick Essentials",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T08:00:00.000Z"
-    },
-    {
-      "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-30T08:00:00.000Z"
-    },
-    {
-      "title": "How the UK Amazon Quick User Group grew in 2026",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T20:16:40.000Z"
-    },
-    {
-      "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
-      "source": "AWS What's New",
-      "pubDate": "2026-10-29T20:12:00.000Z"
-    },
-    {
-      "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
-      "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-29T20:11:14.000Z"
-    },
-    {
-      "title": "Building intent-driven UI testing with Amazon Nova Act",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-10-29T18:20:27.000Z"
-    },
-    {
-      "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock",
-      "source": "AWS Architecture Blog",
-      "pubDate": "2026-10-29T18:16:38.000Z"
     }
   ]
 }
