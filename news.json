@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-11-25T07:34:03.453Z",
+  "lastUpdated": "2026-11-26T07:23:23.452Z",
   "items": [
+    {
+      "title": "Make post-quantum cryptography updates routine with AWS-LC",
+      "link": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-26T00:15:29.000Z"
+    },
+    {
+      "title": "ICYMI: October 2026 @AWS Security",
+      "link": "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-25T23:04:26.000Z"
+    },
+    {
+      "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+      "link": "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-25T21:00:37.000Z"
+    },
+    {
+      "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "title": "Reduce operational overhead by migrating from AWS CloudHSM to AWS KMS",
+      "link": "https://aws.amazon.com/blogs/security/reduce-operational-overhead-by-migrating-from-aws-cloudhsm-to-aws-kms",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-25T19:54:52.000Z"
+    },
+    {
+      "title": "Planning for 99.99 percent availability with the Amazon Cognito Plus feature plan",
+      "link": "https://aws.amazon.com/blogs/security/planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan",
+      "source": "AWS Security Blog",
+      "pubDate": "2026-11-25T17:50:39.000Z"
+    },
+    {
+      "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T17:15:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T17:10:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C9gd instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T16:49:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 C9g instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T16:17:00.000Z"
+    },
+    {
+      "title": "Amazon EC2 M9g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T16:06:00.000Z"
+    },
+    {
+      "title": "Elastic Load Balancing for Envoy is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "title": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "title": "AWS IoT Core quotas and usage are now visible in AWS Service Quotas console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "title": "AWS Device Farm now supports Android emulators and iOS simulators",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-virtual-devices",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T08:00:00.000Z"
+    },
+    {
+      "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T06:00:00.000Z"
+    },
     {
       "title": "Introducing context-aware rules for AWS Network Firewall",
       "link": "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall",
@@ -110,14 +218,14 @@
       "pubDate": "2026-11-23T20:25:17.000Z"
     },
     {
-      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions",
+      "title": "Amazon API Gateway announces API Portal",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T20:00:00.000Z"
     },
     {
-      "title": "Amazon API Gateway announces API Portal",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal",
+      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T20:00:00.000Z"
     },
@@ -182,12 +290,6 @@
       "pubDate": "2026-11-23T17:00:00.000Z"
     },
     {
-      "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T17:00:00.000Z"
-    },
-    {
       "title": "Amazon SageMaker HyperPod extends AMI auto-patching to Slurm and inference on EKS",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-patching-slurm-eks-inference",
       "source": "AWS What's New",
@@ -196,6 +298,12 @@
     {
       "title": "Amazon SageMaker HyperPod now detects and recovers hung training jobs on Slurm clusters",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-slurm-hung-jobs",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-23T17:00:00.000Z"
+    },
+    {
+      "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T17:00:00.000Z"
     },
@@ -224,6 +332,12 @@
       "pubDate": "2026-11-23T17:00:00.000Z"
     },
     {
+      "title": "Amazon SageMaker HyperPod now supports NCCL profiling for training jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-23T17:00:00.000Z"
+    },
+    {
       "title": "Protect identity data with point-in-time recovery in Amazon Cognito",
       "link": "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito",
       "source": "AWS Security Blog",
@@ -246,120 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS WAF announces automated discovery and protection for API endpoints",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Device Farm launches Device Connect for local access to remote Android devices",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-device-connect",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker AI now supports viewing capacity reservations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-capacity-reservations",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T08:00:00.000Z"
-    },
-    {
-      "title": "Amazon FSx for NetApp ONTAP adds AWS CloudFormation and Console support for snapshots, clones, and data replication",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-netapp-ontap-additional-resources",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "title": "You can now copy data server-side between Amazon S3 buckets and Amazon FSx file systems with S3 Access Points",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-server-side-copy-fsx",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-22T08:00:00.000Z"
-    },
-    {
-      "title": "Meta ads is now available in AWS Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
-      "source": "AWS Machine Learning Blog",
-      "pubDate": "2026-11-22T01:59:13.000Z"
-    },
-    {
-      "title": "AWS Certificate Manager now supports Amazon N2 certificates for mTLS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-21T04:00:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Query Studio now supports saved queries",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-21T03:00:00.000Z"
-    },
-    {
-      "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-21T02:58:00.000Z"
-    },
-    {
-      "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-21T01:10:00.000Z"
     }
   ]
 }
