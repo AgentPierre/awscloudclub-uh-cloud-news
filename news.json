@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T07:23:23.452Z",
+  "lastUpdated": "2026-11-27T07:19:36.981Z",
   "items": [
+    {
+      "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-26T17:00:00.000Z"
+    },
     {
       "title": "Make post-quantum cryptography updates routine with AWS-LC",
       "link": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc",
@@ -166,6 +172,12 @@
     {
       "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-24T17:00:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service new engine now joins logs, traces, and metadata",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins",
       "source": "AWS What's New",
       "pubDate": "2026-11-24T17:00:00.000Z"
     },
@@ -346,18 +358,6 @@
     {
       "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T16:00:00.000Z"
-    },
-    {
-      "title": "Announcing metal size for Amazon EC2 G7 instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T16:00:00.000Z"
-    },
-    {
-      "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T16:00:00.000Z"
     }
