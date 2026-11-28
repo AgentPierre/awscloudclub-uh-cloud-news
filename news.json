@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-27T07:19:36.981Z",
+  "lastUpdated": "2026-11-28T06:52:02.473Z",
   "items": [
+    {
+      "title": "Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-27T22:30:00.000Z"
+    },
+    {
+      "title": "Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-27T21:03:00.000Z"
+    },
+    {
+      "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-27T19:00:00.000Z"
+    },
     {
       "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25",
@@ -60,6 +78,12 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul",
       "source": "AWS What's New",
       "pubDate": "2026-11-25T17:10:00.000Z"
+    },
+    {
+      "title": "Amazon OpenSearch Service optimised engine now publishes data to Amazon S3 Tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-publish-s3-tables",
+      "source": "AWS What's New",
+      "pubDate": "2026-11-25T17:00:00.000Z"
     },
     {
       "title": "Amazon EC2 C9gd instances now available in additional regions",
@@ -176,7 +200,7 @@
       "pubDate": "2026-11-24T17:00:00.000Z"
     },
     {
-      "title": "Amazon OpenSearch Service new engine now joins logs, traces, and metadata",
+      "title": "Amazon OpenSearch Service optimized engine supports high-cardinality query and DSL",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins",
       "source": "AWS What's New",
       "pubDate": "2026-11-24T17:00:00.000Z"
@@ -336,30 +360,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation",
       "source": "AWS What's New",
       "pubDate": "2026-11-23T17:00:00.000Z"
-    },
-    {
-      "title": "AWS Quick brings AI-ready capabilities to your existing datasets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-ai-ready-existing-datasets",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T17:00:00.000Z"
-    },
-    {
-      "title": "Amazon SageMaker HyperPod now supports NCCL profiling for training jobs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T17:00:00.000Z"
-    },
-    {
-      "title": "Protect identity data with point-in-time recovery in Amazon Cognito",
-      "link": "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito",
-      "source": "AWS Security Blog",
-      "pubDate": "2026-11-23T16:43:50.000Z"
-    },
-    {
-      "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls",
-      "source": "AWS What's New",
-      "pubDate": "2026-11-23T16:00:00.000Z"
     }
   ]
 }
